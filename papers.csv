@@ -9,7 +9,7 @@ MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation,10
 MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation,10.1007/978-3-031-16443-9_15,I2CVB,Prostate,No,None,None,None,19,Dice,Only for test
 MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation,10.1007/978-3-031-16443-9_15,PROMISE12,Prostate,No,None,None,None,37,Dice,Only for test
 nnFormer: Volumetric Medical Image Segmentation via a 3D Transformer,10.48550/arXiv.2109.03201,ACDC,Cardiac,No,None,70,10,20,Dice HD95,None
-nnFormer: Volumetric Medical Image Segmentation via a 3D Transformer,10.48550/arXiv.2109.03201,Brain Tumor MSD,Brain,No,None,387,73,24,Dice HD95,None
+nnFormer: Volumetric Medical Image Segmentation via a 3D Transformer,10.48550/arXiv.2109.03201,BRATS,Brain,No,None,387,73,24,Dice HD95,None
 nnFormer: Volumetric Medical Image Segmentation via a 3D Transformer,10.48550/arXiv.2109.03201,Synapse multi-organ CT,Aorta Gallblader Spleen Kidney Liver Pancreas Stomach,No,None,18,None,12,Dice HD95,None
 Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation,10.1007/978-3-031-25066-8_9,Synapse multi-organ CT,Aorta Gallblader Spleen Kidney Liver Pancreas Stomach,Yes,ImageNet,18,None,12,Dice AHD,None
 Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation,10.1007/978-3-031-25066-8_9,ACDC,Cardiac,Yes,ImageNet,70,10,20,Dice,None
