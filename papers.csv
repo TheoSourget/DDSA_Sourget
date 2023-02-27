@@ -1,17 +1,18 @@
-Paper,DOI,Dataset Used,Dataset Context,Transfert Learning,Transfert Dataset,Train Size,Valid Size,Test Size,Metrics Used,Notes
-Exploring Smoothness and Class-Separation for Semi-supervised Medical Image Segmentation,10.1007/978-3-031-16443-9_4,ACDC,Cardiac,No,None,70,10,10,Dice Jaccard HD95 ASD,None
-Exploring Smoothness and Class-Separation for Semi-supervised Medical Image Segmentation,10.1007/978-3-031-16443-9_4,LA,Cardiac,No,None,80,20,None,Dice Jaccard HD95 ASD,None
-MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation,10.1007/978-3-031-16443-9_15,ACDC,Cardiac,No,None,70,10,20,Dice,None
-MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation,10.1007/978-3-031-16443-9_15,ACDC-C,Cardiac,No,None,None,None,240,Dice,Only for test
-MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation,10.1007/978-3-031-16443-9_15,Combinaison M&Ms MSCMRSeg,Cardiac,No,None,None,None,195,Dice,Only for test
-MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation,10.1007/978-3-031-16443-9_15,Medical Decathlon,Prostate,No,None,22,3,7,Dice,None
-MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation,10.1007/978-3-031-16443-9_15,NCI-ISBI-2013,Prostate,No,None,None,None,60,Dice,Only for test
-MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation,10.1007/978-3-031-16443-9_15,I2CVB,Prostate,No,None,None,None,19,Dice,Only for test
-MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation,10.1007/978-3-031-16443-9_15,PROMISE12,Prostate,No,None,None,None,37,Dice,Only for test
-nnFormer: Volumetric Medical Image Segmentation via a 3D Transformer,10.48550/arXiv.2109.03201,ACDC,Cardiac,No,None,70,10,20,Dice HD95,None
-nnFormer: Volumetric Medical Image Segmentation via a 3D Transformer,10.48550/arXiv.2109.03201,BRATS,Brain,No,None,387,73,24,Dice HD95,None
-nnFormer: Volumetric Medical Image Segmentation via a 3D Transformer,10.48550/arXiv.2109.03201,Synapse multi-organ CT,Aorta Gallblader Spleen Kidney Liver Pancreas Stomach,No,None,18,None,12,Dice HD95,None
-Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation,10.1007/978-3-031-25066-8_9,Synapse multi-organ CT,Aorta Gallblader Spleen Kidney Liver Pancreas Stomach,Yes,ImageNet,18,None,12,Dice AHD,None
-Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation,10.1007/978-3-031-25066-8_9,ACDC,Cardiac,Yes,ImageNet,70,10,20,Dice,None
-TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation,10.48550/arXiv.2102.04306,Synapse multi-organ CT,Aorta Gallblader Spleen Kidney Liver Pancreas Stomach,Yes,ImageNet,18,12,None,Dice AHD,None
-TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation,10.48550/arXiv.2102.04306,ACDC,Cardiac,Yes,ImageNet,70,10,20,Dice AHD,None
+Paper,DOI,Dataset Used,Dataset Context,inline reference,reference section,footnote,legend
+Exploring Smoothness and Class-Separation for Semi-supervised Medical Image Segmentation,10.1007/978-3-031-16443-9_4,ACDC,Cardiac,yes,yes,yes,yes
+Exploring Smoothness and Class-Separation for Semi-supervised Medical Image Segmentation,10.1007/978-3-031-16443-9_4,LA,Cardiac,yes,yes,yes,yes
+MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation,10.1007/978-3-031-16443-9_15,ACDC,Cardiac,yes,yes,no,yes
+MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation,10.1007/978-3-031-16443-9_15,ACDC-C,Cardiac,yes,no,no,yes
+MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation,10.1007/978-3-031-16443-9_15,MSCMR,Cardiac,yes,yes,no,no
+MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation,10.1007/978-3-031-16443-9_15,M&Ms,Cardiac,yes,yes,no,no
+MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation,10.1007/978-3-031-16443-9_15,Medical Decathlon,Prostate,yes,yes,no,no
+MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation,10.1007/978-3-031-16443-9_15,NCI-ISBI-2013,Prostate,yes,yes,no,no
+MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation,10.1007/978-3-031-16443-9_15,I2CVB,Prostate,yes,yes,no,no
+MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation,10.1007/978-3-031-16443-9_15,PROMISE12,Prostate,yes,yes,no,no
+nnFormer: Volumetric Medical Image Segmentation via a 3D Transformer,10.48550/arXiv.2109.03201,ACDC,Cardiac,yes,yes,no,yes
+nnFormer: Volumetric Medical Image Segmentation via a 3D Transformer,10.48550/arXiv.2109.03201,BRATS,Brain,yes,yes,no,no
+nnFormer: Volumetric Medical Image Segmentation via a 3D Transformer,10.48550/arXiv.2109.03201,Synapse multi-organ CT,Aorta Gallblader Spleen Kidney Liver Pancreas Stomach,yes,no,no,yes
+Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation,10.1007/978-3-031-25066-8_9,Synapse multi-organ CT,Aorta Gallblader Spleen Kidney Liver Pancreas Stomach,yes,no,no,yes
+Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation,10.1007/978-3-031-25066-8_9,ACDC,Cardiac,yes,no,no,yes
+TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation,10.48550/arXiv.2102.04306,Synapse multi-organ CT,Aorta Gallblader Spleen Kidney Liver Pancreas Stomach,yes,no,yes,yes
+TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation,10.48550/arXiv.2102.04306,ACDC,Cardiac,yes,no,yes,yes
