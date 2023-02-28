@@ -1,0 +1,15 @@
+name,file,description,
+Paper,papers_gt.csv,Paper's name
+DOI,papers_gt.csv,Paper's DOI
+dataset_used,papers_gt.csv,Dataset's name for the current line
+dataset_context,papers_gt.csv,Which object the dataset segment (e.g cardiac for ACDC or brain for BRATS)
+inline_mention,papers_gt.csv,Yes if the dataset's name is in the text of the paper or no otherwise
+reference_section,papers_gt.csv,Yes if the datasets paper is in the reference section of the paper and no otherwise
+footnote,papers_gt.csv,Yes if the dataset is mentionned in a footnote of the paper (url or name) and no otherwise
+legend,papers_gt.csv,Yes if the dataset's name is mentionned in the legend of a figure
+dataset,datasets.csv,Name of the dataset
+DOI,datasets.csv,DOI of the Dataset's paper
+openalex_id,datasets.csv,OpenAlex ID of the dataset's paper
+context,datasets.csv,Which object the dataset segment (e.g cardiac for ACDC or brain for BRATS)
+paper,papers.csv,Paper's name
+DOI,papers.csv,Paper's DOI

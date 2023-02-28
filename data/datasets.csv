@@ -1,4 +1,4 @@
-dataset name,DOI,OpenAlex id,context
+dataset,DOI,openalex_id,context
 ACDC,10.1109/TMI.2018.2837502,https://openalex.org/W2804047627,Cardiac
 LA,10.1016/j.media.2020.101832,https://openalex.org/W3093394156,Cardiac
 PROMISE12,10.1016/j.media.2013.12.002,https://openalex.org/W2106033751,Cardiac
