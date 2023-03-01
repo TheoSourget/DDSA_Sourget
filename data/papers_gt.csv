@@ -1,4 +1,4 @@
-paper,DOI,dataset_used,dataset_context,inline_mention,reference_section,footnote,legend
+name,DOI,dataset_used,dataset_context,inline_mention,reference_section,footnote,legend
 Exploring Smoothness and Class-Separation for Semi-supervised Medical Image Segmentation,10.1007/978-3-031-16443-9_4,ACDC,Cardiac,yes,yes,yes,yes
 Exploring Smoothness and Class-Separation for Semi-supervised Medical Image Segmentation,10.1007/978-3-031-16443-9_4,LA,Cardiac,yes,yes,yes,yes
 MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation,10.1007/978-3-031-16443-9_15,ACDC,Cardiac,yes,yes,no,yes
