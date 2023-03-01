@@ -2,12 +2,12 @@ name,file,description,
 
 name,papers_gt.csv,Paper's name
 DOI,papers_gt.csv,Paper's DOI
-dataset_used,papers_gt.csv,Dataset's name for the current line
-dataset_context,papers_gt.csv,Which object the dataset segment (e.g cardiac for ACDC or brain for BRATS)
+dataset_used,papers_gt.csv,Dataset's name for the current line can be any name present in datasets.csv 'name' field
+dataset_context,papers_gt.csv,Which object the dataset segment (e.g cardiac for ACDC or brain for BRATS) same as context in datasets.csv
 inline_mention,papers_gt.csv,Yes if the dataset's name is in the text of the paper or no otherwise
 reference_section,papers_gt.csv,Yes if the datasets paper is in the reference section of the paper and no otherwise
 footnote,papers_gt.csv,Yes if the dataset is mentionned in a footnote of the paper (url or name) and no otherwise
-legend,papers_gt.csv,Yes if the dataset's name is mentionned in the legend of a figure
+legend,papers_gt.csv,Yes if the dataset's name is mentionned in a figure's legend of the paper and no otherwise
 
 name,datasets.csv,Name of the dataset
 DOI,datasets.csv,DOI of the Dataset's paper

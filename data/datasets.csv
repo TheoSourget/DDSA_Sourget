@@ -6,4 +6,5 @@ MSCMRSeg,10.48550/arxiv.2006.12434,https://openalex.org/W4312016581,Cardiac
 M&Ms,10.1109/tmi.2021.3090082,https://openalex.org/W4226199676,Prostate
 Medical Decathlon,10.1038/s41467-022-30695-9,https://openalex.org/W3172681723,Prostate
 I2CVB,10.1016/j.compbiomed.2015.02.009,https://openalex.org/W2049522781,Prostate
-BRATS,10.1109/tmi.2014.2377694,https://openalex.org/W1641498739",Multi-organ
+BRATS,10.1109/tmi.2014.2377694,https://openalex.org/W1641498739",Brain
+Synapse,10.7303/syn3193805,None,Multi-organ
