@@ -24,8 +24,10 @@ Folder in which results csv will be stored
 ---
 
 ## Usage
+
 1.Execute every extract_paper notebook to generate the references csv.
-2.Execute fusion_source notebook to obtain the final csv (merged.csv) 
+
+2.Execute fusion_source notebook to obtain the final csv (merged.csv).
 
 To add a new source, you just have to generate a csv file name paper_{name_of_your_source} with the following columns: 
 name,DOI,publication_year,dataset_used
