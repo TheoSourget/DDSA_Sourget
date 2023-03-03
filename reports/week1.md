@@ -17,6 +17,7 @@ Show my code about OpenAlex and explained how it worked to Stinna Odgaard
 * OpenCitation API is "unstable" lot of crash leading to Error 500.
 * No official API for google scholar
 * Get the "Reference type" information from the API I use for the moment
+* Not great result for paper with manual ground truth
 
 ## What would you like to work on next week ?
 * Continue to improve reference extraction
