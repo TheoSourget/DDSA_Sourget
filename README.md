@@ -23,6 +23,7 @@ Folder in which csv from API extraction will be stored
 
 ### Processed_csv:
 Folder in which csv produced with the processed data of the extraction will be stored (e.g the csv of the combination of sources will be here)
+
 ---
 
 ## Usage
