@@ -19,8 +19,10 @@ Each file starting with extract_papers is used to extract references information
 Then fusion_sources is used to combined all the generated csv files together. 
 
 ### Extracted_csv:
-Folder in which results csv will be stored
+Folder in which csv from API extraction will be stored
 
+### Processed_csv:
+Folder in which csv produced with the processed data of the extraction will be stored (e.g the csv of the combination of sources will be here)
 ---
 
 ## Usage
