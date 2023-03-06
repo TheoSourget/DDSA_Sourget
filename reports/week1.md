@@ -6,7 +6,7 @@ Show my code about OpenAlex and explained how it worked to Stinna Odgaard
 * Ahmet Akkoc git (https://github.com/madprogramer/PublicDatasets) to get ideas for the csv and also the general organisation of a project at the ITU
 * Article comparing multiple sources (https://link.springer.com/content/pdf/10.1007/s11192-020-03690-4) Maybe outdated as it's from 2020
 ## What did you achieve ?
-* Make the flowchart of the project so far
+* Make the flowchart of the project (at res/flowchart_database.jpg)
 * Create a first list of possible sources to use for extraction
 * Extraction with OpenAlex, OpenCitation COCI, OpenCitation POCI
 * Fusion of multiple sources

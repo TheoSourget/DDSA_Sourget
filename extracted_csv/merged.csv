@@ -1,655 +1,655 @@
 name,DOI,publication_year,dataset_used,task
-None,10.4172/2167-0870.1000e117,2014,PROMISE12,Cardiac
-None,10.1016/j.media.2017.07.004,2017,PROMISE12,Cardiac
-None,10.1109/TMI.2015.2496296,2016,PROMISE12,Cardiac
-None,10.1038/srep41261,2017,PROMISE12,Cardiac
-None,10.1016/j.acra.2016.03.010,2016,PROMISE12,Cardiac
-None,10.1117/12.2082255,2015,PROMISE12,Cardiac
-None,10.1002/mp.12048,2017,PROMISE12,Cardiac
-None,10.1007/s10278-017-9964-7,2017,PROMISE12,Cardiac
-None,10.1007/s10278-016-9890-0,2016,PROMISE12,Cardiac
-None,10.1186/s12880-015-0068-x,2015,PROMISE12,Cardiac
-None,10.1117/1.JMI.2.2.025002,2015,PROMISE12,Cardiac
-None,10.1155/2014/789561,2014,PROMISE12,Cardiac
-None,10.1117/1.JMI.4.4.041307,2017,PROMISE12,Cardiac
-None,10.1117/1.JMI.4.4.041302,2017,PROMISE12,Cardiac
-None,10.1117/1.JMI.3.1.014003,2016,PROMISE12,Cardiac
-None,10.1016/j.media.2016.07.009,2017,PROMISE12,Cardiac
-None,10.1117/1.JMI.3.4.046002,2016,PROMISE12,Cardiac
+Deep learning-based auto-segmentation of targets and organs-at-risk for magnetic resonance imaging only planning of prostate radiotherapy,10.1016/j.phro.2019.11.006,2019,PROMISE12,Cardiac
+Deep Learning-Based Methods for Prostate Segmentation in Magnetic Resonance Imaging,10.3390/app11020782,2021,PROMISE12,Cardiac
+Integration of Deep Learning and Active Shape Models for More Accurate Prostate Segmentation in 3D MR Images,10.3390/jimaging8050133,2022,PROMISE12,Cardiac
+Machine learning for the prediction of pseudorealistic pediatric abdominal phantoms for radiation dose reconstruction,10.1117/1.JMI.7.4.046501,2020,PROMISE12,Cardiac
+Confidence Calibration and Predictive Uncertainty Estimation for Deep Medical Image Segmentation,10.1109/TMI.2020.3006437,2020,PROMISE12,Cardiac
+Fully automated multiorgan segmentation of female pelvic magnetic resonance images with coarse‐to‐fine convolutional neural network,10.1002/mp.15268,2021,PROMISE12,Cardiac
+Automatic zonal segmentation of the prostate from 2D and 3D T2-weighted MRI and evaluation for clinical use,10.1117/1.JMI.9.2.024001,2022,PROMISE12,Cardiac
+Artificial Intelligence and Machine Learning in Prostate Cancer Patient Management—Current Trends and Future Perspectives,10.3390/diagnostics11020354,2021,PROMISE12,Cardiac
+Generalizable Multi-Site Training and Testing Of Deep Neural Networks Using Image Normalization,10.1109/isbi.2019.8759295,2019,PROMISE12,Cardiac
+Segmentation of the Prostate Transition Zone and Peripheral Zone on                     MR Images with Deep Learning,10.1148/rycan.2021200024,2021,PROMISE12,Cardiac
+Artificial intelligence with deep learning in nuclear medicine and radiology,10.1186/s40658-021-00426-y,2021,PROMISE12,Cardiac
+Automated knee cartilage segmentation for heterogeneous clinical MRI using generative adversarial networks with transfer learning,10.21037/qims-21-459,2022,PROMISE12,Cardiac
+Analysis of Geometric Performance and Dosimetric Impact of Using Automatic Contour Segmentation for Radiotherapy Planning,10.3389/fonc.2020.01762,2020,PROMISE12,Cardiac
+The promising role of new molecular biomarkers in prostate cancer: from coding and non-coding genes to artificial intelligence approaches,10.1038/s41391-022-00537-2,2022,PROMISE12,Cardiac
+Multi-Site Infant Brain Segmentation Algorithms: The iSeg-2019 Challenge,10.1109/TMI.2021.3055428,2021,PROMISE12,Cardiac
+Annotation-efficient deep learning for automatic medical image segmentation,10.1038/s41467-021-26216-9,2021,PROMISE12,Cardiac
+Automated reference tissue normalization of T2-weighted MR images of the prostate using object recognition,10.1007/s10334-020-00871-3,2021,PROMISE12,Cardiac
+Training Convolutional Networks for Prostate Segmentation With Limited Data,10.1109/access.2021.3100585,2021,PROMISE12,Cardiac
+Pseudo-T2 mapping for normalization of T2-weighted prostate MRI,10.1007/s10334-022-01003-9,2022,PROMISE12,Cardiac
+A review of deep learning-based three-dimensional medical image registration methods,10.21037/qims-21-175,2021,PROMISE12,Cardiac
+Data Augmentation and Transfer Learning to Improve Generalizability of an Automated Prostate Segmentation Model,10.2214/AJR.19.22347,2020,PROMISE12,Cardiac
+Machine Learning in Prostate MRI for Prostate Cancer: Current Status and Future Opportunities,10.3390/diagnostics12020289,2022,PROMISE12,Cardiac
+Graph-Based Deep Learning for Medical Diagnosis and Analysis: Past Present and Future,10.3390/s21144758,2021,PROMISE12,Cardiac
+AutoProstate: Towards Automated Reporting of Prostate MRI for Prostate Cancer Assessment Using Deep Learning,10.3390/cancers13236138,2021,PROMISE12,Cardiac
+Evaluation of Multimodal Algorithms for the Segmentation of Multiparametric MRI Prostate Images,10.1155/2020/8861035,2020,PROMISE12,Cardiac
+Analytical performance of aPROMISE: automated anatomic contextualization detection and quantification of [18F]DCFPyL (PSMA) imaging for standardized reporting,10.1007/s00259-021-05497-8,2022,PROMISE12,Cardiac
+Boundary Coding Representation for Organ Segmentation in Prostate Cancer Radiotherapy,10.1109/TMI.2020.3025517,2021,PROMISE12,Cardiac
+An Optimized Approach for Prostate Image Segmentation Using K-Means Clustering Algorithm with Elbow Method,10.1155/2021/4553832,2021,PROMISE12,Cardiac
+Voxelwise Prediction of Recurrent High-Grade Glioma via Proximity Estimation–Coupled Multidimensional Support Vector Machine,10.1016/j.ijrobp.2021.12.153,2022,PROMISE12,Cardiac
+MSD-Net: Multi-Scale Discriminative Network for COVID-19 Lung Infection Segmentation on CT,10.1109/ACCESS.2020.3027738,2020,PROMISE12,Cardiac
+Adversarial Confidence Learning for Medical Image Segmentation and Synthesis,10.1007/s11263-020-01321-2,2020,PROMISE12,Cardiac
+Harnessing clinical annotations to improve deep learning performance in prostate segmentation,10.1371/journal.pone.0253829,2021,PROMISE12,Cardiac
+A Quality Control System for Automated Prostate Segmentation on T2-Weighted MRI,10.3390/diagnostics10090714,2020,PROMISE12,Cardiac
+Challenge of prostate MRI segmentation on T2-weighted images: inter-observer variability and impact of prostate morphology,10.1186/s13244-021-01010-9,2021,PROMISE12,Cardiac
+Biomechanically constrained non-rigid MR-TRUS prostate registration using deep learning based 3D point cloud matching,10.1016/j.media.2020.101845,2021,PROMISE12,Cardiac
+Co-optimization Learning Network for MRI Segmentation of Ischemic Penumbra Tissues,10.3389/fninf.2021.782262,2021,PROMISE12,Cardiac
+Automatic Segmentation of Pelvic Cancers Using Deep Learning: State-of-the-Art Approaches and Challenges,10.3390/diagnostics11111964,2021,PROMISE12,Cardiac
+Investigating the Performance of Generative Adversarial Networks for Prostate Tissue Detection and Segmentation,10.3390/jimaging6090083,2020,PROMISE12,Cardiac
+Deep Learning Improves Speed and Accuracy of Prostate Gland Segmentations on Magnetic Resonance Imaging for Targeted Biopsy,10.1097/JU.0000000000001783,2021,PROMISE12,Cardiac
+Explainable AI for CNN-based prostate tumor segmentation in multi-parametric MRI correlated to whole mount histopathology,10.1186/s13014-022-02035-0,2022,PROMISE12,Cardiac
+Evolving Deep Architecture Generation with Residual Connections for Image Classification Using Particle Swarm Optimization,10.3390/s21237936,2021,PROMISE12,Cardiac
+A review of artificial intelligence in prostate cancer detection on imaging,10.1177/17562872221128791,2022,PROMISE12,Cardiac
+A Fusion Biopsy Framework for Prostate Cancer Based on Deformable Superellipses and nnU-Net,10.3390/bioengineering9080343,2022,PROMISE12,Cardiac
+Automatic segmentation of the prostate on MR images based on anatomy and deep learning,10.1117/12.2581893,2021,PROMISE12,Cardiac
+Distance-based detection of out-of-distribution silent failures for Covid-19 lung lesion segmentation,10.1016/j.media.2022.102596,2022,PROMISE12,Cardiac
+Artificial intelligence for prostate MRI: open datasets available applications and grand challenges,10.1186/s41747-022-00288-8,2022,PROMISE12,Cardiac
+Automated volumetric and statistical shape assessment of cam-type morphology of the femoral head-neck region from clinical 3D magnetic resonance images,10.21037/qims-22-332,2022,PROMISE12,Cardiac
+Automated 3D Analysis of Clinical Magnetic Resonance Images Demonstrates Significant Reductions in Cam Morphology Following Arthroscopic Intervention in Contrast to Physiotherapy,10.1016/j.asmr.2022.04.020,2022,PROMISE12,Cardiac
+Emerging Tools for Computer-Aided Diagnosis and Prognostication,10.4172/2167-0870.1000e117,2014,PROMISE12,Cardiac
+Designing image segmentation studies: Statistical power sample size and reference standard quality,10.1016/j.media.2017.07.004,2017,PROMISE12,Cardiac
+Superpixel-Based Segmentation for 3D Prostate MR Images,10.1109/TMI.2015.2496296,2016,PROMISE12,Cardiac
+Computational imaging reveals shape differences between normal and malignant prostates on MRI,10.1038/srep41261,2017,PROMISE12,Cardiac
+Computer-aided Detection of Prostate Cancer with MRI,10.1016/j.acra.2016.03.010,2016,PROMISE12,Cardiac
+A supervoxel-based segmentation method for prostate MR images,10.1117/12.2082255,2015,PROMISE12,Cardiac
+A supervoxel-based segmentation method for prostate MR images,10.1002/mp.12048,2017,PROMISE12,Cardiac
+Accuracy Validation of an Automated Method for Prostate Segmentation in Magnetic Resonance Imaging,10.1007/s10278-017-9964-7,2017,PROMISE12,Cardiac
+Gland and Zonal Segmentation of Prostate on T2W MR Images,10.1007/s10278-016-9890-0,2016,PROMISE12,Cardiac
+Metrics for evaluating 3D medical image segmentation: analysis selection and tool,10.1186/s12880-015-0068-x,2015,PROMISE12,Cardiac
+Three-dimensional nonrigid landmark-based magnetic resonance to transrectal ultrasound registration for image-guided prostate biopsy,10.1117/1.JMI.2.2.025002,2015,PROMISE12,Cardiac
+Computer Aided-Diagnosis of Prostate Cancer on Multiparametric MRI: A Technical Review of Current Research,10.1155/2014/789561,2014,PROMISE12,Cardiac
+Fully automated segmentation of prostate whole gland and transition zone in diffusion-weighted MRI using convolutional neural networks,10.1117/1.JMI.4.4.041307,2017,PROMISE12,Cardiac
+Automatic magnetic resonance prostate segmentation by deep learning with holistically nested networks,10.1117/1.JMI.4.4.041302,2017,PROMISE12,Cardiac
+Visual saliency-based active learning for prostate magnetic resonance imaging segmentation,10.1117/1.JMI.3.1.014003,2016,PROMISE12,Cardiac
+ISLES 2015 - A public evaluation benchmark for ischemic stroke lesion segmentation from multispectral MRI,10.1016/j.media.2016.07.009,2017,PROMISE12,Cardiac
+Postediting prostate magnetic resonance imaging segmentation consistency and operator time using manual and computer-assisted segmentation: multiobserver study,10.1117/1.JMI.3.4.046002,2016,PROMISE12,Cardiac
 None,10.3969/j.issn.1673-4254.2017.03.12,2017,PROMISE12,Cardiac
-None,10.18383/j.tom.2017.00005,2017,PROMISE12,Cardiac
-None,10.1088/1361-6560/ab8cd6,2020,PROMISE12,Cardiac
-None,10.1007/s11548-018-1841-4,2018,PROMISE12,Cardiac
-None,10.3390/cancers11091235,2019,PROMISE12,Cardiac
-None,10.1002/mp.14337,2020,PROMISE12,Cardiac
-None,10.3390/cancers12051204,2020,PROMISE12,Cardiac
-None,10.1371/journal.pone.0211944,2019,PROMISE12,Cardiac
-None,10.1155/2019/1464592,2019,PROMISE12,Cardiac
-None,10.1117/1.JMI.6.1.014501,2019,PROMISE12,Cardiac
-None,10.1038/s41598-019-57046-x,2020,PROMISE12,Cardiac
-None,10.1002/mp.14327,2020,PROMISE12,Cardiac
-None,10.3390/s20113183,2020,PROMISE12,Cardiac
-None,10.1117/12.2216424,2016,PROMISE12,Cardiac
-None,10.1002/mp.13416,2019,PROMISE12,Cardiac
-None,10.1117/1.JMI.6.4.044001,2019,PROMISE12,Cardiac
-None,10.1016/j.media.2019.04.008,2019,PROMISE12,Cardiac
-None,10.1109/TNNLS.2018.2870182,2019,PROMISE12,Cardiac
-None,10.1038/s41467-018-07619-7,2018,PROMISE12,Cardiac
-None,10.1117/12.2512282,2019,PROMISE12,Cardiac
-None,10.1117/1.JMI.5.2.021208,2018,PROMISE12,Cardiac
-None,10.1007/s10278-018-0169-5,2019,PROMISE12,Cardiac
-None,10.1117/1.JMI.6.1.011003,2019,PROMISE12,Cardiac
-None,10.1117/1.JMI.5.4.044507,2018,PROMISE12,Cardiac
-None,10.1117/1.JMI.5.4.044501,2018,PROMISE12,Cardiac
-None,10.1007/s00066-020-01607-x,2020,PROMISE12,Cardiac
-None,10.1016/j.media.2019.101558,2019,PROMISE12,Cardiac
-None,10.1109/TMI.2020.2973595,2020,PROMISE12,Cardiac
-None,10.1007/s00066-018-1348-5,2019,PROMISE12,Cardiac
-None,10.1016/j.phro.2019.11.006,2019,PROMISE12,Cardiac
-None,10.3390/app11020782,2021,PROMISE12,Cardiac
-None,10.3390/jimaging8050133,2022,PROMISE12,Cardiac
-None,10.1117/1.JMI.7.4.046501,2020,PROMISE12,Cardiac
-None,10.1109/TMI.2020.3006437,2020,PROMISE12,Cardiac
-None,10.1002/mp.15268,2021,PROMISE12,Cardiac
-None,10.1117/1.JMI.9.2.024001,2022,PROMISE12,Cardiac
-None,10.3390/diagnostics11020354,2021,PROMISE12,Cardiac
-None,10.1109/isbi.2019.8759295,2019,PROMISE12,Cardiac
-None,10.1148/rycan.2021200024,2021,PROMISE12,Cardiac
-None,10.1186/s40658-021-00426-y,2021,PROMISE12,Cardiac
-None,10.21037/qims-21-459,2022,PROMISE12,Cardiac
-None,10.3389/fonc.2020.01762,2020,PROMISE12,Cardiac
-None,10.1038/s41391-022-00537-2,2022,PROMISE12,Cardiac
-None,10.1109/TMI.2021.3055428,2021,PROMISE12,Cardiac
-None,10.1038/s41467-021-26216-9,2021,PROMISE12,Cardiac
-None,10.1007/s10334-020-00871-3,2021,PROMISE12,Cardiac
-None,10.1109/access.2021.3100585,2021,PROMISE12,Cardiac
-None,10.1007/s10334-022-01003-9,2022,PROMISE12,Cardiac
-None,10.21037/qims-21-175,2021,PROMISE12,Cardiac
-None,10.2214/AJR.19.22347,2020,PROMISE12,Cardiac
-None,10.3390/diagnostics12020289,2022,PROMISE12,Cardiac
-None,10.3390/s21144758,2021,PROMISE12,Cardiac
-None,10.3390/cancers13236138,2021,PROMISE12,Cardiac
-None,10.1155/2020/8861035,2020,PROMISE12,Cardiac
-None,10.1007/s00259-021-05497-8,2022,PROMISE12,Cardiac
-None,10.1109/TMI.2020.3025517,2021,PROMISE12,Cardiac
-None,10.1155/2021/4553832,2021,PROMISE12,Cardiac
-None,10.1016/j.ijrobp.2021.12.153,2022,PROMISE12,Cardiac
-None,10.1109/ACCESS.2020.3027738,2020,PROMISE12,Cardiac
-None,10.1007/s11263-020-01321-2,2020,PROMISE12,Cardiac
-None,10.1371/journal.pone.0253829,2021,PROMISE12,Cardiac
-None,10.3390/diagnostics10090714,2020,PROMISE12,Cardiac
-None,10.1186/s13244-021-01010-9,2021,PROMISE12,Cardiac
-None,10.1016/j.media.2020.101845,2021,PROMISE12,Cardiac
-None,10.3389/fninf.2021.782262,2021,PROMISE12,Cardiac
-None,10.3390/diagnostics11111964,2021,PROMISE12,Cardiac
-None,10.3390/jimaging6090083,2020,PROMISE12,Cardiac
-None,10.1097/JU.0000000000001783,2021,PROMISE12,Cardiac
-None,10.1186/s13014-022-02035-0,2022,PROMISE12,Cardiac
-None,10.3390/s21237936,2021,PROMISE12,Cardiac
-None,10.1177/17562872221128791,2022,PROMISE12,Cardiac
-None,10.3390/bioengineering9080343,2022,PROMISE12,Cardiac
-None,10.1117/12.2581893,2021,PROMISE12,Cardiac
-None,10.1016/j.media.2022.102596,2022,PROMISE12,Cardiac
-None,10.1186/s41747-022-00288-8,2022,PROMISE12,Cardiac
-None,10.21037/qims-22-332,2022,PROMISE12,Cardiac
-None,10.1016/j.asmr.2022.04.020,2022,PROMISE12,Cardiac
-None,10.1016/j.cmpb.2022.106883,2022,Medical Decathlon,Prostate
-None,10.1007/s42979-022-01166-1,2022,Medical Decathlon,Prostate
-None,10.1002/jmri.27978,2022,Medical Decathlon,Prostate
-None,10.3390/bioengineering9090467,2022,Medical Decathlon,Prostate
-None,10.3390/diagnostics12071690,2022,Medical Decathlon,Prostate
-None,10.3390/bioengineering9080343,2022,Medical Decathlon,Prostate
-None,10.3389/fnins.2022.1009581,2022,Medical Decathlon,Prostate
-None,10.1007/s11548-022-02730-z,2022,Medical Decathlon,Prostate
-None,10.1016/j.media.2022.102596,2022,Medical Decathlon,Prostate
-None,10.1038/s41598-022-16828-6,2022,Medical Decathlon,Prostate
-None,10.1148/radiol.2018181928,2019,BRATS,Brain
-None,10.1007/s40120-019-00153-8,2019,BRATS,Brain
-None,10.1109/TMI.2018.2791721,2018,BRATS,Brain
-None,10.1007/978-3-319-75238-9_31,2018,BRATS,Brain
-None,10.1371/journal.pone.0191827,2018,BRATS,Brain
-None,10.1016/j.media.2019.03.005,2019,BRATS,Brain
-None,10.1155/2019/1075434,2019,BRATS,Brain
-None,10.1007/s00285-019-01383-y,2019,BRATS,Brain
-None,10.1093/neuonc/noz095,2019,BRATS,Brain
-None,10.1109/TIP.2018.2884563,2018,BRATS,Brain
-None,10.3389/fneur.2018.00777,2018,BRATS,Brain
-None,10.1016/j.nicl.2017.10.021,2017,BRATS,Brain
-None,10.1109/TMI.2020.2964310,2020,BRATS,Brain
-None,10.3389/fncom.2019.00073,2019,BRATS,Brain
-None,10.1002/acm2.12795,2020,BRATS,Brain
-None,10.1371/journal.pone.0219724,2019,BRATS,Brain
-None,10.1146/annurev-bioeng-062117-121105,2020,BRATS,Brain
-None,10.1186/s13014-020-01553-z,2020,BRATS,Brain
-None,10.1155/2018/5693058,2018,BRATS,Brain
-None,10.1016/j.ejmp.2018.06.012,2018,BRATS,Brain
-None,10.1007/s00330-018-5595-8,2019,BRATS,Brain
-None,10.1117/12.2292930,2018,BRATS,Brain
-None,10.1155/2019/6134942,2019,BRATS,Brain
-None,10.1155/2018/1048164,2018,BRATS,Brain
-None,10.1109/TRPMS.2018.2883437,2019,BRATS,Brain
-None,10.1038/s41467-019-08546-x,2019,BRATS,Brain
-None,10.1148/radiol.2020200819,2020,BRATS,Brain
-None,10.3389/fnins.2020.00065,2020,BRATS,Brain
-None,10.3389/fncom.2020.00006,2020,BRATS,Brain
-None,10.3389/fncom.2020.00009,2020,BRATS,Brain
-None,10.1155/2017/9512370,2017,BRATS,Brain
-None,10.1109/TMI.2019.2905770,2019,BRATS,Brain
-None,10.3389/fnins.2019.00144,2019,BRATS,Brain
-None,10.1002/mp.13695,2019,BRATS,Brain
-None,10.3389/fnins.2019.00810,2019,BRATS,Brain
-None,10.1117/1.JMI.7.1.014502,2020,BRATS,Brain
-None,10.3389/fnins.2019.01182,2019,BRATS,Brain
-None,10.1016/j.neuroimage.2018.04.073,2018,BRATS,Brain
-None,10.3389/fnins.2019.00966,2019,BRATS,Brain
-None,10.1117/1.JMI.6.4.044002,2019,BRATS,Brain
-None,10.1007/978-3-319-75238-9_12,2018,BRATS,Brain
-None,10.1186/s12880-019-0369-6,2019,BRATS,Brain
-None,10.3390/genes9080382,2018,BRATS,Brain
-None,10.1186/s12967-019-2119-5,2019,BRATS,Brain
-None,10.3389/fncom.2020.00017,2020,BRATS,Brain
-None,10.1371/journal.pone.0200745,2018,BRATS,Brain
-None,10.1007/s10278-018-0111-x,2019,BRATS,Brain
-None,10.1002/mp.13624,2019,BRATS,Brain
-None,10.1155/2018/2512037,2018,BRATS,Brain
-None,10.1155/2018/4940593,2018,BRATS,Brain
-None,10.1038/sdata.2019.1,2019,BRATS,Brain
-None,10.1007/s11548-020-02222-y,2020,BRATS,Brain
-None,10.3390/e23111429,2021,BRATS,Brain
-None,10.3389/fneur.2021.609646,2021,BRATS,Brain
-None,10.3174/ajnr.A6875,2021,BRATS,Brain
-None,10.1109/JBHI.2020.2991043,2020,BRATS,Brain
-None,10.1002/ana.26303,2022,BRATS,Brain
-None,10.1117/1.JMI.9.1.014001,2022,BRATS,Brain
-None,10.1117/1.JMI.8.2.024002,2021,BRATS,Brain
-None,10.1093/neuonc/noab238,2022,BRATS,Brain
-None,10.1186/s12880-021-00728-8,2022,BRATS,Brain
-None,10.1007/978-3-030-46640-4_6,2019,BRATS,Brain
-None,10.1007/s12021-020-09477-5,2021,BRATS,Brain
-None,10.1148/radiol.2021203786,2021,BRATS,Brain
-None,10.3389/fonc.2022.796583,2022,BRATS,Brain
-None,10.1016/j.compmedimag.2021.102026,2022,BRATS,Brain
-None,10.21037/qims-20-595,2021,BRATS,Brain
-None,10.1007/978-3-030-78191-0_25,2021,BRATS,Brain
-None,10.3390/s22062084,2022,BRATS,Brain
-None,10.3390/s22062406,2022,BRATS,Brain
-None,10.1038/s41598-021-82716-0,2021,BRATS,Brain
-None,10.3390/jimaging8030055,2022,BRATS,Brain
-None,10.1109/TMI.2020.3046444,2021,BRATS,Brain
-None,10.1007/978-3-030-87196-3_51,2021,BRATS,Brain
-None,10.3390/cancers14102530,2022,BRATS,Brain
-None,10.3390/jpm11121336,2021,BRATS,Brain
-None,10.3389/fonc.2021.661123,2021,BRATS,Brain
-None,10.2196/19805,2020,BRATS,Brain
-None,10.3389/fonc.2021.734433,2021,BRATS,Brain
-None,10.1155/2021/9025470,2021,BRATS,Brain
-None,10.1186/s12911-021-01431-y,2021,BRATS,Brain
-None,10.1109/iccv.2019.00028,2019,BRATS,Brain
-None,10.1016/j.media.2020.101840,2021,BRATS,Brain
-None,10.3390/app11167488,2021,BRATS,Brain
-None,10.1007/s40336-022-00487-8,2022,BRATS,Brain
-None,10.1016/j.bspc.2019.101648,2020,BRATS,Brain
-None,10.3389/fonc.2021.788819,2021,BRATS,Brain
-None,10.1038/s41598-021-90428-8,2021,BRATS,Brain
-None,10.1038/s41598-021-90555-2,2021,BRATS,Brain
-None,10.3390/e23030279,2021,BRATS,Brain
-None,10.1148/ryai.2021210031,2021,BRATS,Brain
-None,10.1002/mp.14539,2020,BRATS,Brain
-None,10.1002/nbm.4408,2021,BRATS,Brain
-None,10.1007/s10278-021-00574-8,2022,BRATS,Brain
-None,10.3390/diagnostics12020247,2022,BRATS,Brain
-None,10.3390/diagnostics12020345,2022,BRATS,Brain
-None,10.1038/s41598-020-75015-7,2020,BRATS,Brain
-None,10.3389/fnins.2021.634557,2021,BRATS,Brain
-None,10.1007/s10278-021-00486-7,2021,BRATS,Brain
-None,10.3390/cancers13235921,2021,BRATS,Brain
-None,10.3390/cancers13236113,2021,BRATS,Brain
-None,10.3390/jcm10092030,2021,BRATS,Brain
-None,10.1155/2022/8000781,2022,BRATS,Brain
-None,10.1136/bmjopen-2020-043665,2021,BRATS,Brain
-None,10.1117/1.JMI.7.6.064006,2020,BRATS,Brain
-None,10.1155/2021/4273963,2021,BRATS,Brain
-None,10.3390/cancers13030424,2021,BRATS,Brain
-None,10.3390/cancers13184674,2021,BRATS,Brain
-None,10.3390/diagnostics11091589,2021,BRATS,Brain
-None,10.1016/j.ejmp.2021.05.003,2021,BRATS,Brain
-None,10.1186/s13244-021-01102-6,2021,BRATS,Brain
-None,10.1007/s10278-022-00602-1,2022,BRATS,Brain
-None,10.4103/jmss.JMSS_43_20,2021,BRATS,Brain
-None,10.3389/fonc.2022.816638,2022,BRATS,Brain
-None,10.1371/journal.pone.0173112,2017,BRATS,Brain
-None,10.18383/j.tom.2016.00265,2016,BRATS,Brain
-None,10.3389/fncom.2019.00058,2019,BRATS,Brain
-None,10.1016/j.media.2018.08.004,2018,BRATS,Brain
-None,10.1148/radiol.2019190613,2019,BRATS,Brain
-None,10.1049/htl.2017.0013,2018,BRATS,Brain
-None,10.1117/1.JMI.5.1.015006,2018,BRATS,Brain
-None,10.1002/mrm.27500,2019,BRATS,Brain
-None,10.3389/fnins.2020.00125,2020,BRATS,Brain
-None,10.3389/fnins.2020.00350,2020,BRATS,Brain
-None,10.1148/ryai.2020190011,2020,BRATS,Brain
-None,10.3390/cancers11060829,2019,BRATS,Brain
-None,10.1186/s12880-019-0348-y,2019,BRATS,Brain
-None,10.1038/s41597-020-0526-3,2020,BRATS,Brain
+Mask-Adapted Background Field Removal for Artifact Reduction in Quantitative Susceptibility Mapping of the Prostate,10.18383/j.tom.2017.00005,2017,PROMISE12,Cardiac
+Label-driven magnetic resonance imaging (MRI)-transrectal ultrasound (TRUS) registration using weakly supervised learning for MRI-guided prostate radiotherapy,10.1088/1361-6560/ab8cd6,2020,PROMISE12,Cardiac
+Deep dense multi-path neural network for prostate segmentation in magnetic resonance imaging,10.1007/s11548-018-1841-4,2018,PROMISE12,Cardiac
+Cancer Diagnosis Using Deep Learning: A Bibliographic Review,10.3390/cancers11091235,2019,PROMISE12,Cardiac
+Registration of presurgical MRI and histopathology images from radical prostatectomy via RAPSODI,10.1002/mp.14337,2020,PROMISE12,Cardiac
+Applications of Artificial Intelligence to Prostate Multiparametric MRI (mpMRI): Current and Emerging Trends,10.3390/cancers12051204,2020,PROMISE12,Cardiac
+Automatic classification of tissues on pelvic MRI based on relaxation times and support vector machine,10.1371/journal.pone.0211944,2019,PROMISE12,Cardiac
+A Semi-Automated Usability Evaluation Framework for Interactive Image Segmentation Systems,10.1155/2019/1464592,2019,PROMISE12,Cardiac
+Prostate zonal segmentation in 1.5T and 3T T2W MRI using a convolutional neural network,10.1117/1.JMI.6.1.014501,2019,PROMISE12,Cardiac
+Measurement of Prostate Volume with MRI (A Guide for the Perplexed): Biproximate Method with Analysis of Precision and Accuracy,10.1038/s41598-019-57046-x,2020,PROMISE12,Cardiac
+Graph‐convolutional‐network‐based interactive prostate segmentation in MR images,10.1002/mp.14327,2020,PROMISE12,Cardiac
+Evaluation of Deep Neural Networks for Semantic Segmentation of Prostate in T2W MRI,10.3390/s20113183,2020,PROMISE12,Cardiac
+Patch-based label fusion for automatic multi-atlas-based prostate segmentation in MR images,10.1117/12.2216424,2016,PROMISE12,Cardiac
+Deeply supervised 3D fully convolutional networks with group dilated convolution for automatic<scp>MRI</scp>prostate segmentation,10.1002/mp.13416,2019,PROMISE12,Cardiac
+Active learning strategy and hybrid training for infarct segmentation on diffusion MRI with a U-shaped network,10.1117/1.JMI.6.4.044001,2019,PROMISE12,Cardiac
+An algorithm for learning shape and appearance models without annotations,10.1016/j.media.2019.04.008,2019,PROMISE12,Cardiac
+STRAINet: Spatially Varying sTochastic Residual AdversarIal Networks for MRI Pelvic Organ Segmentation,10.1109/TNNLS.2018.2870182,2019,PROMISE12,Cardiac
+Why rankings of biomedical image analysis competitions should be interpreted with care,10.1038/s41467-018-07619-7,2018,PROMISE12,Cardiac
+A semiautomatic approach for prostate segmentation in MR images using local texture classification and statistical shape modeling,10.1117/12.2512282,2019,PROMISE12,Cardiac
+PSNet: prostate segmentation on MRI based on a convolutional neural network,10.1117/1.JMI.5.2.021208,2018,PROMISE12,Cardiac
+Image Annotation by Eye Tracking: Accuracy and Precision of Centerlines of Obstructed Small-Bowel Segments Placed Using Eye Trackers,10.1007/s10278-018-0169-5,2019,PROMISE12,Cardiac
+Integration of spatial information in convolutional neural networks for automatic segmentation of intraoperative transrectal ultrasound images,10.1117/1.JMI.6.1.011003,2019,PROMISE12,Cardiac
+Prostate cancer detection from multi-institution multiparametric MRIs using deep convolutional neural networks,10.1117/1.JMI.5.4.044507,2018,PROMISE12,Cardiac
+PROSTATEx Challenges for computerized classification of prostate lesions from multiparametric magnetic resonance images,10.1117/1.JMI.5.4.044501,2018,PROMISE12,Cardiac
+Segmentation of prostate and prostate zones using deep learning,10.1007/s00066-020-01607-x,2020,PROMISE12,Cardiac
+Automatic segmentation of prostate MRI using convolutional neural networks: Investigating the impact of network architecture on the accuracy of volume measurement and MRI-ultrasound registration,10.1016/j.media.2019.101558,2019,PROMISE12,Cardiac
+Generalizing Deep Learning for Medical Image Segmentation to Unseen Domains via Deep Stacked Transformation,10.1109/TMI.2020.2973595,2020,PROMISE12,Cardiac
+Towards a universal MRI atlas of the prostate and prostate zones,10.1007/s00066-018-1348-5,2019,PROMISE12,Cardiac
+WVALE: Weak variational autoencoder for localisation and enhancement of COVID-19 lung infections,10.1016/j.cmpb.2022.106883,2022,Medical Decathlon,Prostate
+Survey of Supervised Learning for Medical Image Processing,10.1007/s42979-022-01166-1,2022,Medical Decathlon,Prostate
+<scp>Cross‐Cohort</scp>            Automatic Knee            <scp>MRI</scp>            Segmentation With            <scp>Multi‐Planar U‐Nets</scp>,10.1002/jmri.27978,2022,Medical Decathlon,Prostate
+Decision Support System for Liver Lesion Segmentation Based on Advanced Convolutional Neural Network Architectures,10.3390/bioengineering9090467,2022,Medical Decathlon,Prostate
+Exploiting the Dixon Method for a Robust Breast and Fibro-Glandular Tissue Segmentation in Breast MRI,10.3390/diagnostics12071690,2022,Medical Decathlon,Prostate
+A Fusion Biopsy Framework for Prostate Cancer Based on Deformable Superellipses and nnU-Net,10.3390/bioengineering9080343,2022,Medical Decathlon,Prostate
+A medical image segmentation method based on multi-dimensional statistical features,10.3389/fnins.2022.1009581,2022,Medical Decathlon,Prostate
+Efficient contour-based annotation by iterative deep learning for organ segmentation from volumetric medical images,10.1007/s11548-022-02730-z,2022,Medical Decathlon,Prostate
+Distance-based detection of out-of-distribution silent failures for Covid-19 lung lesion segmentation,10.1016/j.media.2022.102596,2022,Medical Decathlon,Prostate
+A lightweight neural network with multiscale feature enhancement for liver CT segmentation,10.1038/s41598-022-16828-6,2022,Medical Decathlon,Prostate
+Multi-Modal Glioblastoma Segmentation: Man versus Machine,10.1371/journal.pone.0096873,2014,BRATS,Brain
+The pediatric template of brain perfusion,10.1038/sdata.2015.3,2015,BRATS,Brain
+Automated Glioblastoma Segmentation Based on a Multiparametric Structured Unsupervised Classification,10.1371/journal.pone.0125143,2015,BRATS,Brain
+A deep learning model integrating FCNNs and CRFs for brain tumor segmentation,10.1016/j.media.2017.10.002,2018,BRATS,Brain
+Semi-automated segmentation of pre-operative low grade gliomas in magnetic resonance imaging,10.1186/s40644-015-0047-z,2015,BRATS,Brain
+PItcHPERFeCT: Primary Intracranial Hemorrhage Probability Estimation using Random Forests on CT,10.1016/j.nicl.2017.02.007,2017,BRATS,Brain
+Multi-channel MRI segmentation of eye structures and tumors using patient-specific features,10.1371/journal.pone.0173900,2017,BRATS,Brain
+Brain extraction in pediatric ADC maps toward characterizing neuro-development in multi-platform and multi-institution clinical images,10.1016/j.neuroimage.2015.08.002,2015,BRATS,Brain
+Theoretical model for laser ablation outcome predictions in brain: calibration and validation on clinical MR thermometry images,10.1080/02656736.2017.1319974,2018,BRATS,Brain
+A Generative Probabilistic Model and Discriminative Extensions for Brain Lesion Segmentation— With Application to Tumor and Stroke,10.1109/TMI.2015.2502596,2016,BRATS,Brain
+Virtual Raters for Reproducible and Objective Assessments in Radiology,10.1038/srep25007,2016,BRATS,Brain
+Multiscale CNNs for Brain Tumor Segmentation and Diagnosis,10.1155/2016/8356294,2016,BRATS,Brain
+Combining Generative Models for Multifocal Glioma Segmentation and Registration,10.1007/978-3-319-10404-1_95,2014,BRATS,Brain
+A deep convolutional neural network-based automatic delineation strategy for multiple brain metastases stereotactic radiosurgery,10.1371/journal.pone.0185844,2017,BRATS,Brain
+Improved brain tumor segmentation by utilizing tumor growth model in longitudinal brain MRI,10.1117/12.2254034,2017,BRATS,Brain
+Hippocampal subfield and medial temporal cortical persistent activity during working memory reflects ongoing encoding,10.3389/fnsys.2015.00030,2015,BRATS,Brain
+A Combined Random Forests and Active Contour Model Approach for Fully Automatic Segmentation of the Left Atrium in Volumetric MRI,10.1155/2017/8381094,2017,BRATS,Brain
+Fully Automated Enhanced Tumor Compartmentalization: Man vs. Machine Reloaded,10.1371/journal.pone.0165302,2016,BRATS,Brain
+Semi-automated brain tumor segmentation on multi-parametric MRI using regularized non-negative matrix factorization,10.1186/s12880-017-0198-4,2017,BRATS,Brain
+Multimodal imaging patterns predict survival in recurrent glioblastoma          patients treated with bevacizumab,10.1093/neuonc/now086,2016,BRATS,Brain
+Disjunctive normal shape models,10.1109/ISBI.2015.7164170,2015,BRATS,Brain
+A structural and functional magnetic resonance imaging dataset of brain tumour patients,10.1038/sdata.2016.3,2016,BRATS,Brain
+Automated Segmentation of Hyperintense Regions in FLAIR MRI Using Deep Learning,10.18383/j.tom.2016.00166,2016,BRATS,Brain
+Brain tumor segmentation using holistically nested neural networks in MRI images,10.1002/mp.12481,2017,BRATS,Brain
+Deep Convolutional Neural Networks for Computer-Aided Detection: CNN Architectures Dataset Characteristics and Transfer Learning,10.1109/TMI.2016.2528162,2016,BRATS,Brain
+Semiautomated Workflow for Clinically Streamlined Glioma Parametric Response Mapping,10.18383/j.tom.2016.00181,2016,BRATS,Brain
+A robust statistics driven volume-scalable active contour for segmenting anatomical structures in volumetric medical images with complex conditions,10.1186/s12938-016-0153-6,2016,BRATS,Brain
+The successive projection algorithm as an initialization method for brain tumor segmentation using non-negative matrix factorization,10.1371/journal.pone.0180268,2017,BRATS,Brain
+Assessing variability in brain tumor segmentation to improve volumetric accuracy and characterization of change,10.1109/BHI.2016.7455914,2016,BRATS,Brain
+Longitudinal multiple sclerosis lesion segmentation: Resource and challenge,10.1016/j.neuroimage.2016.12.064,2017,BRATS,Brain
+Fully automatic acute ischemic lesion segmentation in DWI using convolutional neural networks,10.1016/j.nicl.2017.06.016,2017,BRATS,Brain
+Deep Learning for Brain MRI Segmentation: State of the Art and Future Directions,10.1007/s10278-017-9983-4,2017,BRATS,Brain
+Effective user interaction in online interactive semantic segmentation of glioblastoma magnetic resonance imaging,10.1117/1.JMI.4.3.034001,2017,BRATS,Brain
+Groupwise registration of MR brain images with tumors,10.1088/1361-6560/aa7c41,2017,BRATS,Brain
+Multi-atlas segmentation of biomedical images: A survey,10.1016/j.media.2015.06.012,2015,BRATS,Brain
+Glioblastoma Segmentation: Comparison of Three Different Software Packages,10.1371/journal.pone.0164891,2016,BRATS,Brain
+A Novel GBM Saliency Detection Model Using Multi-Channel MRI,10.1371/journal.pone.0146388,2016,BRATS,Brain
+Deep Learning based Radiomics (DLR) and its usage in noninvasive IDH1 prediction for low grade glioma,10.1038/s41598-017-05848-2,2017,BRATS,Brain
+Combining deep learning with anatomical analysis for segmentation of the portal vein for liver SBRT planning,10.1088/1361-6560/aa9262,2017,BRATS,Brain
+ISLES 2015 - A public evaluation benchmark for ischemic stroke lesion segmentation from multispectral MRI,10.1016/j.media.2016.07.009,2017,BRATS,Brain
+Expertise Affects Inter-Observer Agreement at Peripheral Locations within a Brain Tumor,10.3389/fpsyg.2017.01628,2017,BRATS,Brain
+Prognostic Imaging Biomarkers in Glioblastoma: Development and Independent Validation on the Basis of Multiregion and Quantitative Analysis of MR Images,10.1148/radiol.2015150358,2016,BRATS,Brain
+Automated brain tumour detection and segmentation using superpixel-based extremely randomized trees in FLAIR MRI,10.1007/s11548-016-1483-3,2017,BRATS,Brain
+Clinical Evaluation of a Fully-automatic Segmentation Method for Longitudinal Brain Tumor Volumetry,10.1038/srep23376,2016,BRATS,Brain
+A model evaluation study for treatment planning of laser-induced thermal therapy,10.3109/02656736.2015.1055831,2015,BRATS,Brain
+Connectivity precedes function in the development of the visual word form area,10.1038/nn.4354,2016,BRATS,Brain
+ITK-SNAP: An interactive tool for semi-automatic segmentation of multi-modality biomedical images,10.1109/EMBC.2016.7591443,2016,BRATS,Brain
+Comparison of unsupervised classification methods for brain tumor segmentation using multi-parametric MRI,10.1016/j.nicl.2016.09.021,2016,BRATS,Brain
+Fully automatic GBM segmentation in the TCGA-GBM dataset: Prognosis and correlation with VASARI features,10.1038/srep16822,2015,BRATS,Brain
+Brain Lesions Introduction,10.1007/978-3-319-30858-6_1,2016,BRATS,Brain
+Segmentation of Gliomas in Pre-operative and Post-operative Multimodal Magnetic Resonance Imaging Volumes Based on a Hybrid Generative-Discriminative Framework,10.1007/978-3-319-55524-9_18,2016,BRATS,Brain
+Radiomics in Brain Tumor: Image Assessment Quantitative Feature Descriptors and Machine-Learning Approaches,10.3174/ajnr.A5391,2018,BRATS,Brain
+Low-Rank Atlas Image Analyses in the Presence of Pathologies,10.1109/TMI.2015.2448556,2015,BRATS,Brain
+Diffusion tensor image features predict IDH genotype in newly diagnosed WHO grade II/III gliomas,10.1038/s41598-017-13679-4,2017,BRATS,Brain
+Advancing The Cancer Genome Atlas glioma MRI collections with expert segmentation labels and radiomic features,10.1038/sdata.2017.117,2017,BRATS,Brain
+Emerging Applications of Artificial Intelligence in                     Neuro-Oncology,10.1148/radiol.2018181928,2019,BRATS,Brain
+Deep Learning and Neurology: A Systematic Review,10.1007/s40120-019-00153-8,2019,BRATS,Brain
+Interactive Medical Image Segmentation Using Deep Learning With Image-Specific Fine Tuning,10.1109/TMI.2018.2791721,2018,BRATS,Brain
+Glioblastoma and Survival Prediction,10.1007/978-3-319-75238-9_31,2018,BRATS,Brain
+Hybrid two-stage active contour method with region and edge information for intensity inhomogeneous image segmentation,10.1371/journal.pone.0191827,2018,BRATS,Brain
+A modality-adaptive method for segmenting brain tumors and organs-at-risk in radiation therapy planning,10.1016/j.media.2019.03.005,2019,BRATS,Brain
+Automated Segmentation of Colorectal Tumor in 3D MRI Using 3D Multiscale Densely Connected Convolutional Neural Network,10.1155/2019/1075434,2019,BRATS,Brain
+Simulation of glioblastoma growth using a 3D multispecies tumor model with mass effect,10.1007/s00285-019-01383-y,2019,BRATS,Brain
+Prediction of IDH genotype in gliomas with dynamic susceptibility contrast perfusion MR imaging using an explainable recurrent neural network,10.1093/neuonc/noz095,2019,BRATS,Brain
+A New Multi-Atlas Registration Framework for Multimodal Pathological Images Using Conventional Monomodal Normal Atlases,10.1109/TIP.2018.2884563,2018,BRATS,Brain
+Segmentation of Peripheral Nerves From Magnetic Resonance Neurography: A Fully-Automatic Deep Learning-Based Approach,10.3389/fneur.2018.00777,2018,BRATS,Brain
+Reorganization of the somatosensory cortex in hemiplegic cerebral palsy associated with impaired sensory tracts,10.1016/j.nicl.2017.10.021,2017,BRATS,Brain
+Deep Learning of Imaging Phenotype and Genotype for Predicting Overall Survival Time of Glioblastoma Patients,10.1109/TMI.2020.2964310,2020,BRATS,Brain
+Robustness of Radiomics for Survival Prediction of Brain Tumor Patients Depending on Resection Status,10.3389/fncom.2019.00073,2019,BRATS,Brain
+Impact of image preprocessing methods on reproducibility of radiomic features in multimodal magnetic resonance imaging in glioblastoma,10.1002/acm2.12795,2020,BRATS,Brain
+Multiscale multimodal analysis of tumor heterogeneity in IDH1 mutant vs wild-type diffuse gliomas,10.1371/journal.pone.0219724,2019,BRATS,Brain
+Integrated Biophysical Modeling and Image Analysis: Application to Neuro-Oncology,10.1146/annurev-bioeng-062117-121105,2020,BRATS,Brain
+Fully automated brain resection cavity delineation for radiation target volume definition in glioblastoma patients using deep learning,10.1186/s13014-020-01553-z,2020,BRATS,Brain
+Towards More Structure: Comparing TNM Staging Completeness and Processing Time of Text-Based Reports versus Fully Segmented and Annotated PET/CT Data of Non-Small-Cell Lung Cancer,10.1155/2018/5693058,2018,BRATS,Brain
+Segmentation of parotid glands from registered CT and MR images,10.1016/j.ejmp.2018.06.012,2018,BRATS,Brain
+Fully automated detection and segmentation of meningiomas using deep learning on routine multiparametric MRI,10.1007/s00330-018-5595-8,2019,BRATS,Brain
+Deep learning and texture-based semantic label fusion for brain tumor segmentation,10.1117/12.2292930,2018,BRATS,Brain
+Medical Image Segmentation Algorithm Based on Feedback Mechanism CNN,10.1155/2019/6134942,2019,BRATS,Brain
+Rank-Two NMF Clustering for Glioblastoma Characterization,10.1155/2018/1048164,2018,BRATS,Brain
+Advances in Computational Human Phantoms and Their Applications in Biomedical Engineering—A Topical Review,10.1109/TRPMS.2018.2883437,2019,BRATS,Brain
+Correspondence between cerebral glucose metabolism and BOLD reveals relative power and cost in human brain,10.1038/s41467-019-08546-x,2019,BRATS,Brain
+Fellow in a Box: Combining AI and Domain Knowledge with Bayesian                     Networks for Differential Diagnosis in Neuroimaging,10.1148/radiol.2020200819,2020,BRATS,Brain
+Systematic Evaluation of Image Tiling Adverse Effects on Deep Learning Semantic Segmentation,10.3389/fnins.2020.00065,2020,BRATS,Brain
+Demystifying Brain Tumor Segmentation Networks: Interpretability and Uncertainty Analysis,10.3389/fncom.2020.00006,2020,BRATS,Brain
+Segmenting Brain Tumor Using Cascaded V-Nets in Multimodal MR Images,10.3389/fncom.2020.00009,2020,BRATS,Brain
+Application of Deep Learning in Automated Analysis of Molecular Images in Cancer: A Survey,10.1155/2017/9512370,2017,BRATS,Brain
+Standardized Assessment of Automatic Segmentation of White Matter Hyperintensities and Results of the WMH Segmentation Challenge,10.1109/TMI.2019.2905770,2019,BRATS,Brain
+Supervised Brain Tumor Segmentation Based on Gradient and Context-Sensitive Features,10.3389/fnins.2019.00144,2019,BRATS,Brain
+Cross‐modality (CT‐MRI) prior augmented deep learning for robust lung tumor segmentation from small MR datasets,10.1002/mp.13695,2019,BRATS,Brain
+Brain Tumor Segmentation and Survival Prediction Using Multimodal MRI Scans With Deep Learning,10.3389/fnins.2019.00810,2019,BRATS,Brain
+Anatomically consistent CNN-based segmentation of organs-at-risk in cranial radiotherapy,10.1117/1.JMI.7.1.014502,2020,BRATS,Brain
+Divide and Conquer: Stratifying Training Data by Tumor Grade Improves Deep Learning-Based Brain Tumor Segmentation,10.3389/fnins.2019.01182,2019,BRATS,Brain
+Brain extraction from normal and pathological images: A joint PCA/Image-Reconstruction approach,10.1016/j.neuroimage.2018.04.073,2018,BRATS,Brain
+Feature-Guided Deep Radiomics for Glioblastoma Patient Survival Prediction,10.3389/fnins.2019.00966,2019,BRATS,Brain
+Denoising and contrast-enhancement approach of magnetic resonance imaging glioblastoma brain tumors,10.1117/1.JMI.6.4.044002,2019,BRATS,Brain
+Brain Cancer Imaging Phenomics Toolkit (brain-CaPTk): An Interactive Platform for Quantitative Analysis of Glioblastoma,10.1007/978-3-319-75238-9_12,2018,BRATS,Brain
+Automatic glioma segmentation based on adaptive superpixel,10.1186/s12880-019-0369-6,2019,BRATS,Brain
+Multimodal 3D DenseNet for IDH Genotype Prediction in Gliomas,10.3390/genes9080382,2018,BRATS,Brain
+Mining multi-site clinical data to develop machine learning MRI biomarkers: application to neonatal hypoxic ischemic encephalopathy,10.1186/s12967-019-2119-5,2019,BRATS,Brain
+Deep Learning-Based Concurrent Brain Registration and Tumor Segmentation,10.3389/fncom.2020.00017,2020,BRATS,Brain
+Automated glioma detection and segmentation using graphical models,10.1371/journal.pone.0200745,2018,BRATS,Brain
+A New Optimized Thresholding Method Using Ant Colony Algorithm for MR Brain Image Segmentation,10.1007/s10278-018-0111-x,2019,BRATS,Brain
+Reliability of tumor segmentation in glioblastoma: Impact on the robustness of MRI‐radiomic features,10.1002/mp.13624,2019,BRATS,Brain
+Computer-Aided Grading of Gliomas Combining Automatic Segmentation and Radiomics,10.1155/2018/2512037,2018,BRATS,Brain
+Automatic Semantic Segmentation of Brain Gliomas from MRI Images Using a Deep Cascaded Neural Network,10.1155/2018/4940593,2018,BRATS,Brain
+Manually-parcellated gyral data accounting for all known anatomical variability,10.1038/sdata.2019.1,2019,BRATS,Brain
+Manual segmentation versus semi-automated segmentation for quantifying vestibular schwannoma volume on MRI,10.1007/s11548-020-02222-y,2020,BRATS,Brain
+An Interval Iteration Based Multilevel Thresholding Algorithm for Brain MR Image Segmentation,10.3390/e23111429,2021,BRATS,Brain
+A computed tomography vertebral segmentation dataset with anatomical variations and multi-vendor scanner data,10.1038/s41597-021-01060-0,2021,BRATS,Brain
+External validation of deep learning-based contouring of head and neck organs at risk,10.1016/j.phro.2020.06.006,2020,BRATS,Brain
+Deep Volumetric Segmentation of Murine Cochlear Compartments from Micro-Computed Tomography Images,10.1109/EMBC44109.2020.9176596,2020,BRATS,Brain
+Brain MR Image Enhancement for Tumor Segmentation Using 3D U-Net,10.3390/s21227528,2021,BRATS,Brain
+A New Model for Brain Tumor Detection Using Ensemble Transfer Learning and Quantum Variational Classifier,10.1155/2022/3236305,2022,BRATS,Brain
+A Deep Network for Joint Registration and Reconstruction of Images with Pathologies,10.1007/978-3-030-59861-7_35,2020,BRATS,Brain
+A novel fully automated MRI-based deep-learning method for classification of 1p/19q co-deletion status in brain gliomas,10.1093/noajnl/vdaa066,2020,BRATS,Brain
+Confidence Calibration and Predictive Uncertainty Estimation for Deep Medical Image Segmentation,10.1109/TMI.2020.3006437,2020,BRATS,Brain
+PSIGAN: Joint Probabilistic Segmentation and Image Distribution Matching for Unpaired Cross-Modality Adaptation-Based MRI Segmentation,10.1109/TMI.2020.3011626,2020,BRATS,Brain
+A weakly supervised deep learning-based method for glioma subtype classification using WSI and mpMRIs,10.1038/s41598-022-09985-1,2022,BRATS,Brain
+Cascaded mutual enhancing networks for brain tumor subregion segmentation in multiparametric MRI,10.1088/1361-6560/ac5ed8,2022,BRATS,Brain
+An efficient magnetic resonance image data quality screening dashboard,10.1002/acm2.13557,2022,BRATS,Brain
+Deep learning‐based convolutional neural network for intramodality brain MRI synthesis,10.1002/acm2.13530,2022,BRATS,Brain
+Artificial intelligence and machine learning for medical imaging: A technology review,10.1016/j.ejmp.2021.04.016,2021,BRATS,Brain
+Accelerated 3D whole-brain T1 T2 and proton density mapping: feasibility for clinical glioma MR imaging,10.1007/s00234-021-02703-0,2021,BRATS,Brain
+BIAS: Transparent reporting of biomedical image analysis challenges,10.1016/j.media.2020.101796,2020,BRATS,Brain
+Survival of glioblastoma in relation to tumor location: a statistical tumor atlas of a population-based cohort,10.1007/s00701-021-04802-6,2021,BRATS,Brain
+Survey of Image Processing Techniques for Brain Pathology Diagnosis: Challenges and Opportunities,10.3389/frobt.2018.00120,2018,BRATS,Brain
+Construction of a prognostic immune signature for lower grade glioma that can be recognized by MRI radiomics features to predict survival in LGG patients,10.1016/j.tranon.2021.101065,2021,BRATS,Brain
+Phase II Trial of Proton Therapy vs. Photon IMRT for GBM: Secondary Analysis Comparison of Progression Free Survival between RANO vs. Clinical Assessment,10.1093/noajnl/vdab073,2021,BRATS,Brain
+Fully automated hybrid approach to predict the <i>IDH</i> mutation status of gliomas via deep learning and radiomics,10.1093/neuonc/noaa177,2021,BRATS,Brain
+A novel 2-phase residual U-net algorithm combined with optimal mass transportation for 3D brain tumor detection and segmentation,10.1038/s41598-022-10285-x,2022,BRATS,Brain
+Convolutional Neural Networks for Semantic Segmentation as a Tool for Multiclass Face Analysis in Thermal Infrared,10.1007/s10921-020-00740-y,2021,BRATS,Brain
+Convolutional neural networks in medical image understanding: a survey,10.1007/s12065-020-00540-3,2022,BRATS,Brain
+Transfer Learning-Based Autosegmentation of Primary Tumor Volumes of Glioblastomas Using Preoperative MRI for Radiotherapy Treatment,10.3389/fonc.2022.856346,2022,BRATS,Brain
+Repeatability of Automated Image Segmentation with BraTumIA in Patients with Recurrent Glioblastoma,10.3174/ajnr.A7071,2021,BRATS,Brain
+Context aware deep learning for brain tumor segmentation subtype classification and survival prediction using radiology images,10.1038/s41598-020-74419-9,2020,BRATS,Brain
+Deep Convolutional Neural Network With a Multi-Scale Attention Feature Fusion Module for Segmentation of Multimodal Brain Tumor,10.3389/fnins.2021.782968,2021,BRATS,Brain
+A medical image enhancement based on generalized class of fractional partial differential equations,10.21037/qims-21-15,2022,BRATS,Brain
+Variability and reproducibility in deep learning for medical image segmentation,10.1038/s41598-020-69920-0,2020,BRATS,Brain
+A Modified Higher-Order Singular Value Decomposition Framework With Adaptive Multilinear Tensor Rank Approximation for Three-Dimensional Magnetic Resonance Rician Noise Removal,10.3389/fonc.2020.01640,2020,BRATS,Brain
+Deep neural network to locate and segment brain tumors outperformed the expert technicians who created the training data,10.1117/1.JMI.7.5.055501,2020,BRATS,Brain
+Stratification by Tumor Grade Groups in a Holistic Evaluation of Machine Learning for Brain Tumor Segmentation,10.3389/fnins.2021.740353,2021,BRATS,Brain
+Glioblastoma Surgery Imaging—Reporting and Data System: Standardized Reporting of Tumor Volume Location and Resectability Based on Automated Segmentations,10.3390/cancers13122854,2021,BRATS,Brain
+Does Anatomical Contextual Information Improve 3D U-Net-Based Brain Tumor Segmentation?,10.3390/diagnostics11071159,2021,BRATS,Brain
+Brain Tumor Segmentation Based on Deep Learning’s Feature Representation,10.3390/jimaging7120269,2021,BRATS,Brain
+Deep Learning–based Automatic Lung Segmentation on                     Multiresolution CT Scans from Healthy and Fibrotic Lungs in Mice,10.1148/ryai.210095,2022,BRATS,Brain
+Magnetic Resonance Imaging Correlates of Immune Microenvironment in Glioblastoma,10.3389/fonc.2022.823812,2022,BRATS,Brain
+Brain MR Atlas Construction Using Symmetric Deep Neural Inpainting,10.1109/JBHI.2022.3149754,2022,BRATS,Brain
+Comparison of wavelet transformations to enhance convolutional neural network performance in brain tumor segmentation,10.1186/s12911-021-01687-4,2021,BRATS,Brain
+Fine-Tuning Approach for Segmentation of Gliomas in Brain Magnetic Resonance Images with a Machine Learning Method to Normalize Image Differences among Facilities,10.3390/cancers13061415,2021,BRATS,Brain
+XGBoost Improves Classification of MGMT Promoter Methylation Status in IDH1 Wildtype Glioblastoma,10.3390/jpm10030128,2020,BRATS,Brain
+Deep learning for glioblastoma segmentation using preoperative magnetic resonance imaging identifies volumetric features associated with survival,10.1007/s00701-020-04483-7,2020,BRATS,Brain
+CardioNet: a manually curated database for artificial intelligence-based research on cardiovascular diseases,10.1186/s12911-021-01392-2,2021,BRATS,Brain
+Image-based personalization of computational models for predicting response of high-grade glioma to chemoradiation,10.1038/s41598-021-87887-4,2021,BRATS,Brain
+Modelling glioma progression mass effect and intracranial pressure in patient anatomy,10.1098/rsif.2021.0922,2022,BRATS,Brain
+Robust joint registration of multiple stains and MRI for multimodal 3D histology reconstruction: Application to the Allen human brain atlas,10.1016/j.media.2021.102265,2022,BRATS,Brain
+Efficient Radiomics-Based Classification of Multi-Parametric MR Images to Identify Volumetric Habitats and Signatures in Glioblastoma: A Machine Learning Approach,10.3390/cancers14061475,2022,BRATS,Brain
+Tumor Connectomics: Mapping the Intra-Tumoral Complex Interaction Network Using Machine Learning,10.3390/cancers14061481,2022,BRATS,Brain
+Generalised Dice Overlap as a Deep Learning Loss Function for Highly Unbalanced Segmentations,10.1007/978-3-319-67558-9_28,2017,BRATS,Brain
+Multimodal MRI Brain Tumor Image Segmentation Using Sparse Subspace Clustering Algorithm,10.1155/2020/8620403,2020,BRATS,Brain
+Embracing the disharmony in medical imaging: A Simple and effective framework for domain adaptation,10.1016/j.media.2021.102309,2022,BRATS,Brain
+Deep semi-supervised learning for brain tumor classification,10.1186/s12880-020-00485-0,2020,BRATS,Brain
+Convolutional neural networks for head and neck tumor segmentation on 7-channel multiparametric MRI: a leave-one-out analysis,10.1186/s13014-020-01618-z,2020,BRATS,Brain
+Machine learning approaches to study glioblastoma: A review of the last decade of applications,10.1002/cnr2.1226,2019,BRATS,Brain
+A low resource 3D U-Net based deep learning model for medical image analysis,10.1007/s41870-021-00850-4,2022,BRATS,Brain
+Automated Acquisition Planning for Magnetic Resonance Spectroscopy in Brain Cancer,10.1007/978-3-030-59728-3_71,2020,BRATS,Brain
+Progressive disease in glioblastoma: Benefits and limitations of semi-automated volumetry,10.1371/journal.pone.0173112,2017,BRATS,Brain
+Computational Challenges and Collaborative Projects in the NCI Quantitative Imaging Network,10.18383/j.tom.2016.00265,2016,BRATS,Brain
+A Multi-parametric MRI-Based Radiomics Signature and a Practical ML Model for Stratifying Glioblastoma Patients Based on Survival Toward Precision Oncology,10.3389/fncom.2019.00058,2019,BRATS,Brain
+Algorithms for left atrial wall segmentation and thickness – Evaluation on an open-source CT and MRI image database,10.1016/j.media.2018.08.004,2018,BRATS,Brain
+A Roadmap for Foundational Research on Artificial Intelligence in                     Medical Imaging: From the 2018 NIH/RSNA/ACR/The Academy Workshop,10.1148/radiol.2019190613,2019,BRATS,Brain
+Relevance of two manual tumour volume estimation methods for diffuse low‐grade gliomas,10.1049/htl.2017.0013,2018,BRATS,Brain
+Family of boundary overlap metrics for the evaluation of medical image segmentation,10.1117/1.JMI.5.1.015006,2018,BRATS,Brain
+Lesion segmentation for MR spectroscopic imaging using the convolution difference method,10.1002/mrm.27500,2019,BRATS,Brain
+BraTS Toolkit: Translating BraTS Brain Tumor Segmentation Algorithms Into Clinical and Scientific Practice,10.3389/fnins.2020.00125,2020,BRATS,Brain
+3D-BoxSup: Positive-Unlabeled Learning of Brain Tumor Segmentation Networks From 3D Bounding Boxes,10.3389/fnins.2020.00350,2020,BRATS,Brain
+Three-Plane–assembled Deep Learning Segmentation of Gliomas,10.1148/ryai.2020190011,2020,BRATS,Brain
+Optimizing Neuro-Oncology Imaging: A Review of Deep Learning Approaches for Glioma Imaging,10.3390/cancers11060829,2019,BRATS,Brain
+A potential field segmentation based method for tumor segmentation on multi-parametric MRI of glioma cancer patients,10.1186/s12880-019-0348-y,2019,BRATS,Brain
+BAGLS a multihospital Benchmark for Automatic Glottis Segmentation,10.1038/s41597-020-0526-3,2020,BRATS,Brain
 None,10.3969/j.issn.1673-4254.2018.06.04,2018,BRATS,Brain
-None,10.1109/ISBI.2017.7950456,2017,BRATS,Brain
-None,10.1148/radiol.2020192224,2020,BRATS,Brain
-None,10.1371/journal.pone.0187209,2017,BRATS,Brain
-None,10.1148/radiol.2020191621,2020,BRATS,Brain
-None,10.1117/1.JMI.7.3.031505,2020,BRATS,Brain
-None,10.1093/neuonc/noz162,2019,BRATS,Brain
-None,10.1038/s41598-017-14753-7,2017,BRATS,Brain
-None,10.18383/j.tom.2018.00016,2018,BRATS,Brain
-None,10.1016/j.neuroimage.2018.08.003,2018,BRATS,Brain
-None,10.1002/jmri.27129,2020,BRATS,Brain
-None,10.1093/neuonc/noz184,2020,BRATS,Brain
-None,10.3389/fnins.2019.00333,2019,BRATS,Brain
-None,10.3174/ajnr.A5543,2018,BRATS,Brain
-None,10.1155/2019/9414937,2019,BRATS,Brain
-None,10.1016/j.nicl.2019.101727,2019,BRATS,Brain
-None,10.1155/2019/1758948,2019,BRATS,Brain
-None,10.7717/peerj.5982,2018,BRATS,Brain
-None,10.1002/jmri.26907,2020,BRATS,Brain
-None,10.3389/fncom.2019.00056,2019,BRATS,Brain
-None,10.3389/fnins.2020.00027,2020,BRATS,Brain
-None,10.1007/s12021-018-9385-x,2019,BRATS,Brain
-None,10.1117/1.JMI.4.4.041311,2017,BRATS,Brain
-None,10.1109/ISBI.2018.8363864,2018,BRATS,Brain
-None,10.3389/fnins.2019.01449,2020,BRATS,Brain
-None,10.3389/fncom.2020.00003,2020,BRATS,Brain
-None,10.18383/j.tom.2019.00026,2020,BRATS,Brain
-None,10.1007/978-3-319-46630-9_10,2016,BRATS,Brain
-None,10.1016/j.mri.2018.11.014,2019,BRATS,Brain
-None,10.1038/s41598-017-18453-0,2018,BRATS,Brain
-None,10.1117/1.JMI.6.2.024501,2019,BRATS,Brain
-None,10.18383/j.tom.2019.00010,2019,BRATS,Brain
-None,10.1016/j.nicl.2020.102185,2020,BRATS,Brain
-None,10.1109/TMI.2019.2959609,2020,BRATS,Brain
-None,10.1038/s41598-020-63242-x,2020,BRATS,Brain
-None,10.1002/mp.14168,2020,BRATS,Brain
-None,10.1007/s10278-018-0117-4,2019,BRATS,Brain
-None,10.1016/j.mri.2019.04.012,2019,BRATS,Brain
-None,10.1038/s41598-019-49740-7,2019,BRATS,Brain
-None,10.1109/TIP.2019.2919937,2019,BRATS,Brain
-None,10.1038/sdata.2018.251,2018,BRATS,Brain
-None,10.3389/fnins.2020.00282,2020,BRATS,Brain
-None,10.3389/fncom.2020.00025,2020,BRATS,Brain
-None,10.1109/TPAMI.2018.2840695,2019,BRATS,Brain
-None,10.1109/TMI.2018.2824243,2018,BRATS,Brain
-None,10.1109/TVCG.2018.2796085,2019,BRATS,Brain
-None,10.1117/1.JMI.6.3.034002,2019,BRATS,Brain
-None,10.1186/s13007-020-0563-0,2020,BRATS,Brain
-None,10.1002/cam4.1863,2018,BRATS,Brain
-None,10.1007/978-3-319-66179-7_10,2017,BRATS,Brain
-None,10.3348/kjr.2018.0070,2019,BRATS,Brain
-None,10.1038/s41598-020-60550-0,2020,BRATS,Brain
-None,10.1038/s41598-020-60520-6,2020,BRATS,Brain
-None,10.15265/IY-2017-041,2017,BRATS,Brain
-None,10.1155/2017/4037190,2017,BRATS,Brain
-None,10.1155/2017/9283480,2017,BRATS,Brain
-None,10.1007/s11548-020-02186-z,2020,BRATS,Brain
-None,10.3389/fncom.2020.00032,2020,BRATS,Brain
-None,10.1097/RLI.0000000000000484,2018,BRATS,Brain
-None,10.1007/s11548-019-02011-2,2019,BRATS,Brain
-None,10.1002/hbm.24750,2019,BRATS,Brain
-None,10.1016/j.neucom.2019.01.103,2019,BRATS,Brain
-None,10.1016/j.nicl.2019.102118,2020,BRATS,Brain
-None,10.1186/s12880-020-0409-2,2020,BRATS,Brain
-None,10.1007/s10278-020-00347-9,2020,BRATS,Brain
-None,10.1117/1.JMI.6.4.044001,2019,BRATS,Brain
-None,10.1007/s00259-020-04897-6,2020,BRATS,Brain
-None,10.1117/1.JMI.6.2.024005,2019,BRATS,Brain
-None,10.1038/s41598-020-64803-w,2020,BRATS,Brain
-None,10.3389/fnhum.2018.00166,2018,BRATS,Brain
-None,10.4251/wjgo.v11.i12.1218,2019,BRATS,Brain
-None,10.1038/s41598-018-22980-9,2018,BRATS,Brain
-None,10.3389/fnins.2019.00844,2019,BRATS,Brain
-None,10.3174/ajnr.A5675,2018,BRATS,Brain
-None,10.1038/s41467-018-07619-7,2018,BRATS,Brain
-None,10.3389/fncom.2019.00081,2019,BRATS,Brain
-None,10.3389/fncom.2019.00083,2019,BRATS,Brain
-None,10.3389/fncom.2019.00084,2019,BRATS,Brain
-None,10.1007/978-3-030-11723-8_9,2019,BRATS,Brain
-None,10.1109/TMI.2018.2857800,2019,BRATS,Brain
-None,10.1016/j.media.2019.101539,2019,BRATS,Brain
-None,10.1093/neuonc/noz199,2020,BRATS,Brain
-None,10.1186/s40644-019-0256-y,2019,BRATS,Brain
-None,10.3389/fncom.2019.00052,2019,BRATS,Brain
-None,10.1038/s41598-018-21678-2,2018,BRATS,Brain
-None,10.1007/s00066-020-01626-8,2020,BRATS,Brain
-None,10.1016/j.cmpb.2018.01.025,2018,BRATS,Brain
-None,10.1371/journal.pone.0228972,2020,BRATS,Brain
-None,10.3390/diagnostics10020110,2020,BRATS,Brain
-None,10.1007/978-3-030-32226-7_25,2019,BRATS,Brain
-None,10.3389/fncom.2019.00044,2019,BRATS,Brain
-None,10.1117/1.JMI.6.3.034001,2019,BRATS,Brain
-None,10.3389/fncom.2020.00010,2020,BRATS,Brain
-None,10.1109/TMI.2019.2901712,2019,BRATS,Brain
-None,10.1155/2022/3514988,2022,BRATS,Brain
-None,10.1007/978-3-031-09002-8_1,2021,BRATS,Brain
-None,10.1038/s41598-022-13739-4,2022,BRATS,Brain
-None,10.1097/RMR.0000000000000296,2022,BRATS,Brain
-None,10.3390/s22176501,2022,BRATS,Brain
-None,10.1038/s41598-022-18173-0,2022,BRATS,Brain
-None,10.1038/s41597-022-01560-7,2022,BRATS,Brain
-None,10.1002/acm2.13739,2022,BRATS,Brain
-None,10.3389/fonc.2022.969907,2022,BRATS,Brain
-None,10.1002/acm2.13758,2022,BRATS,Brain
-None,10.1136/bmjopen-2021-059000,2022,BRATS,Brain
-None,10.1155/2022/8750648,2022,BRATS,Brain
-None,10.3390/brainsci12091145,2022,BRATS,Brain
-None,10.3390/cancers14184399,2022,BRATS,Brain
-None,10.1007/s00330-022-09113-7,2022,BRATS,Brain
-None,10.3389/fnins.2022.916818,2022,BRATS,Brain
-None,10.1038/s41597-022-01415-1,2022,BRATS,Brain
-None,10.3389/fonc.2022.942511,2022,BRATS,Brain
-None,10.3389/fonc.2022.892056,2022,BRATS,Brain
-None,10.1155/2022/6305748,2022,BRATS,Brain
-None,10.1155/2022/8747487,2022,BRATS,Brain
-None,10.1371/journal.pone.0096873,2014,BRATS,Brain
-None,10.1038/sdata.2015.3,2015,BRATS,Brain
-None,10.1371/journal.pone.0125143,2015,BRATS,Brain
-None,10.1016/j.media.2017.10.002,2018,BRATS,Brain
-None,10.1186/s40644-015-0047-z,2015,BRATS,Brain
-None,10.1016/j.nicl.2017.02.007,2017,BRATS,Brain
-None,10.1371/journal.pone.0173900,2017,BRATS,Brain
-None,10.1016/j.neuroimage.2015.08.002,2015,BRATS,Brain
-None,10.1080/02656736.2017.1319974,2018,BRATS,Brain
-None,10.1109/TMI.2015.2502596,2016,BRATS,Brain
-None,10.1038/srep25007,2016,BRATS,Brain
-None,10.1155/2016/8356294,2016,BRATS,Brain
-None,10.1007/978-3-319-10404-1_95,2014,BRATS,Brain
-None,10.1371/journal.pone.0185844,2017,BRATS,Brain
-None,10.1117/12.2254034,2017,BRATS,Brain
-None,10.3389/fnsys.2015.00030,2015,BRATS,Brain
-None,10.1155/2017/8381094,2017,BRATS,Brain
-None,10.1371/journal.pone.0165302,2016,BRATS,Brain
-None,10.1186/s12880-017-0198-4,2017,BRATS,Brain
-None,10.1093/neuonc/now086,2016,BRATS,Brain
-None,10.1109/ISBI.2015.7164170,2015,BRATS,Brain
-None,10.1038/sdata.2016.3,2016,BRATS,Brain
-None,10.18383/j.tom.2016.00166,2016,BRATS,Brain
-None,10.1002/mp.12481,2017,BRATS,Brain
-None,10.1109/TMI.2016.2528162,2016,BRATS,Brain
-None,10.18383/j.tom.2016.00181,2016,BRATS,Brain
-None,10.1186/s12938-016-0153-6,2016,BRATS,Brain
-None,10.1371/journal.pone.0180268,2017,BRATS,Brain
-None,10.1109/BHI.2016.7455914,2016,BRATS,Brain
-None,10.1016/j.neuroimage.2016.12.064,2017,BRATS,Brain
-None,10.1016/j.nicl.2017.06.016,2017,BRATS,Brain
-None,10.1007/s10278-017-9983-4,2017,BRATS,Brain
-None,10.1117/1.JMI.4.3.034001,2017,BRATS,Brain
-None,10.1088/1361-6560/aa7c41,2017,BRATS,Brain
-None,10.1016/j.media.2015.06.012,2015,BRATS,Brain
-None,10.1371/journal.pone.0164891,2016,BRATS,Brain
-None,10.1371/journal.pone.0146388,2016,BRATS,Brain
-None,10.1038/s41598-017-05848-2,2017,BRATS,Brain
-None,10.1088/1361-6560/aa9262,2017,BRATS,Brain
-None,10.1016/j.neuroimage.2020.117081,2020,BRATS,Brain
-None,10.1016/j.media.2020.101862,2021,BRATS,Brain
-None,10.1093/noajnl/vdab004,2021,BRATS,Brain
-None,10.1038/s41598-020-69250-1,2020,BRATS,Brain
-None,10.1109/cvpr46437.2021.00245,2021,BRATS,Brain
-None,10.3390/jpm10040224,2020,BRATS,Brain
-None,10.1136/bmjopen-2020-042660,2021,BRATS,Brain
-None,10.1016/j.neuroimage.2021.117756,2021,BRATS,Brain
-None,10.1002/nbm.4754,2022,BRATS,Brain
-None,10.1007/s00330-022-08807-2,2022,BRATS,Brain
-None,10.1371/journal.pone.0267213,2022,BRATS,Brain
-None,10.1155/2022/7882924,2022,BRATS,Brain
-None,10.1038/s41597-021-01060-0,2021,BRATS,Brain
-None,10.1016/j.phro.2020.06.006,2020,BRATS,Brain
-None,10.1109/EMBC44109.2020.9176596,2020,BRATS,Brain
-None,10.3390/s21227528,2021,BRATS,Brain
-None,10.1155/2022/3236305,2022,BRATS,Brain
-None,10.1007/978-3-030-59861-7_35,2020,BRATS,Brain
-None,10.1093/noajnl/vdaa066,2020,BRATS,Brain
-None,10.1109/TMI.2020.3006437,2020,BRATS,Brain
-None,10.1109/TMI.2020.3011626,2020,BRATS,Brain
-None,10.1038/s41598-022-09985-1,2022,BRATS,Brain
-None,10.1088/1361-6560/ac5ed8,2022,BRATS,Brain
-None,10.1002/acm2.13557,2022,BRATS,Brain
-None,10.1002/acm2.13530,2022,BRATS,Brain
-None,10.1016/j.ejmp.2021.04.016,2021,BRATS,Brain
-None,10.1007/s00234-021-02703-0,2021,BRATS,Brain
-None,10.1016/j.media.2020.101796,2020,BRATS,Brain
-None,10.1007/s00701-021-04802-6,2021,BRATS,Brain
-None,10.3389/frobt.2018.00120,2018,BRATS,Brain
-None,10.1016/j.tranon.2021.101065,2021,BRATS,Brain
-None,10.1093/noajnl/vdab073,2021,BRATS,Brain
-None,10.1093/neuonc/noaa177,2021,BRATS,Brain
-None,10.1038/s41598-022-10285-x,2022,BRATS,Brain
-None,10.1007/s10921-020-00740-y,2021,BRATS,Brain
-None,10.1007/s12065-020-00540-3,2022,BRATS,Brain
-None,10.3389/fonc.2022.856346,2022,BRATS,Brain
-None,10.3174/ajnr.A7071,2021,BRATS,Brain
-None,10.1038/s41598-020-74419-9,2020,BRATS,Brain
-None,10.3389/fnins.2021.782968,2021,BRATS,Brain
-None,10.21037/qims-21-15,2022,BRATS,Brain
-None,10.1038/s41598-020-69920-0,2020,BRATS,Brain
-None,10.3389/fonc.2020.01640,2020,BRATS,Brain
-None,10.1117/1.JMI.7.5.055501,2020,BRATS,Brain
-None,10.3389/fnins.2021.740353,2021,BRATS,Brain
-None,10.3390/cancers13122854,2021,BRATS,Brain
-None,10.3390/diagnostics11071159,2021,BRATS,Brain
-None,10.3390/jimaging7120269,2021,BRATS,Brain
-None,10.1148/ryai.210095,2022,BRATS,Brain
-None,10.3389/fonc.2022.823812,2022,BRATS,Brain
-None,10.1109/JBHI.2022.3149754,2022,BRATS,Brain
-None,10.1186/s12911-021-01687-4,2021,BRATS,Brain
-None,10.3390/cancers13061415,2021,BRATS,Brain
-None,10.3390/jpm10030128,2020,BRATS,Brain
-None,10.1007/s00701-020-04483-7,2020,BRATS,Brain
-None,10.1186/s12911-021-01392-2,2021,BRATS,Brain
-None,10.1038/s41598-021-87887-4,2021,BRATS,Brain
-None,10.1098/rsif.2021.0922,2022,BRATS,Brain
-None,10.1016/j.media.2021.102265,2022,BRATS,Brain
-None,10.3390/cancers14061475,2022,BRATS,Brain
-None,10.3390/cancers14061481,2022,BRATS,Brain
-None,10.1007/978-3-319-67558-9_28,2017,BRATS,Brain
-None,10.1155/2020/8620403,2020,BRATS,Brain
-None,10.1016/j.media.2021.102309,2022,BRATS,Brain
-None,10.1186/s12880-020-00485-0,2020,BRATS,Brain
-None,10.1186/s13014-020-01618-z,2020,BRATS,Brain
-None,10.1002/cnr2.1226,2019,BRATS,Brain
-None,10.1007/s41870-021-00850-4,2022,BRATS,Brain
-None,10.1007/978-3-030-59728-3_71,2020,BRATS,Brain
-None,10.1186/s12880-021-00639-8,2021,BRATS,Brain
-None,10.3389/fncom.2020.00061,2020,BRATS,Brain
-None,10.3389/fmed.2021.653925,2021,BRATS,Brain
-None,10.3389/fninf.2021.805669,2022,BRATS,Brain
-None,10.14791/btrt.2021.0031,2022,BRATS,Brain
-None,10.3389/fnagi.2022.826622,2022,BRATS,Brain
-None,10.3389/fonc.2021.756828,2022,BRATS,Brain
-None,10.3390/s22051960,2022,BRATS,Brain
-None,10.3390/diagnostics11020169,2021,BRATS,Brain
-None,10.3389/fonc.2021.679952,2021,BRATS,Brain
-None,10.1038/s41598-021-82017-6,2021,BRATS,Brain
-None,10.1155/2021/6615411,2021,BRATS,Brain
-None,10.1016/j.compmedimag.2020.101828,2021,BRATS,Brain
-None,10.3174/ajnr.A7363,2022,BRATS,Brain
-None,10.1177/20552076221074122,2022,BRATS,Brain
-None,10.1002/mp.14556,2020,BRATS,Brain
-None,10.1088/1361-6420/ab649c,2020,BRATS,Brain
-None,10.1117/12.2566505,2020,BRATS,Brain
-None,10.1038/s41746-020-00323-1,2020,BRATS,Brain
-None,10.3390/s22020523,2022,BRATS,Brain
-None,10.1038/s41598-022-12646-y,2022,BRATS,Brain
-None,10.3390/cancers13246186,2021,BRATS,Brain
-None,10.1007/s11571-021-09774-y,2022,BRATS,Brain
-None,10.1155/2022/2858845,2022,BRATS,Brain
-None,10.4103/jmss.jmss_128_21,2022,BRATS,Brain
-None,10.3389/fonc.2022.924245,2022,BRATS,Brain
-None,10.1117/12.2607895,2022,BRATS,Brain
-None,10.1155/2022/7935346,2022,BRATS,Brain
-None,10.3389/fonc.2022.950706,2022,BRATS,Brain
-None,10.1109/isbi52829.2022.9761629,2022,BRATS,Brain
-None,10.1088/1361-6560/ac9449,2022,BRATS,Brain
-None,10.3389/fneur.2022.932219,2022,BRATS,Brain
-None,10.1007/978-3-030-72084-1_39,2020,BRATS,Brain
-None,10.21037/qims-22-34,2022,BRATS,Brain
-None,10.1155/2022/1541980,2022,BRATS,Brain
-None,10.3390/diagnostics12071657,2022,BRATS,Brain
-None,10.1109/JBHI.2022.3185956,2022,BRATS,Brain
-None,10.3390/medicina58081090,2022,BRATS,Brain
-None,10.1038/s41598-022-14039-7,2022,BRATS,Brain
-None,10.1038/s41598-022-15623-7,2022,BRATS,Brain
-None,10.1148/ryai.220107,2022,BRATS,Brain
-None,10.1038/s41746-022-00699-2,2022,BRATS,Brain
-None,10.1038/s41598-022-14983-4,2022,BRATS,Brain
-None,10.1007/s10278-022-00655-2,2022,BRATS,Brain
-None,10.1038/s41598-022-19356-5,2022,BRATS,Brain
-None,10.3390/s22187007,2022,BRATS,Brain
-None,10.1117/1.JMI.9.3.036001,2022,BRATS,Brain
-None,10.3390/cancers14163897,2022,BRATS,Brain
-None,10.3389/fninf.2022.1006532,2022,BRATS,Brain
-None,10.3390/cancers14112623,2022,BRATS,Brain
-None,10.3390/cancers14112676,2022,BRATS,Brain
-None,10.1186/s12859-022-04794-9,2022,BRATS,Brain
-None,10.1038/s41467-022-30695-9,2022,BRATS,Brain
-None,10.3389/fnins.2022.1009581,2022,BRATS,Brain
-None,10.3389/fnins.2022.1000587,2022,BRATS,Brain
-None,10.3390/brainsci12060797,2022,BRATS,Brain
-None,10.1007/s00117-022-01051-1,2022,BRATS,Brain
-None,10.1186/s13014-022-02137-9,2022,BRATS,Brain
-None,10.3348/jksr.2020.0150,2020,BRATS,Brain
-None,10.3389/fninf.2022.919779,2022,BRATS,Brain
-None,10.1016/j.media.2016.07.009,2017,BRATS,Brain
-None,10.3389/fpsyg.2017.01628,2017,BRATS,Brain
-None,10.1148/radiol.2015150358,2016,BRATS,Brain
-None,10.1007/s11548-016-1483-3,2017,BRATS,Brain
-None,10.1038/srep23376,2016,BRATS,Brain
-None,10.3109/02656736.2015.1055831,2015,BRATS,Brain
-None,10.1038/nn.4354,2016,BRATS,Brain
-None,10.1109/EMBC.2016.7591443,2016,BRATS,Brain
-None,10.1016/j.nicl.2016.09.021,2016,BRATS,Brain
-None,10.1038/srep16822,2015,BRATS,Brain
-None,10.1007/978-3-319-30858-6_1,2016,BRATS,Brain
-None,10.1007/978-3-319-55524-9_18,2016,BRATS,Brain
-None,10.3174/ajnr.A5391,2018,BRATS,Brain
-None,10.1109/TMI.2015.2448556,2015,BRATS,Brain
-None,10.1038/s41598-017-13679-4,2017,BRATS,Brain
-None,10.1038/sdata.2017.117,2017,BRATS,Brain
-None,10.1007/s10278-021-00507-5,2021,BRATS,Brain
-None,10.1117/1.JMI.8.3.031905,2021,BRATS,Brain
-None,10.1148/ryai.2020190103,2020,BRATS,Brain
-None,10.3389/frai.2021.635766,2021,BRATS,Brain
-None,10.1155/2021/9356452,2021,BRATS,Brain
-None,10.1038/s41598-022-05572-6,2022,BRATS,Brain
-None,10.3389/fnins.2022.883584,2022,BRATS,Brain
-None,10.3389/frai.2022.780405,2022,BRATS,Brain
-None,10.3390/s20154203,2020,BRATS,Brain
-None,10.1007/s11042-022-12316-1,2022,BRATS,Brain
-None,10.1038/s41467-020-19449-7,2020,BRATS,Brain
-None,10.1007/s13042-022-01536-4,2022,BRATS,Brain
-None,10.1148/ryai.2021200276,2021,BRATS,Brain
-None,10.1148/ryai.2021200301,2021,BRATS,Brain
-None,10.1148/radiol.210817,2022,BRATS,Brain
-None,10.1007/s12021-021-09555-2,2022,BRATS,Brain
-None,10.1007/s00530-021-00884-5,2022,BRATS,Brain
-None,10.1109/TMI.2021.3084748,2021,BRATS,Brain
-None,10.3389/fncom.2020.495075,2021,BRATS,Brain
-None,10.1007/s11548-021-02433-x,2021,BRATS,Brain
-None,10.1007/s11263-020-01321-2,2020,BRATS,Brain
-None,10.3389/fonc.2021.690244,2021,BRATS,Brain
-None,10.1016/j.media.2022.102424,2022,BRATS,Brain
-None,10.1371/journal.pone.0253829,2021,BRATS,Brain
-None,10.1049/htl2.12005,2021,BRATS,Brain
-None,10.1007/s11548-021-02451-9,2021,BRATS,Brain
-None,10.1038/s42256-020-0227-9,2020,BRATS,Brain
-None,10.1007/s00330-020-07297-4,2021,BRATS,Brain
-None,10.1007/s00429-022-02508-8,2022,BRATS,Brain
-None,10.1109/trpms.2018.2890359,2019,BRATS,Brain
-None,10.1016/j.eswa.2021.115637,2021,BRATS,Brain
-None,10.3390/s21217018,2021,BRATS,Brain
-None,10.3390/cancers13215546,2021,BRATS,Brain
-None,10.1186/s40644-020-00329-8,2020,BRATS,Brain
-None,10.1038/s41598-021-87564-6,2021,BRATS,Brain
-None,10.3390/healthcare9010054,2021,BRATS,Brain
-None,10.3389/fonc.2021.761169,2021,BRATS,Brain
-None,10.3390/diagnostics11101856,2021,BRATS,Brain
-None,10.3390/cancers13205047,2021,BRATS,Brain
-None,10.1016/j.zemedi.2021.11.006,2022,BRATS,Brain
-None,10.1155/2022/7315665,2022,BRATS,Brain
-None,10.1007/s11548-022-02619-x,2022,BRATS,Brain
-None,10.1109/isbi48211.2021.9433897,2021,BRATS,Brain
-None,10.1186/s12880-022-00812-7,2022,BRATS,Brain
-None,10.1371/journal.pone.0250964,2021,BRATS,Brain
-None,10.3390/healthcare9020153,2021,BRATS,Brain
-None,10.3174/ajnr.A6982,2021,BRATS,Brain
-None,10.1155/2021/6653879,2021,BRATS,Brain
-None,10.1016/j.adro.2021.100746,2021,BRATS,Brain
-None,10.1109/TMI.2021.3108910,2022,BRATS,Brain
-None,10.3390/jimaging7040066,2021,BRATS,Brain
-None,10.3390/jimaging6110121,2020,BRATS,Brain
-None,10.3390/jimaging7020019,2021,BRATS,Brain
-None,10.3390/jimaging7020022,2021,BRATS,Brain
-None,10.3390/jimaging7080133,2021,BRATS,Brain
-None,10.1016/j.media.2021.101972,2021,BRATS,Brain
-None,10.1109/TMI.2021.3079709,2021,BRATS,Brain
-None,10.1038/s41598-021-89686-3,2021,BRATS,Brain
-None,10.1016/j.neuroimage.2020.117368,2020,BRATS,Brain
-None,10.1155/2022/5898479,2022,BRATS,Brain
-None,10.3389/fphys.2022.878391,2022,BRATS,Brain
-None,10.3389/fnins.2022.911065,2022,BRATS,Brain
-None,10.3389/fgene.2022.937042,2022,BRATS,Brain
-None,10.3390/cancers14122818,2022,BRATS,Brain
-None,10.1093/noajnl/vdac083,2022,BRATS,Brain
-None,10.1093/neuonc/noac166,2022,BRATS,Brain
-None,10.3390/s22145292,2022,BRATS,Brain
-None,10.3390/jimaging8070190,2022,BRATS,Brain
-None,10.3390/diagnostics12081878,2022,BRATS,Brain
-None,10.3389/fonc.2022.873268,2022,BRATS,Brain
-None,10.3389/fnins.2022.918623,2022,BRATS,Brain
-None,10.3389/fnins.2022.837646,2022,BRATS,Brain
-None,10.1093/noajnl/vdac081,2022,BRATS,Brain
-None,10.1148/ryai.210243,2022,BRATS,Brain
-None,10.1109/TBME.2021.3117407,2022,BRATS,Brain
-None,10.1155/2021/6678031,2021,BRATS,Brain
-None,10.1007/s10278-022-00653-4,2022,BRATS,Brain
-None,10.1186/s40537-021-00414-0,2021,BRATS,Brain
-None,10.3174/ajnr.A7029,2021,BRATS,Brain
-None,10.1186/s12911-020-1109-0,2020,BRATS,Brain
-None,10.3390/jimaging7110231,2021,BRATS,Brain
-None,10.1155/2022/5641727,2022,BRATS,Brain
-None,10.1016/j.adro.2022.100987,2022,BRATS,Brain
-None,10.3389/fnins.2021.752780,2021,BRATS,Brain
-None,10.1007/978-3-030-72084-1_15,2021,BRATS,Brain
-None,10.1038/s41746-021-00398-4,2021,BRATS,Brain
-None,10.1002/acm2.13321,2021,BRATS,Brain
-None,10.1093/braincomms/fcab264,2021,BRATS,Brain
-None,10.3390/diagnostics12041017,2022,BRATS,Brain
-None,10.3390/diagnostics12041018,2022,BRATS,Brain
-None,10.1117/1.JMI.8.3.034003,2021,BRATS,Brain
-None,10.1038/s41598-021-94071-1,2021,BRATS,Brain
-None,10.1007/s11060-022-04042-3,2022,BRATS,Brain
-None,10.21037/qims-21-919,2022,BRATS,Brain
-None,10.1093/noajnl/vdaa092,2021,BRATS,Brain
-None,10.1093/noajnl/vdaa054,2021,BRATS,Brain
-None,10.1631/jzus.B2000381,2021,BRATS,Brain
-None,10.1093/brain/awaa277,2020,BRATS,Brain
-None,10.1016/j.artmed.2021.102078,2021,BRATS,Brain
-None,10.1038/s41598-020-68857-8,2020,BRATS,Brain
-None,10.3390/diagnostics11020346,2021,BRATS,Brain
-None,10.3390/e23020223,2021,BRATS,Brain
-None,10.3390/jimaging7090179,2021,BRATS,Brain
-None,10.1155/2021/3741104,2021,BRATS,Brain
-None,10.1155/2020/8125392,2020,BRATS,Brain
-None,10.3390/diagnostics11081393,2021,BRATS,Brain
-None,10.1038/s41467-020-17478-w,2020,BRATS,Brain
-None,10.1109/trpms.2020.3030611,2021,BRATS,Brain
-None,10.1007/s00330-021-08035-0,2021,BRATS,Brain
-None,10.3389/fmed.2021.705071,2021,BRATS,Brain
-None,10.1186/s12859-021-04347-6,2021,BRATS,Brain
-None,10.1063/5.0086789,2022,BRATS,Brain
-None,10.3389/fonc.2022.856231,2022,BRATS,Brain
-None,10.1002/mp.14902,2021,BRATS,Brain
-None,10.1002/mp.15195,2022,BRATS,Brain
-None,10.1016/j.nicl.2020.102323,2020,BRATS,Brain
-None,10.3389/frai.2021.582928,2021,BRATS,Brain
-None,10.1093/braincomms/fcab289,2021,BRATS,Brain
-None,10.3390/brainsci10070427,2020,BRATS,Brain
-None,10.3390/diagnostics11112043,2021,BRATS,Brain
+Efficient registration of pathological images: A joint PCA/image-reconstruction approach,10.1109/ISBI.2017.7950456,2017,BRATS,Brain
+Preparing Medical Imaging Data for Machine Learning,10.1148/radiol.2020192224,2020,BRATS,Brain
+Volumetric brain tumour detection from MRI using visual saliency,10.1371/journal.pone.0187209,2017,BRATS,Brain
+Deep Learning for Automatic Calcium Scoring in CT: Validation Using                    Multiple Cardiac CT and Chest CT Protocols,10.1148/radiol.2020191621,2020,BRATS,Brain
+Overall survival prediction in glioblastoma patients using structural magnetic resonance imaging (MRI): advanced radiomic features may compensate for lack of advanced MRI modalities,10.1117/1.JMI.7.3.031505,2020,BRATS,Brain
+On the promise of artificial intelligence for standardizing radiographic response assessment in gliomas,10.1093/neuonc/noz162,2019,BRATS,Brain
+A Fully-Automatic Multiparametric Radiomics Model: Towards Reproducible and Prognostic Imaging Signature for Prediction of Overall Survival in Glioblastoma Multiforme,10.1038/s41598-017-14753-7,2017,BRATS,Brain
+Feasibility of Deep Learning–Based PET/MR Attenuation Correction in the Pelvis Using Only Diagnostic MR Images,10.18383/j.tom.2018.00016,2018,BRATS,Brain
+Comparing fully automated state-of-the-art cerebellum parcellation from magnetic resonance images,10.1016/j.neuroimage.2018.08.003,2018,BRATS,Brain
+Deep‐Learning Detection of Cancer Metastases to the Brain on MRI,10.1002/jmri.27129,2020,BRATS,Brain
+Automated machine learning based on radiomics features predicts H3 K27M mutation in midline gliomas of the brain,10.1093/neuonc/noz184,2020,BRATS,Brain
+Low-Rank Based Image Analyses for Pathological MR Image Segmentation and Recovery,10.3389/fnins.2019.00333,2019,BRATS,Brain
+Deep Learning in Neuroradiology,10.3174/ajnr.A5543,2018,BRATS,Brain
+Automatic Histogram Specification for Glioma Grading Using Multicenter Data,10.1155/2019/9414937,2019,BRATS,Brain
+Inter-rater agreement in glioma segmentations on longitudinal MRI,10.1016/j.nicl.2019.101727,2019,BRATS,Brain
+Towards Reinforced Brain Tumor Segmentation on MRI Images Based on Temperature Changes on Pathologic Area,10.1155/2019/1758948,2019,BRATS,Brain
+Classification of the glioma grading using radiomics analysis,10.7717/peerj.5982,2018,BRATS,Brain
+Imaging signatures of glioblastoma molecular characteristics: A radiogenomics review,10.1002/jmri.26907,2020,BRATS,Brain
+Automatic Brain Tumor Segmentation Based on Cascaded Convolutional Neural Networks With Uncertainty Estimation,10.3389/fncom.2019.00056,2019,BRATS,Brain
+Segmentation and Classification in Digital Pathology for Glioma Research: Challenges and Deep Learning Approaches,10.3389/fnins.2020.00027,2020,BRATS,Brain
+User-Guided Segmentation of Multi-modality Medical Imaging Datasets with ITK-SNAP,10.1007/s12021-018-9385-x,2019,BRATS,Brain
+Semisupervised learning using denoising autoencoders for brain lesion detection and segmentation,10.1117/1.JMI.4.4.041311,2017,BRATS,Brain
+Using deep neural networks for radiogenomic analysis,10.1109/ISBI.2018.8363864,2018,BRATS,Brain
+Improving Patch-Based Convolutional Neural Networks for MRI Brain Tumor Segmentation by Leveraging Location Information,10.3389/fnins.2019.01449,2020,BRATS,Brain
+Novel Volumetric Sub-region Segmentation in Brain Tumors,10.3389/fncom.2020.00003,2020,BRATS,Brain
+A Fully Automated Deep Learning Network for Brain Tumor Segmentation,10.18383/j.tom.2019.00026,2020,BRATS,Brain
+Registration of Pathological Images,10.1007/978-3-319-46630-9_10,2016,BRATS,Brain
+Challenges in diffusion MRI tractography – Lessons learned from international benchmark competitions,10.1016/j.mri.2018.11.014,2019,BRATS,Brain
+Tumor Tissue Detection using Blood-Oxygen-Level-Dependent Functional MRI based on Independent Component Analysis,10.1038/s41598-017-18453-0,2018,BRATS,Brain
+Glioma grading using structural magnetic resonance imaging and molecular data,10.1117/1.JMI.6.2.024501,2019,BRATS,Brain
+Automatic Tumor Segmentation With a Convolutional Neural Network in Multiparametric MRI: Influence of Distortion Correction,10.18383/j.tom.2019.00010,2019,BRATS,Brain
+Analyzing the co-localization of substantia nigra hyper-echogenicities and iron accumulation in Parkinson's disease: A multi-modal atlas study with transcranial ultrasound and MRI,10.1016/j.nicl.2020.102185,2020,BRATS,Brain
+UNet++: Redesigning Skip Connections to Exploit Multiscale Features in Image Segmentation,10.1109/TMI.2019.2959609,2020,BRATS,Brain
+IOUC-3DSFCNN: Segmentation of Brain Tumors via IOU Constraint 3D Symmetric Full Convolution Network with Multimodal Auto-context,10.1038/s41598-020-63242-x,2020,BRATS,Brain
+Automated glioma grading on conventional MRI images using deep convolutional neural networks,10.1002/mp.14168,2020,BRATS,Brain
+Synchronization and Alignment of Follow-up Examinations: a Practical and Educational Approach Using the DICOM Reference Coordinate System,10.1007/s10278-018-0117-4,2019,BRATS,Brain
+Precision diagnostics based on machine learning-derived imaging signatures,10.1016/j.mri.2019.04.012,2019,BRATS,Brain
+Expert-level Automated Biomarker Identification in Optical Coherence Tomography Scans,10.1038/s41598-019-49740-7,2019,BRATS,Brain
+High-Resolution Encoder–Decoder Networks for Low-Contrast Medical Image Segmentation,10.1109/TIP.2019.2919937,2019,BRATS,Brain
+A dataset of clinically generated visual questions and answers about radiology images,10.1038/sdata.2018.251,2018,BRATS,Brain
+Analyzing the Quality and Challenges of Uncertainty Estimations for Brain Tumor Segmentation,10.3389/fnins.2020.00282,2020,BRATS,Brain
+Brain Tumor Segmentation Using an Ensemble of 3D U-Nets and Overall Survival Prediction Using Radiomic Features,10.3389/fncom.2020.00025,2020,BRATS,Brain
+Asymmetric Ensemble of Asymmetric U-Net Models for Brain Tumor Segmentation With Uncertainty Estimation,10.3389/fneur.2021.609646,2021,BRATS,Brain
+Noninvasive Determination of <i>IDH</i> and 1p19q Status of Lower-grade Gliomas Using MRI Radiomics: A Systematic Review,10.3174/ajnr.A6875,2021,BRATS,Brain
+AI in Medical Imaging Informatics: Current Challenges and Future Directions,10.1109/JBHI.2020.2991043,2020,BRATS,Brain
+Personalized<scp>fMRI</scp>Delineates Functional Regions Preserved within Brain Tumors,10.1002/ana.26303,2022,BRATS,Brain
+Segmentation of multicorrelated images with copula models and conditionally random fields,10.1117/1.JMI.9.1.014001,2022,BRATS,Brain
+Fast meningioma segmentation in T1-weighted magnetic resonance imaging volumes using a lightweight 3D deep learning architecture,10.1117/1.JMI.8.2.024002,2021,BRATS,Brain
+Improving the noninvasive classification of glioma genetic subtype with deep learning and diffusion-weighted imaging,10.1093/neuonc/noab238,2022,BRATS,Brain
+3D AGSE-VNet: an automatic brain tumor MRI data segmentation framework,10.1186/s12880-021-00728-8,2022,BRATS,Brain
+Skull-Stripping of Glioblastoma MRI Scans Using 3D Deep Learning,10.1007/978-3-030-46640-4_6,2019,BRATS,Brain
+DeepNeuro: an open-source deep learning toolbox for neuroimaging,10.1007/s12021-020-09477-5,2021,BRATS,Brain
+Generative Adversarial Networks to Synthesize Missing T1 and FLAIR MRI Sequences for Use in a Multisequence Brain Tumor Segmentation Model,10.1148/radiol.2021203786,2021,BRATS,Brain
+Multiparametric MRI-Based Radiomics Model for Predicting H3 K27M Mutant Status in Diffuse Midline Glioma: A Comparative Study Across Different Sequences and Machine Learning Techniques,10.3389/fonc.2022.796583,2022,BRATS,Brain
+Unified Focal loss: Generalising Dice and cross entropy-based losses to handle class imbalanced medical image segmentation,10.1016/j.compmedimag.2021.102026,2022,BRATS,Brain
+Federated learning: a collaborative effort to achieve better medical imaging models for individual sites that have small labelled datasets,10.21037/qims-20-595,2021,BRATS,Brain
+Representation Disentanglement for Multi-modal Brain MRI Analysis,10.1007/978-3-030-78191-0_25,2021,BRATS,Brain
+An Improved 3D Deep Learning-Based Segmentation of Left Ventricular Myocardial Diseases from Delayed-Enhancement MRI with Inclusion and Classification Prior Information U-Net (ICPIU-Net),10.3390/s22062084,2022,BRATS,Brain
+Method to Minimize the Errors of AI: Quantifying and Exploiting Uncertainty of Deep Learning in Brain Tumor Segmentation,10.3390/s22062406,2022,BRATS,Brain
+IE-Map: a novel in-vivo atlas and template of the human inner ear,10.1038/s41598-021-82716-0,2021,BRATS,Brain
+Kidney Tumor Semantic Segmentation Using Deep Learning: A Survey of State-of-the-Art,10.3390/jimaging8030055,2022,BRATS,Brain
+Multi-Domain Image Completion for Random Missing Input Data,10.1109/TMI.2020.3046444,2021,BRATS,Brain
+Adapting Off-the-Shelf Source Segmenter for Target Medical Image Segmentation,10.1007/978-3-030-87196-3_51,2021,BRATS,Brain
+Deep Learning for Reaction-Diffusion Glioma Growth Modeling: Towards a Fully Personalized Model?,10.3390/cancers14102530,2022,BRATS,Brain
+Machine Learning and Radiomic Features to Predict Overall Survival Time for Glioblastoma Patients,10.3390/jpm11121336,2021,BRATS,Brain
+Efficacy of Location-Based Features for Survival Prediction of Patients With Glioblastoma Depending on Resection Status,10.3389/fonc.2021.661123,2021,BRATS,Brain
+Deep Learning Methodology for Differentiating Glioma Recurrence From Radiation Necrosis Using Multimodal Magnetic Resonance Imaging: Algorithm Development and Validation,10.2196/19805,2020,BRATS,Brain
+Deep Learning Radiomics to Predict PTEN Mutation Status From Magnetic Resonance Imaging in Patients With Glioma,10.3389/fonc.2021.734433,2021,BRATS,Brain
+Deep Learning in Cancer Diagnosis and Prognosis Prediction: A Minireview on Challenges Recent Trends and Future Directions,10.1155/2021/9025470,2021,BRATS,Brain
+Learning rich features with hybrid loss for brain tumor segmentation,10.1186/s12911-021-01431-y,2021,BRATS,Brain
+Learning Fixed Points in Generative Adversarial Networks: From Image-to-Image Translation to Disease Detection and Localization,10.1109/iccv.2019.00028,2019,BRATS,Brain
+Models Genesis,10.1016/j.media.2020.101840,2021,BRATS,Brain
+Interactive Machine Learning-Based Multi-Label Segmentation of Solid Tumors and Organs,10.3390/app11167488,2021,BRATS,Brain
+State-of-the-art techniques using pre-operative brain MRI scans for survival prediction of glioblastoma multiforme patients and future research directions,10.1007/s40336-022-00487-8,2022,BRATS,Brain
+Longitudinal brain tumor segmentation prediction in MRI using feature and label fusion,10.1016/j.bspc.2019.101648,2020,BRATS,Brain
+Trends in Development of Novel Machine Learning Methods for the Identification of Gliomas in Datasets That Include Non-Glioma Images: A Systematic Review,10.3389/fonc.2021.788819,2021,BRATS,Brain
+Brain tumor segmentation based on deep learning and an attention mechanism using MRI multi-modalities brain images,10.1038/s41598-021-90428-8,2021,BRATS,Brain
+Observing deep radiomics for the classification of glioma grades,10.1038/s41598-021-90555-2,2021,BRATS,Brain
+A New Pooling Approach Based on Zeckendorf’s Theorem for Texture Transfer Information,10.3390/e23030279,2021,BRATS,Brain
+A Radiology-focused Review of Predictive Uncertainty for AI Interpretability in Computer-assisted Segmentation,10.1148/ryai.2021210031,2021,BRATS,Brain
+Multimodal MRI synthesis using unified generative adversarial networks,10.1002/mp.14539,2020,BRATS,Brain
+Classification of parotid gland tumors by using multimodal MRI and deep learning,10.1002/nbm.4408,2021,BRATS,Brain
+Studierfenster: an Open Science Cloud-Based Medical Imaging Analysis Platform,10.1007/s10278-021-00574-8,2022,BRATS,Brain
+Reliability as a Precondition for Trust—Segmentation Reliability Analysis of Radiomic Features Improves Survival Prediction,10.3390/diagnostics12020247,2022,BRATS,Brain
+Ensembles of Convolutional Neural Networks for Survival Time Estimation of High-Grade Glioma Patients from Multimodal MRI,10.3390/diagnostics12020345,2022,BRATS,Brain
+Innate connectivity patterns drive the development of the visual word form area,10.1038/s41598-020-75015-7,2020,BRATS,Brain
+Disrupted Asymmetry of Inter- and Intra-Hemispheric Functional Connectivity at Rest in Medication-Free Obsessive-Compulsive Disorder,10.3389/fnins.2021.634557,2021,BRATS,Brain
+Multi-level Kronecker Convolutional Neural Network (ML-KCNN) for Glioma Segmentation from Multi-modal MRI Volumetric Data,10.1007/s10278-021-00486-7,2021,BRATS,Brain
+Applications of Radiomics and Radiogenomics in High-Grade Gliomas in the Era of Precision Medicine,10.3390/cancers13235921,2021,BRATS,Brain
+Object Detection Improves Tumour Segmentation in MR Images of Rare Brain Tumours,10.3390/cancers13236113,2021,BRATS,Brain
+A Multiparametric MRI-Based Radiomics Analysis to Efficiently Classify Tumor Subregions of Glioblastoma: A Pilot Study in Machine Learning,10.3390/jcm10092030,2021,BRATS,Brain
+Interpretable Model Based on Pyramid Scene Parsing Features for Brain Tumor MRI Image Segmentation,10.1155/2022/8000781,2022,BRATS,Brain
+Systematic review protocol to assess artificial intelligence diagnostic accuracy performance in detecting acute ischaemic stroke and large-vessel occlusions on CT and MR medical imaging,10.1136/bmjopen-2020-043665,2021,BRATS,Brain
+Robustness of brain tumor segmentation,10.1117/1.JMI.7.6.064006,2020,BRATS,Brain
+Art Image Processing and Color Objective Evaluation Based on Multicolor Space Convolutional Neural Network,10.1155/2021/4273963,2021,BRATS,Brain
+Advancements in Neuroimaging to Unravel Biological and Molecular Features of Brain Tumors,10.3390/cancers13030424,2021,BRATS,Brain
+Glioblastoma Surgery Imaging–Reporting and Data System: Validation and Performance of the Automated Segmentation Task,10.3390/cancers13184674,2021,BRATS,Brain
+Brain Tumor Detection and Classification on MR Images by a Deep Wavelet Auto-Encoder Model,10.3390/diagnostics11091589,2021,BRATS,Brain
+A review of deep learning based methods for medical image multi-organ segmentation,10.1016/j.ejmp.2021.05.003,2021,BRATS,Brain
+Clinical applications of artificial intelligence and radiomics in neuro-oncology imaging,10.1186/s13244-021-01102-6,2021,BRATS,Brain
+Combined Features in Region of Interest for Brain Tumor Segmentation,10.1007/s10278-022-00602-1,2022,BRATS,Brain
+Brain tumor segmentation using graph coloring approach in magnetic resonance images,10.4103/jmss.JMSS_43_20,2021,BRATS,Brain
+A Deep Learning Model for Preoperative Differentiation of Glioblastoma Brain Metastasis and Primary Central Nervous System Lymphoma: A Pilot Study,10.3389/fonc.2022.816638,2022,BRATS,Brain
+Optimal Superpixel Kernel-Based Kernel Low-Rank and Sparsity Representation for Brain Tumour Segmentation,10.1155/2022/3514988,2022,BRATS,Brain
+BiTr-Unet: A CNN-Transformer Combined Network for MRI Brain Tumor Segmentation,10.1007/978-3-031-09002-8_1,2021,BRATS,Brain
+Ellipsoid calculations versus manual tumor delineations for glioblastoma tumor volume evaluation,10.1038/s41598-022-13739-4,2022,BRATS,Brain
+Logistic Regression–Based Model Is More Efficient Than U-Net Model for Reliable Whole Brain Magnetic Resonance Imaging Segmentation,10.1097/RMR.0000000000000296,2022,BRATS,Brain
+Attention 3D U-Net with Multiple Skip Connections for Segmentation of Brain Tumor Images,10.3390/s22176501,2022,BRATS,Brain
+Evaluation of a hybrid pipeline for automated segmentation of solid lesions based on mathematical algorithms and deep learning,10.1038/s41598-022-18173-0,2022,BRATS,Brain
+The University of Pennsylvania glioblastoma (UPenn-GBM) cohort: advanced MRI clinical genomics &amp; radiomics,10.1038/s41597-022-01560-7,2022,BRATS,Brain
+Improving reproducibility and performance of radiomics in low‐dose CT using cycle GANs,10.1002/acm2.13739,2022,BRATS,Brain
+An automated approach for predicting glioma grade and survival of LGG patients using CNN and radiomics,10.3389/fonc.2022.969907,2022,BRATS,Brain
+Super‐resolution of brain tumor MRI images based on deep learning,10.1002/acm2.13758,2022,BRATS,Brain
+Deep learning for automatic brain tumour segmentation on MRI: evaluation of recommended reporting criteria via a reproduction and replication study,10.1136/bmjopen-2021-059000,2022,BRATS,Brain
+Deep Learning-Based Image Reconstruction for Different Medical Imaging Modalities,10.1155/2022/8750648,2022,BRATS,Brain
+RMTF-Net: Residual Mix Transformer Fusion Net for 2D Brain Tumor Segmentation,10.3390/brainsci12091145,2022,BRATS,Brain
+Particle Swarm Optimization and Two-Way Fixed-Effects Analysis of Variance for Efficient Brain Tumor Segmentation,10.3390/cancers14184399,2022,BRATS,Brain
+Visual ensemble selection of deep convolutional neural networks for 3D segmentation of breast tumors on dynamic contrast enhanced MRI,10.1007/s00330-022-09113-7,2022,BRATS,Brain
+scSE-NL V-Net: A Brain Tumor Automatic Segmentation Method Based on Spatial and Channel “Squeeze-and-Excitation” Network With Non-local Block,10.3389/fnins.2022.916818,2022,BRATS,Brain
+Enhancing the REMBRANDT MRI collection with expert segmentation labels and quantitative radiomic features,10.1038/s41597-022-01415-1,2022,BRATS,Brain
+Swin transformer-based GAN for multi-modal medical image translation,10.3389/fonc.2022.942511,2022,BRATS,Brain
+Applications of Artificial Intelligence Based on Medical Imaging in Glioma: Current State and Future Challenges,10.3389/fonc.2022.892056,2022,BRATS,Brain
+MRF-IUNet: A Multiresolution Fusion Brain Tumor Segmentation Network Based on Improved Inception U-Net,10.1155/2022/6305748,2022,BRATS,Brain
+A Classification Method for Thoracolumbar Vertebral Fractures due to Basketball Sports Injury Based on Deep Learning,10.1155/2022/8747487,2022,BRATS,Brain
+DeepIGeoS: A Deep Interactive Geodesic Framework for Medical Image Segmentation,10.1109/TPAMI.2018.2840695,2019,BRATS,Brain
+Multi-Atlas Segmentation of MR Tumor Brain Images Using Low-Rank Based Image Recovery,10.1109/TMI.2018.2824243,2018,BRATS,Brain
+Deep-Learning-Assisted Volume Visualization,10.1109/TVCG.2018.2796085,2019,BRATS,Brain
+Deep learning with mixed supervision for brain tumor segmentation,10.1117/1.JMI.6.3.034002,2019,BRATS,Brain
+Segmentation of roots in soil with U-Net,10.1186/s13007-020-0563-0,2020,BRATS,Brain
+Multiregional radiomics profiling from multiparametric MRI: Identifying an imaging predictor of IDH1 mutation status in glioblastoma,10.1002/cam4.1863,2018,BRATS,Brain
+Liver Tissue Classification in Patients with Hepatocellular Carcinoma by Fusing Structured and Rotationally Invariant Context Representation,10.1007/978-3-319-66179-7_10,2017,BRATS,Brain
+Reproducibility and Generalizability in Radiomics Modeling: Possible Strategies in Radiologic and Statistical Perspectives,10.3348/kjr.2018.0070,2019,BRATS,Brain
+Prediction of Molecular Mutations in Diffuse Low-Grade Gliomas using MR Imaging Features,10.1038/s41598-020-60550-0,2020,BRATS,Brain
+MRI Cross-Modality Image-to-Image Translation,10.1038/s41598-020-60520-6,2020,BRATS,Brain
+An Assessment of Imaging Informatics for Precision Medicine in Cancer,10.15265/IY-2017-041,2017,BRATS,Brain
+A Benchmark for Endoluminal Scene Segmentation of Colonoscopy Images,10.1155/2017/4037190,2017,BRATS,Brain
+Low-Grade Glioma Segmentation Based on CNN with Fully Connected CRF,10.1155/2017/9283480,2017,BRATS,Brain
+DeepSeg: deep neural network framework for automatic brain tumor segmentation using magnetic resonance FLAIR images,10.1007/s11548-020-02186-z,2020,BRATS,Brain
+Measuring Efficiency of Semi-automated Brain Tumor Segmentation by Simulating User Interaction,10.3389/fncom.2020.00032,2020,BRATS,Brain
+Clinical Evaluation of a Multiparametric Deep Learning Model for Glioblastoma Segmentation Using Heterogeneous Magnetic Resonance Imaging Data From Clinical Routine,10.1097/RLI.0000000000000484,2018,BRATS,Brain
+Enabling machine learning in X-ray-based procedures via realistic simulation of image formation,10.1007/s11548-019-02011-2,2019,BRATS,Brain
+Automated brain extraction of multisequence MRI using artificial neural networks,10.1002/hbm.24750,2019,BRATS,Brain
+Aleatoric uncertainty estimation with test-time augmentation for medical image segmentation with convolutional neural networks,10.1016/j.neucom.2019.01.103,2019,BRATS,Brain
+A multi-path 2.5 dimensional convolutional neural network system for segmenting stroke lesions in brain MRI images,10.1016/j.nicl.2019.102118,2020,BRATS,Brain
+Brain SegNet: 3D local refinement network for brain lesion segmentation,10.1186/s12880-020-0409-2,2020,BRATS,Brain
+Deep Multi-Scale 3D Convolutional Neural Network (CNN) for MRI Gliomas Brain Tumor Classification,10.1007/s10278-020-00347-9,2020,BRATS,Brain
+Active learning strategy and hybrid training for infarct segmentation on diffusion MRI with a U-shaped network,10.1117/1.JMI.6.4.044001,2019,BRATS,Brain
+Generalization of deep learning models for ultra-low-count amyloid PET/MRI using transfer learning,10.1007/s00259-020-04897-6,2020,BRATS,Brain
+Radiomics-based convolutional neural network for brain tumor segmentation on multiparametric magnetic resonance imaging,10.1117/1.JMI.6.2.024005,2019,BRATS,Brain
+Evaluating White Matter Lesion Segmentations with Refined Sørensen-Dice Analysis,10.1038/s41598-020-64803-w,2020,BRATS,Brain
+Generation of Individual Whole-Brain Atlases With Resting-State fMRI Data Using Simultaneous Graph Computation and Parcellation,10.3389/fnhum.2018.00166,2018,BRATS,Brain
+Deep learning with convolutional neural networks for identification of liver masses and hepatocellular carcinoma: A systematic review,10.4251/wjgo.v11.i12.1218,2019,BRATS,Brain
+Appearance Constrained Semi-Automatic Segmentation from DCE-MRI is Reproducible and Feasible for Breast Cancer Radiomics: A Feasibility Study,10.1038/s41598-018-22980-9,2018,BRATS,Brain
+Bayesian Generative Models for Knowledge Transfer in MRI Semantic Segmentation Problems,10.3389/fnins.2019.00844,2019,BRATS,Brain
+Multisite Concordance of DSC-MRI Analysis for Brain Tumors: Results of a National Cancer Institute Quantitative Imaging Network Collaborative Project,10.3174/ajnr.A5675,2018,BRATS,Brain
+Why rankings of biomedical image analysis competitions should be interpreted with care,10.1038/s41467-018-07619-7,2018,BRATS,Brain
+Multivariate Analysis of Preoperative Magnetic Resonance Imaging Reveals Transcriptomic Classification of de novo Glioblastoma Patients,10.3389/fncom.2019.00081,2019,BRATS,Brain
+Data Augmentation for Brain-Tumor Segmentation: A Review,10.3389/fncom.2019.00083,2019,BRATS,Brain
+Multi-Disease Segmentation of Gliomas and White Matter Hyperintensities in the BraTS Data Using a 3D Convolutional Neural Network,10.3389/fncom.2019.00084,2019,BRATS,Brain
+Multi-institutional Deep Learning Modeling Without Sharing Patient Data: A Feasibility Study on Brain Tumor Segmentation,10.1007/978-3-030-11723-8_9,2019,BRATS,Brain
+Multiple Resolution Residually Connected Feature Streams for Automatic Lung Tumor Segmentation From CT Images,10.1109/TMI.2018.2857800,2019,BRATS,Brain
+Self-supervised learning for medical image analysis using image context restoration,10.1016/j.media.2019.101539,2019,BRATS,Brain
+Retracted: A novel fully automated MRI-based deep-learning method for classification of IDH mutation status in brain gliomas,10.1093/neuonc/noz199,2020,BRATS,Brain
+Radiogenomic analysis of vascular endothelial growth factor in patients with diffuse gliomas,10.1186/s40644-019-0256-y,2019,BRATS,Brain
+Prediction of 1p/19q Codeletion in Diffuse Glioma Patients Using Pre-operative Multiparametric Magnetic Resonance Imaging,10.3389/fncom.2019.00052,2019,BRATS,Brain
+A fuzzy feature fusion method for auto-segmentation of gliomas with multi-modality diffusion and perfusion magnetic resonance images in radiotherapy,10.1038/s41598-018-21678-2,2018,BRATS,Brain
+Applications of radiomics and machine learning for radiotherapy of malignant brain tumors,10.1007/s00066-020-01626-8,2020,BRATS,Brain
+NiftyNet: a deep-learning platform for medical imaging,10.1016/j.cmpb.2018.01.025,2018,BRATS,Brain
+A simple model for glioma grading based on texture analysis applied to conventional brain MRI,10.1371/journal.pone.0228972,2020,BRATS,Brain
+SD-UNet: Stripping down U-Net for Segmentation of Biomedical Images on Platforms with Low Computational Budgets,10.3390/diagnostics10020110,2020,BRATS,Brain
+Integrating Cross-modality Hallucinated MRI with CT to Aid Mediastinal Lung Tumor Segmentation,10.1007/978-3-030-32226-7_25,2019,BRATS,Brain
+Inception Modules Enhance Brain Tumor Segmentation,10.3389/fncom.2019.00044,2019,BRATS,Brain
+Benchmarking Wilms’ tumor in multisequence MRI data: why does current clinical practice fail? Which popular segmentation algorithms perform well?,10.1117/1.JMI.6.3.034001,2019,BRATS,Brain
+A Novel Approach for Fully Automatic Intra-Tumor Segmentation With 3D U-Net Architecture for Gliomas,10.3389/fncom.2020.00010,2020,BRATS,Brain
+Benchmark on Automatic Six-Month-Old Infant Brain Segmentation Algorithms: The iSeg-2017 Challenge,10.1109/TMI.2019.2901712,2019,BRATS,Brain
+Domain Adaptation for Medical Image Analysis: A Survey,10.1109/TBME.2021.3117407,2022,BRATS,Brain
+Fproi-GAN with Fused Regional Features for the Synthesis of High-Quality Paired Medical Images,10.1155/2021/6678031,2021,BRATS,Brain
+Application of a Modified Combinational Approach to Brain Tumor Detection in MR Images,10.1007/s10278-022-00653-4,2022,BRATS,Brain
+A survey on generative adversarial networks for imbalance problems in computer vision tasks,10.1186/s40537-021-00414-0,2021,BRATS,Brain
+MRI-Based Deep-Learning Method for Determining Glioma <i>MGMT</i> Promoter Methylation Status,10.3174/ajnr.A7029,2021,BRATS,Brain
+Multi-modality self-attention aware deep network for 3D biomedical segmentation,10.1186/s12911-020-1109-0,2020,BRATS,Brain
+An Optimization-Based Meta-Learning Model for MRI Reconstruction with Diverse Dataset,10.3390/jimaging7110231,2021,BRATS,Brain
+Segmentation of Drug-Treated Cell Image and Mitochondrial-Oxidative Stress Using Deep Convolutional Neural Network,10.1155/2022/5641727,2022,BRATS,Brain
+CTV Delineation for High-Grade Gliomas: Is There Agreement With Tumor Cell Invasion Models?,10.1016/j.adro.2022.100987,2022,BRATS,Brain
+Robust Primitive and Unsupervised Quality Estimation for Segmentation Ensembles,10.3389/fnins.2021.752780,2021,BRATS,Brain
+Estimating Glioblastoma Biophysical Growth Parameters Using Deep Learning Regression,10.1007/978-3-030-72084-1_15,2021,BRATS,Brain
+Handling missing MRI sequences in deep learning segmentation of brain metastases: a multicenter study,10.1038/s41746-021-00398-4,2021,BRATS,Brain
+Artificial intelligence in tumor subregion analysis based on medical imaging: A review,10.1002/acm2.13321,2021,BRATS,Brain
+Leveraging machine learning predictive biomarkers to augment the statistical power of clinical trials with baseline magnetic resonance imaging,10.1093/braincomms/fcab264,2021,BRATS,Brain
+Novel User-Friendly Application for MRI Segmentation of Brain Resection following Epilepsy Surgery,10.3390/diagnostics12041017,2022,BRATS,Brain
+Glioma Tumors’ Classification Using Deep-Neural-Network-Based Features with SVM Classifier,10.3390/diagnostics12041018,2022,BRATS,Brain
+Multi-class medical image segmentation using one-vs-rest graph cuts and majority voting,10.1117/1.JMI.8.3.034003,2021,BRATS,Brain
+3D brain tumor segmentation using a two-stage optimal mass transport algorithm,10.1038/s41598-021-94071-1,2021,BRATS,Brain
+Spectroscopic imaging of D-2-hydroxyglutarate and other metabolites in pre-surgical patients with IDH-mutant lower-grade gliomas,10.1007/s11060-022-04042-3,2022,BRATS,Brain
+TransConver: transformer and convolution parallel network for developing automatic brain tumor segmentation in MRI images,10.21037/qims-21-919,2022,BRATS,Brain
+Deep learning for medical image analysis: a brief introduction,10.1093/noajnl/vdaa092,2021,BRATS,Brain
+Standardization of imaging methods for machine learning in neuro-oncology,10.1093/noajnl/vdaa054,2021,BRATS,Brain
+3D brain glioma segmentation in MRI through integrating multiple densely connected 2D convolutional neural networks,10.1631/jzus.B2000381,2021,BRATS,Brain
+Genetic cellular and connectomic characterization of the brain regions commonly plagued by glioma,10.1093/brain/awaa277,2020,BRATS,Brain
+Transfer learning in medical image segmentation: New insights from analysis of the dynamics of model parameters and learned representations,10.1016/j.artmed.2021.102078,2021,BRATS,Brain
+A fully automated artificial intelligence method for non-invasive imaging-based identification of genetic alterations in glioblastomas,10.1038/s41598-020-68857-8,2020,BRATS,Brain
+Fast and Automated Segmentation for the Three-Directional Multi-Slice Cine Myocardial Velocity Mapping,10.3390/diagnostics11020346,2021,BRATS,Brain
+Computational Complexity Reduction of Neural Networks of Brain Tumor Image Segmentation by Introducing Fermi–Dirac Correction Functions,10.3390/e23020223,2021,BRATS,Brain
+A Survey of Brain Tumor Segmentation and Classification Algorithms,10.3390/jimaging7090179,2021,BRATS,Brain
+Altered Functional Connectivity Strength at Rest in Medication-Free Obsessive-Compulsive Disorder,10.1155/2021/3741104,2021,BRATS,Brain
+A Novel Intelligent System for Brain Tumor Diagnosis Based on a Composite Neutrosophic-Slantlet Transform Domain for Statistical Texture Feature Extraction,10.1155/2020/8125392,2020,BRATS,Brain
+Narrow Band Active Contour Attention Model for Medical Segmentation,10.3390/diagnostics11081393,2021,BRATS,Brain
+Causality matters in medical imaging,10.1038/s41467-020-17478-w,2020,BRATS,Brain
+Application and Construction of Deep Learning Networks in Medical Imaging,10.1109/trpms.2020.3030611,2021,BRATS,Brain
+Performance of machine learning algorithms for glioma segmentation of brain MRI: a systematic literature review and meta-analysis,10.1007/s00330-021-08035-0,2021,BRATS,Brain
+Joint Modeling of RNAseq and Radiomics Data for Glioma Molecular Characterization and Prediction,10.3389/fmed.2021.705071,2021,BRATS,Brain
+MRI-based brain tumor segmentation using FPGA-accelerated neural network,10.1186/s12859-021-04347-6,2021,BRATS,Brain
+Integrating mechanism-based modeling with biomedical imaging to build practical digital twins for clinical oncology,10.1063/5.0086789,2022,BRATS,Brain
+Machine Learning Models for Classifying High- and Low-Grade Gliomas: A Systematic Review and Quality of Reporting Analysis,10.3389/fonc.2022.856231,2022,BRATS,Brain
+Deep cross‐modality (MR‐CT) educed distillation learning for cone beam CT lung tumor segmentation,10.1002/mp.14902,2021,BRATS,Brain
+Challenges in ensuring the generalizability of image quantitation methods for MRI,10.1002/mp.15195,2022,BRATS,Brain
+Characterization of serial hyperpolarized 13C metabolic imaging in patients with glioma,10.1016/j.nicl.2020.102323,2020,BRATS,Brain
+A Modified AUC for Training Convolutional Neural Networks: Taking Confidence Into Account,10.3389/frai.2021.582928,2021,BRATS,Brain
+Lesion covariance networks reveal proposed origins and pathways of diffuse gliomas,10.1093/braincomms/fcab289,2021,BRATS,Brain
+State-of-the-Art CNN Optimizer for Brain Tumor Segmentation in Magnetic Resonance Images,10.3390/brainsci10070427,2020,BRATS,Brain
+A Predictive Clinical-Radiomics Nomogram for Survival Prediction of Glioblastoma Using MRI,10.3390/diagnostics11112043,2021,BRATS,Brain
+Can Generative Adversarial Networks help to overcome the limited data problem in segmentation?,10.1016/j.zemedi.2021.11.006,2022,BRATS,Brain
+Multiparametric Magnetic Resonance Imaging Information Fusion Using Graph Convolutional Network for Glioma Grading,10.1155/2022/7315665,2022,BRATS,Brain
+Explainability of deep neural networks for MRI analysis of brain tumors,10.1007/s11548-022-02619-x,2022,BRATS,Brain
+A Unified Conditional Disentanglement Framework For Multimodal Brain Mr Image Translation,10.1109/isbi48211.2021.9433897,2021,BRATS,Brain
+An optimal brain tumor segmentation algorithm for clinical MRI dataset with low resolution and non-contiguous slices,10.1186/s12880-022-00812-7,2022,BRATS,Brain
+Multispectral co-occurrence of wavelet coefficients for malignancy assessment of brain tumors,10.1371/journal.pone.0250964,2021,BRATS,Brain
+A Deep Learning Approach for Brain Tumor Classification and Segmentation Using a Multiscale Convolutional Neural Network,10.3390/healthcare9020153,2021,BRATS,Brain
+Automated Detection and Segmentation of Brain Metastases in Malignant Melanoma: Evaluation of a Dedicated Deep Learning Model,10.3174/ajnr.A6982,2021,BRATS,Brain
+QAIS-DSNN: Tumor Area Segmentation of MRI Image with Optimized Quantum Matched-Filter Technique and Deep Spiking Neural Network,10.1155/2021/6653879,2021,BRATS,Brain
+An Automatic Deep Learning–Based Workflow for Glioblastoma Survival Prediction Using Preoperative Multimodal MR Images: A Feasibility Study,10.1016/j.adro.2021.100746,2021,BRATS,Brain
+Global-Local Transformer for Brain Age Estimation,10.1109/TMI.2021.3108910,2022,BRATS,Brain
+Transfer Learning in Magnetic Resonance Brain Imaging: A Systematic Review,10.3390/jimaging7040066,2021,BRATS,Brain
+Deep Learning in Selected Cancers’ Image Analysis—A Survey,10.3390/jimaging6110121,2020,BRATS,Brain
+Deep Learning for Brain Tumor Segmentation: A Survey of State-of-the-Art,10.3390/jimaging7020019,2021,BRATS,Brain
+Enhanced Region Growing for Brain Tumor MR Image Segmentation,10.3390/jimaging7020022,2021,BRATS,Brain
+Enhanced Magnetic Resonance Image Synthesis with Contrast-Aware Generative Adversarial Networks,10.3390/jimaging7080133,2021,BRATS,Brain
+Neuropsychiatric disease classification using functional connectomics - results of the connectomics in neuroimaging transfer learning challenge,10.1016/j.media.2021.101972,2021,BRATS,Brain
+Joint Learning of 3D Lesion Segmentation and Classification for Explainable COVID-19 Diagnosis,10.1109/TMI.2021.3079709,2021,BRATS,Brain
+CMM-Net: Contextual multi-scale multi-level network for efficient biomedical image segmentation,10.1038/s41598-021-89686-3,2021,BRATS,Brain
+(TS)2WM: Tumor Segmentation and Tract Statistics for Assessing White Matter Integrity with Applications to Glioblastoma Patients,10.1016/j.neuroimage.2020.117368,2020,BRATS,Brain
+Robustifying Deep Networks for Medical Image Segmentation,10.1007/s10278-021-00507-5,2021,BRATS,Brain
+Improving performance and generalizability in radiogenomics: a pilot study for prediction of IDH1/2 mutation status in gliomas with multicentric data,10.1117/1.JMI.8.3.031905,2021,BRATS,Brain
+Robust Deep Learning–based Segmentation of Glioblastoma on                     Routine Clinical MRI Scans Using Sparsified Training,10.1148/ryai.2020190103,2020,BRATS,Brain
+A Transfer Learning–Based Active Learning Framework for Brain Tumor Classification,10.3389/frai.2021.635766,2021,BRATS,Brain
+Employing Multimodal Machine Learning for Stress Detection,10.1155/2021/9356452,2021,BRATS,Brain
+Classification of brain tumours in MR images using deep spatiospatial models,10.1038/s41598-022-05572-6,2022,BRATS,Brain
+Navigated Intraoperative 3D Ultrasound in Glioblastoma Surgery: Analysis of Imaging Features and Impact on Extent of Resection,10.3389/fnins.2022.883584,2022,BRATS,Brain
+Transfer Learning Approaches for Neuroimaging Analysis: A Scoping Review,10.3389/frai.2022.780405,2022,BRATS,Brain
+TumorGAN: A Multi-Modal Data Augmentation Framework for Brain Tumor Segmentation,10.3390/s20154203,2020,BRATS,Brain
+A multi-sequences MRI deep framework study applied to glioma classfication,10.1007/s11042-022-12316-1,2022,BRATS,Brain
+Deep learning-enabled multi-organ segmentation in whole-body mouse scans,10.1038/s41467-020-19449-7,2020,BRATS,Brain
+Brain tumor segmentation based on region of interest-aided localization and segmentation U-Net,10.1007/s13042-022-01536-4,2022,BRATS,Brain
+Feasibility of Simulated Postcontrast MRI of Glioblastomas and                     Lower-Grade Gliomas by Using Three-dimensional Fully Convolutional Neural                     Networks,10.1148/ryai.2021200276,2021,BRATS,Brain
+MRI-based Identification and Classification of Major Intracranial Tumor Types by Using a 3D Convolutional Neural Network: A Retrospective Multi-institutional Analysis,10.1148/ryai.2021200301,2021,BRATS,Brain
+Semisupervised Training of a Brain MRI Tumor Detection Model Using                     Mined Annotations,10.1148/radiol.210817,2022,BRATS,Brain
+Towards an Architecture of a Multi-purpose User-Extendable Reference Human Brain Atlas,10.1007/s12021-021-09555-2,2022,BRATS,Brain
+A holistic overview of deep learning approach in medical imaging,10.1007/s00530-021-00884-5,2022,BRATS,Brain
+Deep Neural Network With Consistency Regularization of Multi-Output Channels for Improved Tumor Detection and Delineation,10.1109/TMI.2021.3084748,2021,BRATS,Brain
+Improvement of Multiparametric MR Image Segmentation by Augmenting the Data With Generative Adversarial Networks for Glioma Patients,10.3389/fncom.2020.495075,2021,BRATS,Brain
+MR-contrast-aware image-to-image translations with generative adversarial networks,10.1007/s11548-021-02433-x,2021,BRATS,Brain
+Adversarial Confidence Learning for Medical Image Segmentation and Synthesis,10.1007/s11263-020-01321-2,2020,BRATS,Brain
+A Deep Multi-Task Learning Framework for Brain Tumor Segmentation,10.3389/fonc.2021.690244,2021,BRATS,Brain
+Handling data heterogeneity with generative replay in collaborative learning for medical imaging,10.1016/j.media.2022.102424,2022,BRATS,Brain
+Harnessing clinical annotations to improve deep learning performance in prostate segmentation,10.1371/journal.pone.0253829,2021,BRATS,Brain
+LBTS‐Net: A fast and accurate CNN model for brain tumour segmentation,10.1049/htl2.12005,2021,BRATS,Brain
+Three-dimensional deep learning with spatial erasing for unsupervised anomaly segmentation in brain MRI,10.1007/s11548-021-02451-9,2021,BRATS,Brain
+Semantic segmentation of microscopic neuroanatomical data by combining topological priors with encoder–decoder deep networks,10.1038/s42256-020-0227-9,2020,BRATS,Brain
+MGMT methylation may benefit overall survival in patients with moderately vascularized glioblastomas,10.1007/s00330-020-07297-4,2021,BRATS,Brain
+Lesion network mapping of mania using different normative connectomes,10.1007/s00429-022-02508-8,2022,BRATS,Brain
+Deep Learning-Based Image Segmentation on Multimodal Medical Imaging,10.1109/trpms.2018.2890359,2019,BRATS,Brain
+A quantum-clustering optimization method for COVID-19 CT scan image segmentation,10.1016/j.eswa.2021.115637,2021,BRATS,Brain
+Medical Augmentation (Med-Aug) for Optimal Data Augmentation in Medical Deep Learning Networks,10.3390/s21217018,2021,BRATS,Brain
+State-of-the-Art Challenges and Perspectives in Multi-Organ Cancer Diagnosis via Deep Learning-Based Methods,10.3390/cancers13215546,2021,BRATS,Brain
+Radiomics for glioblastoma survival analysis in pre-operative MRI: exploring feature robustness class boundaries and machine learning techniques,10.1186/s40644-020-00329-8,2020,BRATS,Brain
+The ANTsX ecosystem for quantitative biological and medical imaging,10.1038/s41598-021-87564-6,2021,BRATS,Brain
+TMD-Unet: Triple-Unet with Multi-Scale Input Features and Dense Skip Connection for Medical Image Segmentation,10.3390/healthcare9010054,2021,BRATS,Brain
+Tracking the Corticospinal Tract in Patients With High-Grade Glioma: Clinical Evaluation of Multi-Level Fiber Tracking and Comparison to Conventional Deterministic Approaches,10.3389/fonc.2021.761169,2021,BRATS,Brain
+Analysis of Brain MRI Images Using Improved CornerNet Approach,10.3390/diagnostics11101856,2021,BRATS,Brain
+Predicting Short-Term Survival after Gross Total or Near Total Resection in Glioblastomas by Machine Learning-Based Radiomic Analysis of Preoperative MRI,10.3390/cancers13205047,2021,BRATS,Brain
+Brain extraction on MRI scans in presence of diffuse glioma: Multi-institutional performance evaluation of deep learning methods and robust modality-agnostic training,10.1016/j.neuroimage.2020.117081,2020,BRATS,Brain
+Learning joint segmentation of tissues and brain lesions from task-specific hetero-modal domain-shifted datasets,10.1016/j.media.2020.101862,2021,BRATS,Brain
+Radiogenomic modeling predicts survival-associated prognostic groups in glioblastoma,10.1093/noajnl/vdab004,2021,BRATS,Brain
+Federated learning in medicine: facilitating multi-institutional collaborations without sharing patient data,10.1038/s41598-020-69250-1,2020,BRATS,Brain
+Multi-institutional Collaborations for Improving Deep Learning-based Magnetic Resonance Image Reconstruction Using Federated Learning,10.1109/cvpr46437.2021.00245,2021,BRATS,Brain
+The Application of Deep Convolutional Neural Networks to Brain Cancer Images: A Survey,10.3390/jpm10040224,2020,BRATS,Brain
+Automatic brain lesion segmentation on standard magnetic resonance images: a scoping review,10.1136/bmjopen-2020-042660,2021,BRATS,Brain
+Retrospective motion artifact correction of structural MRI images using deep learning improves the quality of cortical surface reconstructions,10.1016/j.neuroimage.2021.117756,2021,BRATS,Brain
+Synthetic MRI improves radiomics‐based glioblastoma survival prediction,10.1002/nbm.4754,2022,BRATS,Brain
+Intensity standardization of MRI prior to radiomic feature extraction for artificial intelligence research in glioma—a systematic review,10.1007/s00330-022-08807-2,2022,BRATS,Brain
+Validation pipeline for machine learning algorithm assessment for multiple vendors,10.1371/journal.pone.0267213,2022,BRATS,Brain
+Efficient 3D AlexNet Architecture for Object Recognition Using Syntactic Patterns from Medical Images,10.1155/2022/7882924,2022,BRATS,Brain
+Aggregation-and-Attention Network for brain tumor segmentation,10.1186/s12880-021-00639-8,2021,BRATS,Brain
+Overall Survival Prediction in Glioblastoma With Radiomic Features Using Machine Learning,10.3389/fncom.2020.00061,2020,BRATS,Brain
+Brain Tumor Segmentation via Multi-Modalities Interactive Feature Learning,10.3389/fmed.2021.653925,2021,BRATS,Brain
+Deep Learning in Large and Multi-Site Structural Brain MR Imaging Datasets,10.3389/fninf.2021.805669,2022,BRATS,Brain
+Artificial Intelligence in Neuro-Oncologic Imaging: A Brief Review for Clinical Use Cases and Future Perspectives,10.14791/btrt.2021.0031,2022,BRATS,Brain
+A Two-Stage Model for Predicting Mild Cognitive Impairment to Alzheimer’s Disease Conversion,10.3389/fnagi.2022.826622,2022,BRATS,Brain
+Radiomics and Qualitative Features From Multiparametric MRI Predict Molecular Subtypes in Patients With Lower-Grade Glioma,10.3389/fonc.2021.756828,2022,BRATS,Brain
+Deep Learning for Smart Healthcare—A Survey on Brain Tumor Detection from Medical Imaging,10.3390/s22051960,2022,BRATS,Brain
+BrainSeg-Net: Brain Tumor MR Image Segmentation via Enhanced Encoder–Decoder Network,10.3390/diagnostics11020169,2021,BRATS,Brain
+AUCseg: An Automatically Unsupervised Clustering Toolbox for 3D-Segmentation of High-Grade Gliomas in Multi-Parametric MR Images,10.3389/fonc.2021.679952,2021,BRATS,Brain
+Methods and open-source toolkit for analyzing and visualizing challenge results,10.1038/s41598-021-82017-6,2021,BRATS,Brain
+Security and Privacy of Cloud- and IoT-Based Medical Image Diagnosis Using Fuzzy Convolutional Neural Network,10.1155/2021/6615411,2021,BRATS,Brain
+Analyzing magnetic resonance imaging data from glioma patients using deep learning,10.1016/j.compmedimag.2020.101828,2021,BRATS,Brain
+Development and Practical Implementation of a Deep Learning–Based Pipeline for Automated Pre- and Postoperative Glioma Segmentation,10.3174/ajnr.A7363,2022,BRATS,Brain
+Magnetic resonance image-based brain tumour segmentation methods: A systematic review,10.1177/20552076221074122,2022,BRATS,Brain
+Reproducibility analysis of multi‐institutional paired expert annotations and radiomic features of the Ivy Glioblastoma Atlas Project (Ivy GAP) dataset,10.1002/mp.14556,2020,BRATS,Brain
+Where did the tumor start? An inverse solver with sparse localization for tumor growth models,10.1088/1361-6420/ab649c,2020,BRATS,Brain
+Integrative radiomic analysis for pre-surgical prognostic stratification of glioblastoma patients: from advanced to basic MRI protocols,10.1117/12.2566505,2020,BRATS,Brain
+The future of digital health with federated learning,10.1038/s41746-020-00323-1,2020,BRATS,Brain
+A Deep Learning Framework for Segmenting Brain Tumors Using MRI and Synthetically Generated CT Images,10.3390/s22020523,2022,BRATS,Brain
+Brain tumor image generation using an aggregation of GAN models with style transfer,10.1038/s41598-022-12646-y,2022,BRATS,Brain
+Fully Automated MR Based Virtual Biopsy of Cerebral Gliomas,10.3390/cancers13246186,2021,BRATS,Brain
+RETRACTED ARTICLE: Brain tumor identification and classification of MRI images using data augmented support vector machine,10.1007/s11571-021-09774-y,2022,BRATS,Brain
+Diagnosis of Brain Tumor Using Light Weight Deep Learning Model with Fine-Tuning Approach,10.1155/2022/2858845,2022,BRATS,Brain
+Brain tumor segmentation using hierarchical combination of fuzzy logic and cellular automata,10.4103/jmss.jmss_128_21,2022,BRATS,Brain
+Artificial intelligence in the radiomic analysis of glioblastomas: A review taxonomy and perspective,10.3389/fonc.2022.924245,2022,BRATS,Brain
+Unsupervised domain adaptation for segmentation with black-box source model,10.1117/12.2607895,2022,BRATS,Brain
+A Framework for Interactive Medical Image Segmentation Using Optimized Swarm Intelligence with Convolutional Neural Networks,10.1155/2022/7935346,2022,BRATS,Brain
+MM-UNet: A multimodality brain tumor segmentation network in MRI images,10.3389/fonc.2022.950706,2022,BRATS,Brain
+Self-Semantic Contour Adaptation for Cross Modality Brain Tumor Segmentation,10.1109/isbi52829.2022.9761629,2022,BRATS,Brain
+The federated tumor segmentation (FeTS) tool: an open-source solution to further solid tumor research,10.1088/1361-6560/ac9449,2022,BRATS,Brain
+Preoperative Brain Tumor Imaging: Models and Software for Segmentation and Standardized Reporting,10.3389/fneur.2022.932219,2022,BRATS,Brain
+A Two-Stage Cascade Model with Variational Autoencoders and Attention Gates for MRI Brain Tumor Segmentation,10.1007/978-3-030-72084-1_39,2020,BRATS,Brain
+Deep learning for prediction of isocitrate dehydrogenase mutation in gliomas: a critical approach systematic review and meta-analysis of the diagnostic test performance using a Bayesian approach,10.21037/qims-22-34,2022,BRATS,Brain
+Review on Hybrid Segmentation Methods for Identification of Brain Tumor in MRI,10.1155/2022/1541980,2022,BRATS,Brain
+Bayesian Depth-Wise Convolutional Neural Network Design for Brain Tumor MRI Classification,10.3390/diagnostics12071657,2022,BRATS,Brain
+SplitAVG: A Heterogeneity-Aware Federated Deep Learning Method for Medical Imaging,10.1109/JBHI.2022.3185956,2022,BRATS,Brain
+Multi-Modal Brain Tumor Detection Using Deep Neural Network and Multiclass SVM,10.3390/medicina58081090,2022,BRATS,Brain
+Deep learning for fast low-field MRI acquisitions,10.1038/s41598-022-14039-7,2022,BRATS,Brain
+Generalising from conventional pipelines using deep learning in high-throughput screening workflows,10.1038/s41598-022-15623-7,2022,BRATS,Brain
+AI for Population and Global Health in Radiology,10.1148/ryai.220107,2022,BRATS,Brain
+Explainable medical imaging AI needs human-centered design: guidelines and evidence from a systematic review,10.1038/s41746-022-00699-2,2022,BRATS,Brain
+A general skull stripping of multiparametric brain MRIs using 3D convolutional neural network,10.1038/s41598-022-14983-4,2022,BRATS,Brain
+An Efficient Optimization Approach for Glioma Tumor Segmentation in Brain MRI,10.1007/s10278-022-00655-2,2022,BRATS,Brain
+Deep neural networks allow expert-level brain meningioma segmentation and present potential for improvement of clinical practice,10.1038/s41598-022-19356-5,2022,BRATS,Brain
+Detection on Cell Cancer Using the Deep Transfer Learning and Histogram Based Image Focus Quality Assessment,10.3390/s22187007,2022,BRATS,Brain
+Transfer learning-based approach for automated kidney segmentation on multiparametric MRI sequences,10.1117/1.JMI.9.3.036001,2022,BRATS,Brain
+Challenges in Glioblastoma Radiomics and the Path to Clinical Implementation,10.3390/cancers14163897,2022,BRATS,Brain
+Accurate segmentation of neonatal brain MRI with deep learning,10.3389/fninf.2022.1006532,2022,BRATS,Brain
+Machine Learning Tools for Image-Based Glioma Grading and the Quality of Their Reporting: Challenges and Opportunities,10.3390/cancers14112623,2022,BRATS,Brain
+Machine Learning for the Detection and Segmentation of Benign Tumors of the Central Nervous System: A Systematic Review,10.3390/cancers14112676,2022,BRATS,Brain
+A state-of-the-art technique to perform cloud-based semantic segmentation using deep learning 3D U-Net architecture,10.1186/s12859-022-04794-9,2022,BRATS,Brain
+The Medical Segmentation Decathlon,10.1038/s41467-022-30695-9,2022,BRATS,Brain
+A medical image segmentation method based on multi-dimensional statistical features,10.3389/fnins.2022.1009581,2022,BRATS,Brain
+Brain tumor segmentation in multimodal MRI via pixel-level and feature-level image fusion,10.3389/fnins.2022.1000587,2022,BRATS,Brain
+SwinBTS: A Method for 3D Multimodal Brain Tumor Segmentation Using Swin Transformer,10.3390/brainsci12060797,2022,BRATS,Brain
+Machine learning in neuroimaging: from research to clinical practice,10.1007/s00117-022-01051-1,2022,BRATS,Brain
+Impact of random outliers in auto-segmented targets on radiotherapy treatment plans for glioblastoma,10.1186/s13014-022-02137-9,2022,BRATS,Brain
+The Latest Trends in Attention Mechanisms and Their Application in Medical Imaging,10.3348/jksr.2020.0150,2020,BRATS,Brain
+A domain adaptation benchmark for T1-weighted brain magnetic resonance image segmentation,10.3389/fninf.2022.919779,2022,BRATS,Brain
+Confidence Region Identification and Contour Detection in MRI Image,10.1155/2022/5898479,2022,BRATS,Brain
+Morphological and Fractal Properties of Brain Tumors,10.3389/fphys.2022.878391,2022,BRATS,Brain
+Overall Survival Prediction of Glioma Patients With Multiregional Radiomics,10.3389/fnins.2022.911065,2022,BRATS,Brain
+A layer-wise fusion network incorporating self-supervised learning for multimodal MR image synthesis,10.3389/fgene.2022.937042,2022,BRATS,Brain
+RP-Rs-fMRIomics as a Novel Imaging Analysis Strategy to Empower Diagnosis of Brain Gliomas,10.3390/cancers14122818,2022,BRATS,Brain
+Radiomics and radiogenomics in pediatric neuro-oncology: A review,10.1093/noajnl/vdac083,2022,BRATS,Brain
+Combined molecular subtyping grading and segmentation of glioma using multi-task deep learning,10.1093/neuonc/noac166,2022,BRATS,Brain
+A Feasibility Study on Deep Learning Based Brain Tumor Segmentation Using 2D Ellipse Box Areas,10.3390/s22145292,2022,BRATS,Brain
+Brain Tumor Segmentation Using Deep Capsule Network and Latent-Dynamic Conditional Random Fields,10.3390/jimaging8070190,2022,BRATS,Brain
+Automated Identification of Multiple Findings on Brain MRI for Improving Scan Acquisition and Interpretation Workflows: A Systematic Review,10.3390/diagnostics12081878,2022,BRATS,Brain
+A Sequential Machine Learning-cum-Attention Mechanism for Effective Segmentation of Brain Tumor,10.3389/fonc.2022.873268,2022,BRATS,Brain
+CAU-Net: A Deep Learning Method for Deep Gray Matter Nuclei Segmentation,10.3389/fnins.2022.918623,2022,BRATS,Brain
+Unsupervised Black-Box Model Domain Adaptation for Brain Tumor Segmentation,10.3389/fnins.2022.837646,2022,BRATS,Brain
+Automated brain tumor identification using magnetic resonance imaging: A systematic review and meta-analysis,10.1093/noajnl/vdac081,2022,BRATS,Brain
+Longitudinal Assessment of Posttreatment Diffuse Glioma Tissue Volumes with Three-dimensional Convolutional Neural Networks,10.1148/ryai.210243,2022,BRATS,Brain
 nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation,10.1038/s41592-020-01008-z,2021,ACDC,Cardiac
 Automated cardiovascular magnetic resonance image analysis with fully convolutional networks,10.1186/s12968-018-0471-x,2018,ACDC,Cardiac
 Deep Learning for Cardiac Image Segmentation: A Review,10.3389/fcvm.2020.00025,2019,ACDC,Cardiac
@@ -4193,134 +4193,134 @@ Large-Kernel Attention for 3D Medical Image Segmentation,10.1007/s12559-023-1012
 Efficient U-Net Architecture with Multiple Encoders and Attention Mechanism Decoders for Brain Tumor Segmentation,10.3390/diagnostics13050872,2023,BRATS,Brain
 A robust deep learning method for radiation induced pulmonary fibrosis disease classification in lung CT-a review,10.1109/icpects56089.2022.10047728,2022,BRATS,Brain
 Recent advancement in learning methodology for segmenting brain tumor from magnetic resonance imaging -a review,10.1007/s11042-023-14857-5,2023,BRATS,Brain
-None,10.1166/jmihi.2022.3927,2022,ACDC,Cardiac
-None,10.7498/aps.70.20210885,2021,ACDC,Cardiac
-None,10.3889/oamjms.2021.7806,2021,ACDC,Cardiac
-None,10.1259/bjr.20201060,2022,ACDC,Cardiac
-None,10.2174/1573405617666210126153920,2021,ACDC,Cardiac
-None,10.1166/jmihi.2021.3510,2021,ACDC,Cardiac
-None,10.1109/embc44109.2020.9175749,2020,ACDC,Cardiac
-None,10.1007/978-3-030-03009-4_109-1,2022,ACDC,Cardiac
-None,10.1109/niles.2019.8909320,2019,ACDC,Cardiac
-None,10.1109/csci54926.2021.00322,2021,ACDC,Cardiac
-None,10.1109/icce-tw52618.2021.9602950,2021,ACDC,Cardiac
-None,10.1109/bigdata52589.2021.9671847,2021,ACDC,Cardiac
-None,10.1109/access.2020.3026073,2020,ACDC,Cardiac
-None,10.1109/access.2022.3165574,2022,ACDC,Cardiac
-None,10.1109/it-ela52201.2021.9773601,2021,ACDC,Cardiac
-None,10.1117/12.2612968,2022,ACDC,Cardiac
-None,10.1016/b978-0-12-824349-7.00023-2,2022,ACDC,Cardiac
-None,10.1109/bibm52615.2021.9669630,2021,ACDC,Cardiac
-None,10.1109/ultsym.2018.8580136,2018,ACDC,Cardiac
-None,10.1109/embc46164.2021.9630115,2021,ACDC,Cardiac
-None,10.1109/embc46164.2021.9630335,2021,ACDC,Cardiac
-None,10.1109/icip.2016.7532842,2016,PROMISE12,Cardiac
-None,10.1109/isbi.2018.8363695,2018,PROMISE12,Cardiac
-None,10.1109/bigdata52589.2021.9672031,2021,PROMISE12,Cardiac
-None,10.1109/isbi52829.2022.9761564,2022,PROMISE12,Cardiac
-None,10.1109/access.2019.2951762,2019,PROMISE12,Cardiac
-None,10.1109/rcar49640.2020.9303035,2020,PROMISE12,Cardiac
-None,10.1016/b978-0-323-99031-8.00011-9,2022,PROMISE12,Cardiac
-None,10.23919/ccc50068.2020.9188748,2020,PROMISE12,Cardiac
-None,10.1109/ist50367.2021.9651383,2021,M&Ms,Prostate
-None,10.1109/isbi52829.2022.9761564,2022,I2CVB,Prostate
-None,10.1109/isspit.2018.8642689,2018,I2CVB,Prostate
-None,10.1016/j.diii.2017.12.003,2018,I2CVB,Prostate
-None,10.1145/3194480.3194494,2018,BRATS,Brain
-None,10.1145/3314367.3314384,2019,BRATS,Brain
-None,10.4015/s1016237219500194,2019,BRATS,Brain
-None,10.1007/978-3-319-55524-9_10,2016,BRATS,Brain
-None,10.1109/atsip.2018.8364470,2018,BRATS,Brain
-None,10.1109/atsip.2018.8364472,2018,BRATS,Brain
-None,10.1166/jmihi.2021.3915,2021,BRATS,Brain
-None,10.1166/jmihi.2021.3872,2021,BRATS,Brain
-None,10.1109/icmipe47306.2019.9098212,2019,BRATS,Brain
-None,10.1109/icmipe47306.2019.9098234,2019,BRATS,Brain
-None,10.1109/smart52563.2021.9676243,2021,BRATS,Brain
-None,10.1109/smart52563.2021.9676317,2021,BRATS,Brain
-None,10.1109/indicon52576.2021.9691588,2021,BRATS,Brain
-None,10.1109/ccdc52312.2021.9602856,2021,BRATS,Brain
-None,10.1109/ci-ibbi54220.2021.9626115,2021,BRATS,Brain
-None,10.1117/12.2623112,2021,BRATS,Brain
-None,10.1109/isbi52829.2022.9761422,2022,BRATS,Brain
-None,10.1109/isbi52829.2022.9761522,2022,BRATS,Brain
-None,10.1145/3405758.3405770,2020,BRATS,Brain
-None,10.1146/annurev-biodatasci-022620-015538,2020,BRATS,Brain
-None,10.1109/icscds53736.2022.9761029,2022,BRATS,Brain
-None,10.1109/isbi52829.2022.9761515,2022,BRATS,Brain
-None,10.1109/isbi52829.2022.9761524,2022,BRATS,Brain
-None,10.1016/b978-0-12-824349-7.00022-0,2022,BRATS,Brain
-None,10.1109/indicon45594.2018.8987146,2018,BRATS,Brain
-None,10.1007/978-981-16-9447-9_7,2022,BRATS,Brain
-None,10.1109/access.2019.2916724,2019,BRATS,Brain
-None,10.1109/icosst53930.2021.9683838,2021,BRATS,Brain
-None,10.1109/icai55435.2022.9773383,2022,BRATS,Brain
-None,10.1007/978-3-031-02444-3_28,2022,BRATS,Brain
-None,10.1007/978-981-19-0976-4_39,2022,BRATS,Brain
-None,10.1109/icdsca53499.2021.9650185,2021,BRATS,Brain
-None,10.1007/978-981-16-9705-0_12,2022,BRATS,Brain
-None,10.1109/iaecst54258.2021.9695597,2021,BRATS,Brain
-None,10.1109/ipdpsw50202.2020.00169,2020,BRATS,Brain
-None,10.1109/sami48414.2020.9108770,2020,BRATS,Brain
-None,10.1109/icmlc51923.2020.9469580,2020,BRATS,Brain
-None,10.1007/978-981-19-1122-4_42,2022,BRATS,Brain
-None,10.1117/12.2611614,2022,BRATS,Brain
-None,10.1117/12.2612968,2022,BRATS,Brain
-None,10.1007/978-981-19-3440-7_11,2022,BRATS,Brain
-None,10.1109/tsp.2019.8769056,2019,BRATS,Brain
-None,10.1109/isbi52829.2022.9761443,2022,BRATS,Brain
-None,10.1109/isbi52829.2022.9761538,2022,BRATS,Brain
-None,10.23919/indiacom54597.2022.9763105,2022,BRATS,Brain
-None,10.1109/bibm52615.2021.9669327,2021,BRATS,Brain
-None,10.1109/bibm52615.2021.9669442,2021,BRATS,Brain
-None,10.1016/b978-0-12-817133-2.00009-4,2020,BRATS,Brain
-None,10.1109/icac3n53548.2021.9725676,2021,BRATS,Brain
-None,10.1109/smc42975.2020.9282987,2020,BRATS,Brain
-None,10.1109/icoei51242.2021.9452991,2021,BRATS,Brain
-None,10.3390/electronics11121911,2022,BRATS,Brain
-None,10.1117/12.2611809,2022,BRATS,Brain
-None,10.1109/mvip53647.2022.9738739,2022,BRATS,Brain
-None,10.1109/embc46164.2021.9629779,2021,BRATS,Brain
-None,10.1109/embc46164.2021.9630417,2021,BRATS,Brain
-None,10.1109/embc46164.2021.9630435,2021,BRATS,Brain
-None,10.1109/embc46164.2021.9631035,2021,BRATS,Brain
-None,10.1109/icmipe53131.2021.9698882,2021,BRATS,Brain
-None,10.1109/aespc52704.2021.9708467,2021,BRATS,Brain
-None,10.1016/b978-0-12-821259-2.00020-x,2021,BRATS,Brain
-None,10.1109/ivcnz54163.2021.9653349,2021,BRATS,Brain
-None,10.1109/iconat53423.2022.9725929,2022,BRATS,Brain
-None,10.1007/978-3-031-09002-8_22,2022,BRATS,Brain
-None,10.1007/978-3-031-09002-8_28,2022,BRATS,Brain
-None,10.1007/978-3-031-09002-8_31,2022,BRATS,Brain
-None,10.1007/978-3-031-09002-8_4,2022,BRATS,Brain
-None,10.1007/978-3-031-09002-8_43,2022,BRATS,Brain
-None,10.1109/iementech.2018.8465342,2018,BRATS,Brain
-None,10.1117/12.2611622,2022,BRATS,Brain
-None,10.1109/access.2019.2962750,2020,BRATS,Brain
-None,10.1007/978-3-031-09002-8_12,2022,BRATS,Brain
-None,10.1101/2021.06.11.21258742,2021,BRATS,Brain
-None,10.12677/pm.2021.115104,2021,BRATS,Brain
-None,10.1007/978-3-031-00119-2_5,2022,BRATS,Brain
-None,10.1109/stcr51658.2021.9588847,2021,BRATS,Brain
-None,10.1109/jbhi.2021.3137603,2022,BRATS,Brain
-None,10.1117/12.2611126,2022,BRATS,Brain
-None,10.1117/12.2611353,2022,BRATS,Brain
-None,10.1117/12.2611810,2022,BRATS,Brain
-None,10.1117/12.2611867,2022,BRATS,Brain
-None,10.1117/12.2612287,2022,BRATS,Brain
-None,10.2174/1573405616666200712180521,2020,BRATS,Brain
-None,10.4103/jmss.jmss_43_20,2021,BRATS,Brain
-None,10.1142/s0219467821400052,2021,BRATS,Brain
-None,10.1002/mp.15380,2021,BRATS,Brain
-None,10.1002/mp.15369,2021,BRATS,Brain
-None,10.1007/978-3-030-30642-7_46,2019,Synapse,Multi-organ
-None,10.1038/s41592-020-01008-z,2020,Synapse,Multi-organ
-None,10.1007/s11548-021-02363-8,2021,Synapse,Multi-organ
-None,10.1007/978-3-030-87583-1_17,2021,Synapse,Multi-organ
-None,10.1007/978-3-030-90874-4_10,2021,Synapse,Multi-organ
-None,10.1038/s41598-022-18173-0,2022,Synapse,Multi-organ
-None,10.1007/978-3-031-16852-9_13,2022,Synapse,Multi-organ
-None,10.1038/s41598-022-20108-8,2022,Synapse,Multi-organ
-None,10.1007/978-3-031-16440-8_68,2022,Synapse,Multi-organ
-None,10.1007/978-3-031-16449-1_64,2022,Synapse,Multi-organ
-None,10.1007/978-3-031-18523-6_6,2022,Synapse,Multi-organ
+Bridge Segmentation Performance Gap Via Evolving Shape Prior,10.1109/access.2020.3026073,2020,ACDC,Cardiac
+Skin Disease Analysis With Limited Data in Particular Rosacea: A Review and Recommended Framework,10.1109/access.2022.3165574,2022,ACDC,Cardiac
+Enhancement and Lightweight Fusion U-Net for Segmentation of Cardiac Structures in MRI,10.1109/it-ela52201.2021.9773601,2021,ACDC,Cardiac
+Deep mutual GANs: representation learning from multiple experts,10.1117/12.2612968,2022,ACDC,Cardiac
+Regularizing disentangled representations with anatomical temporal consistency,10.1016/b978-0-12-824349-7.00023-2,2022,ACDC,Cardiac
+Evaluating the pre-processing impact on the generalization of deep learning networks for left ventricle segmentation,10.1109/bibm52615.2021.9669630,2021,ACDC,Cardiac
+Deep Learning Applied to Multi-Structure Segmentation in 2D Echocardiography: A Preliminary Investigation of the Required Database Size,10.1109/ultsym.2018.8580136,2018,ACDC,Cardiac
+Cardiac Disease Representation Conditioned by Spatio-temporal Priors in Cine-MRI Sequences Using Generative Embedding Vectors,10.1109/embc46164.2021.9630115,2021,ACDC,Cardiac
+3D Attention M-net for Short-axis Left Ventricular Myocardium Segmentation in Mice MR cardiac Images,10.1109/embc46164.2021.9630335,2021,ACDC,Cardiac
+Making Semi-Automatic Segmentation Method to be Automatic Using Deep Learning for Biventricular Segmentation,10.1166/jmihi.2022.3927,2022,ACDC,Cardiac
+A Semi-Automatic Method To Segment The Left Atrium in MR Volumes With Varying Slice Numbers,10.1109/embc44109.2020.9175749,2020,ACDC,Cardiac
+Variational Models and Their Combinations with Deep Learning in Medical Image Segmentation: A Survey,10.1007/978-3-030-03009-4_109-1,2022,ACDC,Cardiac
+LVLNET: Lightweight Left Ventricle Localizer using Encoder-Decoder Neural Network,10.1109/niles.2019.8909320,2019,ACDC,Cardiac
+A Fully Convolutional Neural Network Based on 2D-Unet in Cardiac MR Image Segmentation,10.1109/csci54926.2021.00322,2021,ACDC,Cardiac
+An Automated Cardiac Ventricle Segmentation on CMR Images Using Grey-Level Mask R-CNN,10.1109/icce-tw52618.2021.9602950,2021,ACDC,Cardiac
+Generalization in Cardiac Image Segmentation,10.1109/bigdata52589.2021.9671847,2021,ACDC,Cardiac
+Motion tracking of left myocardium in cardiac cine magnetic resonance image based on displacement flow U-Net and variational autoencoder,10.7498/aps.70.20210885,2021,ACDC,Cardiac
+Detection of Cardiac Tissues using K-means Analysis Methods in Nuclear Medicine Images,10.3889/oamjms.2021.7806,2021,ACDC,Cardiac
+Artificial intelligence study on left ventricular function among normal individuals hypertrophic cardiomyopathy and dilated cardiomyopathy patients using 1.5T cardiac cine MR images obtained by SSFP sequence,10.1259/bjr.20201060,2022,ACDC,Cardiac
+Classification of Heart Disease Using MFO Based Neural Network on MRI Images,10.2174/1573405617666210126153920,2021,ACDC,Cardiac
+A Novel Image Segmentation Method for Cardiac MRI Using Support Vector Machine Algorithm Based on Particle Swarm Optimization,10.1166/jmihi.2021.3510,2021,ACDC,Cardiac
+Prostate Localization in 2D Sequence MR with Fusion of Center Position Prior and Sequence Correlation,10.23919/ccc50068.2020.9188748,2020,PROMISE12,Cardiac
+Notice of Removal Feature selection and patch-based segmentation in MRI for prostate radiotherapy,10.1109/icip.2016.7532842,2016,PROMISE12,Cardiac
+Collaborative learning based feature adaption model with applications on MRI prostate boundary delineation,10.1109/isbi.2018.8363695,2018,PROMISE12,Cardiac
+A Feature Regularization Based Meta-Learning Framework for Generalizing Prostate Mri Segmentation,10.1109/isbi52829.2022.9761564,2022,PROMISE12,Cardiac
+Isolated Pulmonary Nodules Characteristics Detection Based on CT Images,10.1109/access.2019.2951762,2019,PROMISE12,Cardiac
+Self-Paced Learning for Automatic Prostate Segmentation on MR Images with Hierarchical Boundary Sensitive Network,10.1109/rcar49640.2020.9303035,2020,PROMISE12,Cardiac
+Computer-aided knee joint MR image segmentation—An overview,10.1016/b978-0-323-99031-8.00011-9,2022,PROMISE12,Cardiac
+DRA U-Net: An Attention based U-Net Framework for 2D Medical Image Segmentation,10.1109/bigdata52589.2021.9672031,2021,PROMISE12,Cardiac
+Left ventricular segmentation from cardiac MRI data,10.1109/ist50367.2021.9651383,2021,M&Ms,Prostate
+Variability induced by the MR imager in dynamic contrast-enhanced imaging of the prostate,10.1016/j.diii.2017.12.003,2018,I2CVB,Prostate
+A Feature Regularization Based Meta-Learning Framework for Generalizing Prostate Mri Segmentation,10.1109/isbi52829.2022.9761564,2022,I2CVB,Prostate
+A Computer-Aided System for Prostate Cancer Diagnosis,10.1109/isspit.2018.8642689,2018,I2CVB,Prostate
+Class Balanced PixelNet for Neurological Image Segmentation,10.1145/3194480.3194494,2018,BRATS,Brain
+An Unsupervised Learning with Feature Approach for Brain Tumor Segmentation Using Magnetic Resonance Imaging,10.1145/3314367.3314384,2019,BRATS,Brain
+CRF-Based Brain Tumor Segmentation: Alleviating the Shrinking Bias,10.1007/978-3-319-55524-9_10,2016,BRATS,Brain
+Feature selection and classification using multiple kernel learning for brain tumor segmentation,10.1109/atsip.2018.8364470,2018,BRATS,Brain
+Glioblastoma MRT exploration based on segmentation methods' comparison: Towards an advanced clinical aided tool,10.1109/atsip.2018.8364472,2018,BRATS,Brain
+A RANK-TWO NMF CLUSTERING: APPLICATION TO GLIOBLASTOMAS CHARACTERIZATION AND COMPARATIVE STUDY,10.4015/s1016237219500194,2019,BRATS,Brain
+An Efficient Framework for the Segmentation of Glioma Brain Tumor Using Image Fusion and Co-Active Adaptive Neuro Fuzzy Inference System Classification Method,10.1166/jmihi.2021.3915,2021,BRATS,Brain
+Brain tumor segmentation with attention-based U-Net,10.1117/12.2623112,2021,BRATS,Brain
+A Deep Residual Learning Implementation of Metamorphosis,10.1109/isbi52829.2022.9761422,2022,BRATS,Brain
+Semi-Supervised Pseudo-Healthy Image Synthesis via Confidence Augmentation,10.1109/isbi52829.2022.9761522,2022,BRATS,Brain
+Tumor Categorization Model (TCM) Using Soft Computing Techniques for Providing Efficient Medical Support in Brain Tumor Treatments,10.1166/jmihi.2021.3872,2021,BRATS,Brain
+ConvRadiomics: Convolutional Radiomics Feature Extraction Toolkit,10.1109/icmipe47306.2019.9098212,2019,BRATS,Brain
+Improved U-Net with Multi-scale Cross Connection and Dilated Convolution for Brain Tumor Segmentation,10.1109/icmipe47306.2019.9098234,2019,BRATS,Brain
+A Comparative Study on CNN Techniques for Cancer Detection in Medical Images,10.1109/smart52563.2021.9676243,2021,BRATS,Brain
+Brain Tumor Segmentation and Tumor Prediction Using 2D-VNet Deep Learning Architecture,10.1109/smart52563.2021.9676317,2021,BRATS,Brain
+A more generalizable DNN based Automatic Segmentation of Brain Tumors from Multimodal low-resolution 2D MRI,10.1109/indicon52576.2021.9691588,2021,BRATS,Brain
+Two-stage Cascaded Network With Deep Supervision And Residual Attention For Brain Tumor Segmentation,10.1109/ccdc52312.2021.9602856,2021,BRATS,Brain
+Hirni: Segmentation of Brain Tumors in Multi-parametric Magnetic Resonance Imaging Scans,10.1109/ci-ibbi54220.2021.9626115,2021,BRATS,Brain
+Unsupervised Multimodal MR Images Synthesizer Using Knowledge From Higher Dimension,10.1109/bibm52615.2021.9669327,2021,BRATS,Brain
+Event-related fMRI over-segmentation by Rough Simple Linear Iterative Clustering applied in schizophrenia diagnosis,10.1109/bibm52615.2021.9669442,2021,BRATS,Brain
+Detection of Abnormalities in Brain using Machine Learning in Medical Image Analysis,10.1109/icscds53736.2022.9761029,2022,BRATS,Brain
+Brain Cancer Survival Prediction on Treatment-Naïve MRI using Deep Anchor Attention Learning with Vision Transformer,10.1109/isbi52829.2022.9761515,2022,BRATS,Brain
+Anomaly Detection via Context and Local Feature Matching,10.1109/isbi52829.2022.9761524,2022,BRATS,Brain
+Unsupervised abnormality detection in medical images with deep generative methods,10.1016/b978-0-12-824349-7.00022-0,2022,BRATS,Brain
+Semantic Segmentation of Brain Tumor from MRI Images,10.1109/indicon45594.2018.8987146,2018,BRATS,Brain
+Multimodal MRI Analysis for Segmentation of Intra-tumoral Regions of High-Grade Glioma Using VNet and WNet Based Deep Models,10.1007/978-981-16-9447-9_7,2022,BRATS,Brain
+Improved Maximum Margin Clustering via the Bundle Method,10.1109/access.2019.2916724,2019,BRATS,Brain
+MRI Based Glioma Detection and Classification into Low-grade and High-Grade Gliomas,10.1109/icosst53930.2021.9683838,2021,BRATS,Brain
+Segmentation of Brain Tumor from Medical Images with Novel U-Shaped Encoder Decoder Architecture,10.1109/icai55435.2022.9773383,2022,BRATS,Brain
+Coarse-to-Fine Learning Framework for Semi-supervised Multimodal MRI Synthesis,10.1007/978-3-031-02444-3_28,2022,BRATS,Brain
+Performance Analysis for Accuracy of Various Algorithms to Detect and Classify Brain Tumor Using Data Mining,10.1007/978-981-19-0976-4_39,2022,BRATS,Brain
+Research on Feature Detection Based on Convolutional Network with Deep Instance Segmentation,10.1109/icdsca53499.2021.9650185,2021,BRATS,Brain
+Contemporary Technique for Detection of Brain Tumor in Fluid-Attenuated Inversion Recovery Magnetic Resonance Imaging (MRI) Images,10.1007/978-981-16-9705-0_12,2022,BRATS,Brain
+A Dimension Hybrid Framework for Multimodal Medical Image Segmentation,10.1109/iaecst54258.2021.9695597,2021,BRATS,Brain
+Testing Deep Segmentation of Computer Tomography Scans,10.1145/3405758.3405770,2020,BRATS,Brain
+Analysis of MRI Data in Diagnostic Neuroradiology,10.1146/annurev-biodatasci-022620-015538,2020,BRATS,Brain
+Accelerating Towards Larger Deep Learning Models and Datasets – A System Platform View Point,10.1109/ipdpsw50202.2020.00169,2020,BRATS,Brain
+The Effect of Spectral Resolution Upon the Accuracy of Brain Tumor Segmentation from Multi-Spectral MRI Data,10.1109/sami48414.2020.9108770,2020,BRATS,Brain
+Semantic Segmentation of Brain Tumor from 3D Structural MRI Using U-Net Autoencoder,10.1109/icmlc51923.2020.9469580,2020,BRATS,Brain
+Deep Learning Based Brain Tumor Segmentation: Recent Updates,10.1007/978-981-19-1122-4_42,2022,BRATS,Brain
+High-resolution MR imaging using self-supervised parallel network,10.1117/12.2611614,2022,BRATS,Brain
+Deep mutual GANs: representation learning from multiple experts,10.1117/12.2612968,2022,BRATS,Brain
+Deep Reinforcement Learning Classification of Brain Tumors on MRI,10.1007/978-981-19-3440-7_11,2022,BRATS,Brain
+Segmentation of gliomas in magnetic resonance images using recurrent neural networks,10.1109/tsp.2019.8769056,2019,BRATS,Brain
+Unsupervised Anomaly Detection in 3D Brain MRI Using Deep Learning with Impured Training Data,10.1109/isbi52829.2022.9761443,2022,BRATS,Brain
+Multi-Class Brain Tumor Segmentation via 3d and 2d Neural Networks,10.1109/isbi52829.2022.9761538,2022,BRATS,Brain
+Novel Hybrid Boosted Ensemble Learning Framework for Brain Tumor Prediction,10.23919/indiacom54597.2022.9763105,2022,BRATS,Brain
+Artificial intelligence as applied to clinical neurological conditions,10.1016/b978-0-12-821259-2.00020-x,2021,BRATS,Brain
+Artificial intelligence for management of patients with intracranial neoplasms,10.1016/b978-0-12-817133-2.00009-4,2020,BRATS,Brain
+Segmentation on Brain Tumor MRI Images Using Convolution Neural Network (CNN),10.1109/icac3n53548.2021.9725676,2021,BRATS,Brain
+Brain Tumor Segmentation from Multi-Spectral Magnetic Resonance Image Data Using an Ensemble Learning Approach,10.1109/smc42975.2020.9282987,2020,BRATS,Brain
+Detecting Cancer in Gastrointestinal Images using MATLAB,10.1109/icoei51242.2021.9452991,2021,BRATS,Brain
+LGMSU-Net: Local Features Global Features and Multi-Scale Features Fused the U-Shaped Network for Brain Tumor Segmentation,10.3390/electronics11121911,2022,BRATS,Brain
+Brain multi-parametric MRI tumor subregion segmentation via hierarchical substructural activation network,10.1117/12.2611809,2022,BRATS,Brain
+Employing a Hybrid Technique to Detect Tumor in Medical Images,10.1109/mvip53647.2022.9738739,2022,BRATS,Brain
+Radiologically Defined Tumor-habitat Adjacency as a Prognostic Biomarker in Glioblastoma,10.1109/embc46164.2021.9629779,2021,BRATS,Brain
+Improving Localization of Brain Tumors through 3D GAN Inpainting,10.1109/embc46164.2021.9630417,2021,BRATS,Brain
+Learning to Generate Missing Pulse Sequence in MRI using Deep Convolution Neural Network Trained with Visual Turing Test,10.1109/embc46164.2021.9630435,2021,BRATS,Brain
+Whole Tumor Segmentation from Brain MR images using Multi-view 2D Convolutional Neural Network,10.1109/embc46164.2021.9631035,2021,BRATS,Brain
+An Automatic Method for Brain Tumors Segmentation Based on Deep Convolutional Neural Network,10.1109/icmipe53131.2021.9698882,2021,BRATS,Brain
+Glioma Segmentation from Multimodal MRI using U-Net Convolutional Neural Networks,10.1109/aespc52704.2021.9708467,2021,BRATS,Brain
+Perceptual Variation Stacking: Test Time Augmentations in Endoscopy Image Segmentation,10.1109/ivcnz54163.2021.9653349,2021,BRATS,Brain
+Deep Classification of Glioma Grade using 3D Wavelet Features,10.1109/iconat53423.2022.9725929,2022,BRATS,Brain
+Brain Tumor Segmentation Using Deep Infomax,10.1007/978-3-031-09002-8_22,2022,BRATS,Brain
+Brain Tumor Segmentation in mpMRI Scans (BraTS-2021) Using Models Based on U-Net Architecture,10.1007/978-3-031-09002-8_28,2022,BRATS,Brain
+A Deep Learning Approach to Glioblastoma Radiogenomic Classification Using Brain MRI,10.1007/978-3-031-09002-8_31,2022,BRATS,Brain
+Evaluating Scale Attention Network for Automatic Brain Tumor Segmentation with Large Multi-parametric MRI Database,10.1007/978-3-031-09002-8_4,2022,BRATS,Brain
+Brain Tumor Segmentation Using Two-Stage Convolutional Neural Network for Federated Evaluation,10.1007/978-3-031-09002-8_43,2022,BRATS,Brain
+Lesion Segmentation Using Entropy Based Membership,10.1109/iementech.2018.8465342,2018,BRATS,Brain
+Deep learning-based contrast-enhanced MRI using cascade networks with local supervision,10.1117/12.2611622,2022,BRATS,Brain
+A Clifford Analytic Signal-Based Breast Lesion Segmentation Method for 4D Spatial-Temporal DCE-MRI Sequences,10.1109/access.2019.2962750,2020,BRATS,Brain
+Brain Tumor Segmentation in Multi-parametric Magnetic Resonance Imaging Using Model Ensembling and Super-resolution,10.1007/978-3-031-09002-8_12,2022,BRATS,Brain
+The Basic Principles of Machine Learning,10.1007/978-3-031-00119-2_5,2022,BRATS,Brain
+Fully-Automatic Segmentation of Gliomas using MR Images,10.1109/stcr51658.2021.9588847,2021,BRATS,Brain
+Uncertainty-Aware Deep Learning With Cross-Task Supervision for PHE Segmentation on CT Images,10.1109/jbhi.2021.3137603,2022,BRATS,Brain
+Synthesis of annotated pathological retinal OCT data with pathology-induced deformations,10.1117/12.2611126,2022,BRATS,Brain
+PET image harmonization using smoothing-cycleGAN,10.1117/12.2611353,2022,BRATS,Brain
+Is this good enough? On expert perception of brain tumor segmentation quality,10.1117/12.2611810,2022,BRATS,Brain
+Do I know this? segmentation uncertainty under domain shift,10.1117/12.2611867,2022,BRATS,Brain
+Prior image-based medical image reconstruction using a style-based generative adversarial network,10.1117/12.2612287,2022,BRATS,Brain
+Decreased tissue stiffness in glioblastoma by MR Elastography is associated with increased cerebral blood flow,10.1101/2021.06.11.21258742,2021,BRATS,Brain
+MR Image Super-Resolution Using Multi-Scale Residual Networks with Regularization Norm,10.12677/pm.2021.115104,2021,BRATS,Brain
+U-Net Model-Based Classification and Description of Brain Tumor in MRI Images,10.1142/s0219467821400052,2021,BRATS,Brain
+Synthesizing high‐resolution magnetic resonance imaging using parallel cycle‐consistent generative adversarial networks for fast magnetic resonance imaging,10.1002/mp.15380,2021,BRATS,Brain
+Progressive attention module for segmentation of volumetric medical images,10.1002/mp.15369,2021,BRATS,Brain
+Brain tumor segmentation using graph coloring approach in magnetic resonance images,10.4103/jmss.jmss_43_20,2021,BRATS,Brain
+Brain Tumor Segmentation of T1w MRI Images Based on Clustering Using Dimensionality Reduction Random Projection Technique,10.2174/1573405616666200712180521,2020,BRATS,Brain
+Multiple Organs Segmentation in Abdomen CT Scans Using a Cascade of CNNs,10.1007/978-3-030-30642-7_46,2019,Synapse,Multi-organ
+nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation,10.1038/s41592-020-01008-z,2020,Synapse,Multi-organ
+Deep learning to segment pelvic bones: large-scale CT datasets and baseline models,10.1007/s11548-021-02363-8,2021,Synapse,Multi-organ
+Endoscopic Ultrasound Image Synthesis Using a Cycle-Consistent Adversarial Network,10.1007/978-3-030-87583-1_17,2021,Synapse,Multi-organ
+Multi-task Federated Learning for Heterogeneous Pancreas Segmentation,10.1007/978-3-030-90874-4_10,2021,Synapse,Multi-organ
+Evaluation of a hybrid pipeline for automated segmentation of solid lesions based on mathematical algorithms and deep learning,10.1038/s41598-022-18173-0,2022,Synapse,Multi-organ
+CateNorm: Categorical Normalization for Robust Medical Image Segmentation,10.1007/978-3-031-16852-9_13,2022,Synapse,Multi-organ
+A pipeline for automated deep learning liver segmentation (PADLLS) from contrast enhanced CT exams,10.1038/s41598-022-20108-8,2022,Synapse,Multi-organ
+Learning Incrementally to Segment Multiple Organs in a CT Image,10.1007/978-3-031-16440-8_68,2022,Synapse,Multi-organ
+Adversarial Consistency for Single Domain Generalization in Medical Image Segmentation,10.1007/978-3-031-16449-1_64,2022,Synapse,Multi-organ
+Joint Multi Organ and Tumor Segmentation from Partial Labels Using Federated Learning,10.1007/978-3-031-18523-6_6,2022,Synapse,Multi-organ
