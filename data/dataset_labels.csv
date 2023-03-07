@@ -1,0 +1,13 @@
+Structure,Keywords
+Abdomen,"Abdomen,Abdominal,Colon,Kidney,Liver,Pancreas,Spleen,Gallblader,Stomach,Aorta,Gastrointestinal,Colorectal"
+Cardiac,"Heart,Cardiovascular,Left Atrium"	
+Head and Neck,"Brain,Cranium,Teeth,Tooth,Hippocampus"
+Eye,"Eye,Retina,Intraretinal,Ocular,Optic disk"
+Lower Limb,"Knee"
+Pelvis,"Cervix,Prostate"
+Skin,"Skin"
+Spine,"Spine,Spinal Cord,Vertebral Column"
+Thorax,"Thorax,Breast,Lung,Chest,Trachea,Pneumothorax,Chest,Pulmonary,Airway"
+Upper Limb,"Hand"
+Cell,"Cell,Nucleus"
+
