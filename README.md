@@ -12,6 +12,7 @@ Refer to data/keys.csv for the complete description of each field of the differe
 1. datasets.csv is the list of dataset with the relative task of the dataset.
 2. papers_gt.csv is the list of papers with manual annotation to check the results of automatic extraction.
 3. paper.csv is the list of paper we want to extract values from.
+4. dimension folder contains a csv for each dataset. Every file contains the list of citations exported from dimension.ai
 
 ### Code:
 Each file starting with extract_papers is used to extract references information from a source. Each of them create a file in extracted_csv folder containing a line for each reference.
@@ -28,12 +29,18 @@ Folder in which csv produced with the processed data of the extraction will be s
 
 ## Usage
 
+### Make the extraction
 1.Execute every extract_paper notebook to generate the references csv.
 
 2.Execute fusion_source notebook to obtain the final csv (merged.csv).
 
+### Add new elements
 To add a new source, you just have to generate a csv file name paper_{name_of_your_source} with the following columns: 
 name,DOI,publication_year,dataset_used
+
+To add a new dataset in existing extraction with OpenAlex and OpenCitation, put in datasets.csv a new line with the dataset information
+
+To add a new dataset with dimension.ai, fusion all the exported files into a single file that respect the format of dimensions.ai (first line of the csv for query information and second line as csv header). The file should be named {name_of_dataset}.csv
 
 ---
 ## Credits
