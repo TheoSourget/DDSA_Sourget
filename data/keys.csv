@@ -16,3 +16,6 @@ context,datasets.csv,Which object the dataset segment (e.g cardiac for ACDC or b
 
 name,papers.csv,Paper's name
 DOI,papers.csv,Paper's DOI
+
+Structure,dataset_labels.csv,Name of the Anatomical region
+Keywords,dataset_labels.csv,Possible keywords that refer or refer to organ contains in the region

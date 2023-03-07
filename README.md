@@ -12,7 +12,8 @@ Refer to data/keys.csv for the complete description of each field of the differe
 1. datasets.csv is the list of dataset with the relative task of the dataset.
 2. papers_gt.csv is the list of papers with manual annotation to check the results of automatic extraction.
 3. paper.csv is the list of paper we want to extract values from.
-4. dimension folder contains a csv for each dataset. Every file contains the list of citations exported from dimensions.ai
+4. dataset_labels.csv is the list of possible keyword/label for a dataset
+5. dimension folder contains a csv for each dataset. Every file contains the list of citations exported from dimensions.ai
 
 ### Code:
 Each file starting with extract_papers is used to extract references information from a source. Each of them create a file in extracted_csv folder containing a line for each reference.
