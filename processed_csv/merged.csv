@@ -4055,523 +4055,131 @@ large-kernel attention for 3d medical image segmentation,10.1007/s12559-023-1012
 efficient u-net architecture with multiple encoders and attention mechanism decoders for brain tumor segmentation,10.3390/diagnostics13050872,2023,BRATS,Brain
 a robust deep learning method for radiation induced pulmonary fibrosis disease classification in lung ct-a review,10.1109/icpects56089.2022.10047728,2022,BRATS,Brain
 recent advancement in learning methodology for segmenting brain tumor from magnetic resonance imaging -a review,10.1007/s11042-023-14857-5,2023,BRATS,Brain
-a global benchmark of algorithms for segmenting the left atrium from late gadolinium-enhanced cardiac magnetic resonance imaging,10.1016/j.media.2020.101832,2020,LA,Cardiac
-semi-supervised 3d medical image segmentation based on dual-task consistent joint learning and task-level regularization,10.1109/tcbb.2022.3144428,2022,LA,Cardiac
-jas-gan: generative adversarial network based joint atrium and scar segmentations on unbalanced atrial targets,10.1109/jbhi.2021.3077469,2022,LA,Cardiac
-semi-supervised unpaired medical image segmentation through task-affinity consistency,10.1109/tmi.2022.3213372,2022,LA,Cardiac
-anti-interference from noisy labels: mean-teacher-assisted confident learning for medical image segmentation,10.1109/tmi.2022.3176915,2022,LA,Cardiac
-semi-supervised medical image segmentation using adversarial consistency learning and dynamic convolution network,10.1109/tmi.2022.3225687,2022,LA,Cardiac
-hierarchical consistency regularized mean teacher for semi-supervised 3d  left atrium segmentation,10.48550/arxiv.2105.10369,2021,LA,Cardiac
-residual moment loss for medical image segmentation,10.48550/arxiv.2106.14178,2021,LA,Cardiac
-cross task temporal consistency for semi-supervised medical image segmentation,10.1007/978-3-031-21014-3_15,2022,LA,Cardiac
-decoupling predictions in distributed learning for multi-center left  atrial mri segmentation,10.48550/arxiv.2206.05284,2022,LA,Cardiac
-segmentation with super images: a new 2d perspective on 3d medical image  analysis,10.48550/arxiv.2205.02847,2022,LA,Cardiac
-leveraging labeling representations in uncertainty-based semi-supervised  segmentation,10.48550/arxiv.2203.05682,2022,LA,Cardiac
-leveraging labeling representations in uncertainty-based semi-supervised segmentation,10.1007/978-3-031-16452-1_26,2022,LA,Cardiac
-exploring smoothness and class-separation for semi-supervised medical  image segmentation,10.48550/arxiv.2203.01324,2022,LA,Cardiac
-an atrium segmentation network with location guidance and siamese  adjustment,10.48550/arxiv.2301.04401,2023,LA,Cardiac
-semi-supervised medical image segmentation via geometry-aware  consistency training,10.48550/arxiv.2202.06104,2022,LA,Cardiac
-left atrium mri image segmentation using efficient xception stochastic depth based generative adversarial network,10.1080/20479700.2023.2166206,2023,LA,Cardiac
-complementary consistency semi-supervised learning for 3d left atrial  image segmentation,10.48550/arxiv.2210.01438,2022,LA,Cardiac
-comprehensive information integration network for left atrium segmentation on lge cmr images,10.1016/j.bspc.2022.104537,2023,LA,Cardiac
-rcps: rectified contrastive pseudo supervision for semi-supervised  medical image segmentation,10.48550/arxiv.2301.05500,2023,LA,Cardiac
-uncertainty-guided mutual consistency learning for semi-supervised  medical image segmentation,10.48550/arxiv.2112.02508,2021,LA,Cardiac
-mutual consistency learning for semi-supervised medical image  segmentation,10.48550/arxiv.2109.09960,2021,LA,Cardiac
-tms-net: a segmentation network coupled with a run-time quality control  method for robust cardiac image segmentation,10.48550/arxiv.2212.10877,2022,LA,Cardiac
-myops: a benchmark of myocardial pathology segmentation combining  three-sequence cardiac magnetic resonance images,10.48550/arxiv.2201.03186,2022,LA,Cardiac
-medical image segmentation with 3d convolutional neural networks: a  survey,10.48550/arxiv.2108.08467,2021,LA,Cardiac
-medical image analysis based on transformer: a review,10.48550/arxiv.2208.06643,2022,LA,Cardiac
-comparative validation of machine learning algorithms for surgical  workflow and skill analysis with the heichole benchmark,10.48550/arxiv.2109.14956,2021,LA,Cardiac
-3d brain and heart volume generative models: a survey,10.48550/arxiv.2210.05952,2022,LA,Cardiac
-multiscale multimodal medical imaging third international workshop mmmi 2022 held in conjunction with miccai 2022 singapore september 22 2022 proceedings,10.1007/978-3-031-18814-5,2022,LA,Cardiac
-medical image computing and computer assisted intervention – miccai 2021 24th international conference strasbourg france september 27–october 1 2021 proceedings part ii,10.1007/978-3-030-87196-3,2021,LA,Cardiac
-machine learning in medical imaging 13th international workshop mlmi 2022 held in conjunction with miccai 2022 singapore september 18 2022 proceedings,10.1007/978-3-031-21014-3,2022,LA,Cardiac
-pattern recognition and computer vision 4th chinese conference prcv 2021 beijing china october 29 – november 1 2021 proceedings part iii,10.1007/978-3-030-88010-1,2021,LA,Cardiac
-medical image computing and computer assisted intervention – miccai 2021 24th international conference strasbourg france september 27–october 1 2021 proceedings part vi,10.1007/978-3-030-87231-1,2021,LA,Cardiac
-medical image computing and computer assisted intervention – miccai 2022 25th international conference singapore september 18–22 2022 proceedings part v,10.1007/978-3-031-16443-9,2022,LA,Cardiac
-medical image computing and computer assisted intervention – miccai 2022 25th international conference singapore september 18–22 2022 proceedings part i,10.1007/978-3-031-16431-6,2022,LA,Cardiac
-reducing the hausdorff distance in medical image segmentation with convolutional neural networks,10.1109/tmi.2019.2930068,2019,Medical Decathlon,Prostate
-automated pancreas segmentation from computed tomography and magnetic resonance images: a systematic review,10.1016/j.cmpb.2019.07.002,2019,Medical Decathlon,Prostate
-nested dilation networks for brain tumor segmentation based on magnetic resonance imaging,10.3389/fnins.2019.00285,2019,Medical Decathlon,Prostate
-automated brain tumor segmentation using multimodal brain scans: a survey based on models submitted to the brats 20122018 challenges,10.1109/rbme.2019.2946868,2019,Medical Decathlon,Prostate
-abstract: nnu-net: self-adapting framework for u-net-based medical image segmentation,10.1007/978-3-658-25326-4_7,2019,Medical Decathlon,Prostate
-nnu-net: self-adapting framework for u-net-based medical image  segmentation,10.48550/arxiv.1809.10486,2018,Medical Decathlon,Prostate
-automated design of deep learning methods for biomedical image  segmentation,10.48550/arxiv.1904.08128,2019,Medical Decathlon,Prostate
-one network to segment them all: a general lightweight system for  accurate 3d medical image segmentation,10.48550/arxiv.1911.01764,2019,Medical Decathlon,Prostate
-automatic couinaud segmentation from ct volumes on liver using glc-unet,10.1007/978-3-030-32692-0_32,2019,Medical Decathlon,Prostate
-v-nas: neural architecture search for volumetric medical image  segmentation,10.48550/arxiv.1906.02817,2019,Medical Decathlon,Prostate
-v-nas: neural architecture search for volumetric medical image segmentation,10.1109/3dv.2019.00035,2019,Medical Decathlon,Prostate
-a large annotated medical image dataset for the development and  evaluation of segmentation algorithms,10.48550/arxiv.1902.09063,2019,Medical Decathlon,Prostate
-uncertainty-based graph convolutional networks for organ segmentation  refinement,10.48550/arxiv.1906.02191,2019,Medical Decathlon,Prostate
-resource optimized neural architecture search for 3d medical image  segmentation,10.48550/arxiv.1909.00548,2019,Medical Decathlon,Prostate
-resource optimized neural architecture search for 3d medical image segmentation,10.1007/978-3-030-32245-8_26,2019,Medical Decathlon,Prostate
-3d semi-supervised learning with uncertainty-aware multi-view  co-training,10.48550/arxiv.1811.12506,2018,Medical Decathlon,Prostate
-automatic detection and segmentation of lung lesions using deep residual cnns,10.1109/bibe.2019.00182,2019,Medical Decathlon,Prostate
-dilated deeply supervised networks for hippocampus segmentation in mri,10.48550/arxiv.1903.09097,2019,Medical Decathlon,Prostate
-interactive segmentation of medical images through fully convolutional  neural networks,10.48550/arxiv.1903.08205,2019,Medical Decathlon,Prostate
-voxel2mesh: 3d mesh model generation from volumetric data,10.48550/arxiv.1912.03681,2019,Medical Decathlon,Prostate
-a study on heart segmentation using deep learning algorithm for mri scans,10.1109/macs48846.2019.9024793,2019,Medical Decathlon,Prostate
-heart segmentation from mri scans using convolutional neural network,10.48550/arxiv.1911.09332,2019,Medical Decathlon,Prostate
-weakly supervised segmentation from extreme points,10.48550/arxiv.1910.01236,2019,Medical Decathlon,Prostate
-scalable neural architecture search for 3d medical image segmentation,10.48550/arxiv.1906.05956,2019,Medical Decathlon,Prostate
-accurate segmentation of dental panoramic radiographs with u-nets,10.1109/isbi.2019.8759563,2019,Medical Decathlon,Prostate
-one network to segment them all: a general lightweight system for accurate 3d medical image segmentation,10.1007/978-3-030-32245-8_4,2019,Medical Decathlon,Prostate
-3d u$^2$-net: a 3d universal u-net for multi-domain medical image  segmentation,10.48550/arxiv.1909.06012,2019,Medical Decathlon,Prostate
-3d u2-net: a 3d universal u-net for multi-domain medical image segmentation,10.1007/978-3-030-32245-8_33,2019,Medical Decathlon,Prostate
-deep co-training for semi-supervised image segmentation,10.48550/arxiv.1903.11233,2019,Medical Decathlon,Prostate
-no new-net,10.1007/978-3-030-11726-9_21,2019,Medical Decathlon,Prostate
-reducing the hausdorff distance in medical image segmentation with  convolutional neural networks,10.48550/arxiv.1904.10030,2019,Medical Decathlon,Prostate
-neurreg: neural registration and its application to image segmentation,10.48550/arxiv.1910.01763,2019,Medical Decathlon,Prostate
-simultaneous lesion and neuroanatomy segmentation in multiple sclerosis  using deep neural networks,10.48550/arxiv.1901.07419,2019,Medical Decathlon,Prostate
-thickened 2d networks for efficient 3d medical image segmentation,10.48550/arxiv.1904.01150,2019,Medical Decathlon,Prostate
-methods and open-source toolkit for analyzing and visualizing challenge  results,10.48550/arxiv.1910.05121,2019,Medical Decathlon,Prostate
-elastic boundary projection for 3d medical image segmentation,10.1109/cvpr.2019.00221,2019,Medical Decathlon,Prostate
-pilot: physics-informed learned optimized trajectories for accelerated  mri,10.48550/arxiv.1909.05773,2019,Medical Decathlon,Prostate
-multi-scale self-guided attention for medical image segmentation,10.48550/arxiv.1906.02849,2019,Medical Decathlon,Prostate
-multimodal self-supervised learning for medical image analysis,10.48550/arxiv.1912.05396,2019,Medical Decathlon,Prostate
-deep semantic segmentation of natural and medical images: a review,10.48550/arxiv.1910.07655,2019,Medical Decathlon,Prostate
-bildverarbeitung für die medizin 2019 algorithmen – systeme – anwendungen. proceedings des workshops vom 17. bis 19. märz 2019 in lübeck,10.1007/978-3-658-25326-4,2019,Medical Decathlon,Prostate
-medical image computing and computer assisted intervention – miccai 2019 22nd international conference shenzhen china october 13–17 2019 proceedings part ii,10.1007/978-3-030-32245-8,2019,Medical Decathlon,Prostate
-machine learning in medical imaging 10th international workshop mlmi 2019 held in conjunction with miccai 2019 shenzhen china october 13 2019 proceedings,10.1007/978-3-030-32692-0,2019,Medical Decathlon,Prostate
-brainlesion: glioma multiple sclerosis stroke and traumatic brain injuries 4th international workshop brainles 2018 held in conjunction with miccai 2018 granada spain september 16 2018 revised selected papers part ii,10.1007/978-3-030-11726-9,2019,Medical Decathlon,Prostate
-medical image computing and computer assisted intervention – miccai 2019 22nd international conference shenzhen china october 13–17 2019 proceedings part iii,10.1007/978-3-030-32248-9,2019,Medical Decathlon,Prostate
-sda-unet: a hepatic vein segmentation network based on the spatial distribution and density awareness of blood vessels,10.1088/1361-6560/acb199,2023,Medical Decathlon,Prostate
-evaluation of a deep learning algorithm for automated spleen segmentation in patients with conditions directly or indirectly affecting the spleen,10.3390/tomography7040078,none,Medical Decathlon,Prostate
-dynamic linear transformer for 3d biomedical image segmentation,10.1007/978-3-031-21014-3_18,2022,Medical Decathlon,Prostate
-domain adaptation for medical image segmentation: a meta-learning method,10.3390/jimaging7020031,2021,Medical Decathlon,Prostate
-the medical segmentation decathlon,10.1038/s41467-022-30695-9,2022,Medical Decathlon,Prostate
-prostate158 - an expert-annotated 3t mri dataset and algorithm for prostate cancer detection,10.1016/j.compbiomed.2022.105817,none,Medical Decathlon,Prostate
-sd-unet: stripping down u-net for segmentation of biomedical images on platforms with low computational budgets,10.3390/diagnostics10020110,2020,Medical Decathlon,Prostate
-methods and open-source toolkit for analyzing and visualizing challenge results,10.1038/s41598-021-82017-6,2021,Medical Decathlon,Prostate
-medical imaging deep learning with differential privacy,10.1038/s41598-021-93030-0,2021,Medical Decathlon,Prostate
-benchmarking of deep architectures for segmentation of medical images,10.1109/tmi.2022.3180435,2022,Medical Decathlon,Prostate
-deep learning to distinguish pancreatic cancer tissue from non-cancerous pancreatic tissue: a retrospective study with cross-racial external validation,10.1016/s2589-7500(20)30078-9,2020,Medical Decathlon,Prostate
-discriminative feature network based on a hierarchical attention mechanism for semantic hippocampus segmentation,10.1109/jbhi.2020.2994114,2021,Medical Decathlon,Prostate
-tmd-unet: triple-unet with multi-scale input features and dense skip connection for medical image segmentation,10.3390/healthcare9010054,2021,Medical Decathlon,Prostate
-uncertainty-aware multi-view co-training for semi-supervised medical image segmentation and domain adaptation,10.1016/j.media.2020.101766,none,Medical Decathlon,Prostate
-emonas-net: efficient multiobjective neural architecture search using surrogate-assisted evolutionary algorithm for 3d medical image segmentation,10.1016/j.artmed.2021.102154,2021,Medical Decathlon,Prostate
-fully-automated functional region annotation of liver via a 2.5d class-aware deep neural network with spatial adaptation,10.1016/j.cmpb.2020.105818,2020,Medical Decathlon,Prostate
-towards bi-directional skip connections in encoder-decoder architectures and beyond,10.1016/j.media.2022.102420,2022,Medical Decathlon,Prostate
-semantic segmentation of multispectral photoacoustic images using deep learning,10.1016/j.pacs.2022.100341,2022,Medical Decathlon,Prostate
-multiorgan segmentation from partially labeled datasets with conditional nnu-net,10.1016/j.compbiomed.2021.104658,2021,Medical Decathlon,Prostate
-unified generative adversarial networks for multimodal segmentation from unpaired 3d medical images,10.1016/j.media.2020.101731,2020,Medical Decathlon,Prostate
-medical augmentation (med-aug) for optimal data augmentation in medical deep learning networks,10.3390/s21217018,2021,Medical Decathlon,Prostate
-automatic segmentation of metastatic breast cancer lesions on 18f-fdg pet/ct longitudinal acquisitions for treatment response assessment,10.3390/cancers14010101,2021,Medical Decathlon,Prostate
-aadg: automatic augmentation for domain generalization on retinal image segmentation,10.1109/tmi.2022.3193146,2022,Medical Decathlon,Prostate
-uncertainty teacher with dense focal loss for semi-supervised medical image segmentation,10.1016/j.compbiomed.2022.106034,2022,Medical Decathlon,Prostate
-uncertainty-aware deep co-training for semi-supervised medical image segmentation,10.1016/j.compbiomed.2022.106051,2022,Medical Decathlon,Prostate
-artificial intelligence for prostate mri: open datasets available applications and grand challenges,10.1186/s41747-022-00288-8,none,Medical Decathlon,Prostate
-artificial intelligence with deep learning in nuclear medicine and radiology,10.1186/s40658-021-00426-y,2021,Medical Decathlon,Prostate
-a comparative study on the potential of unsupervised deep learning-based feature selection in radiomics**this work was not supported by any organization,10.1109/embc48229.2022.9871257,none,Medical Decathlon,Prostate
-dftnet: dual-path feature transfer network for weakly supervised medical image segmentation,10.1109/tcbb.2022.3198284,2022,Medical Decathlon,Prostate
-clinicadl: an open-source deep learning software for reproducible neuroimaging processing,10.1016/j.cmpb.2022.106818,2022,Medical Decathlon,Prostate
-ax-unet: a deep learning framework for image segmentation to assist pancreatic tumor diagnosis,10.3389/fonc.2022.894970,2022,Medical Decathlon,Prostate
-semantic segmentation of spontaneous intracerebral hemorrhage intraventricular hemorrhage and associated edema on ct images using deep learning,10.1148/ryai.220096,2022,Medical Decathlon,Prostate
-a novel 2-phase residual u-net algorithm combined with optimal mass transportation for 3d brain tumor detection and segmentation,10.1038/s41598-022-10285-x,2022,Medical Decathlon,Prostate
-nnu-net: a self-configuring method for deep learning-based biomedical image segmentation,10.1038/s41592-020-01008-z,2020,Medical Decathlon,Prostate
-multiscale unsupervised domain adaptation for automatic pancreas segmentation in ct volumes using adversarial learning,10.1002/mp.15827,2022,Medical Decathlon,Prostate
-efficient high-performance semantic segmentation using multi-scale feature extraction,10.1371/journal.pone.0255397,2021,Medical Decathlon,Prostate
-detection of pancreatic cancer in ct scan images using pso svm and image processing,10.1155/2022/8544337,2022,Medical Decathlon,Prostate
-learn2reg: comprehensive multi-task medical image registration challenge dataset and evaluation in the era of deep learning,10.1109/tmi.2022.3213983,2022,Medical Decathlon,Prostate
-mixture 2d convolutions for 3d medical image segmentation,10.1142/s0129065722500599,2022,Medical Decathlon,Prostate
-liver tumor detection based on objects as points,10.1088/1361-6560/ac35c7,2021,Medical Decathlon,Prostate
-generating novel pituitary datasets from open-source imaging data and deep volumetric segmentation,10.1007/s11102-022-01255-7,none,Medical Decathlon,Prostate
-interactive contouring through contextual deep learning,10.1002/mp.14852,2021,Medical Decathlon,Prostate
-multi‐expert fusion: an ensemble learning framework to segment 3d trus prostate images,10.1002/mp.15679,2022,Medical Decathlon,Prostate
-application of deep learning for automatic segmentation of brain tumors on magnetic resonance imaging: a heuristic approach in the clinical scenario,10.1007/s00234-021-02649-3,2021,Medical Decathlon,Prostate
-convolutional neural network for the detection of pancreatic cancer on ct scans – authors' reply,10.1016/s2589-7500(20)30188-6,2020,Medical Decathlon,Prostate
-pancreatic cancer detection on ct scans with deep learning: a nationwide population-based study,10.1148/radiol.220152,2022,Medical Decathlon,Prostate
-stacked dilated convolutions and asymmetric architecture for u-net-based medical image segmentation,10.1016/j.compbiomed.2022.105891,2022,Medical Decathlon,Prostate
-development and validation of a deep learning algorithm to differentiate colon carcinoma from acute diverticulitis in computed tomography images,10.1001/jamanetworkopen.2022.53370,2023,Medical Decathlon,Prostate
-fully automatic deep learning framework for pancreatic ductal adenocarcinoma detection on computed tomography,10.3390/cancers14020376,2022,Medical Decathlon,Prostate
-comparative validation of multi-instance instrument segmentation in endoscopy: results of the robust-mis 2019 challenge,10.1016/j.media.2020.101920,2020,Medical Decathlon,Prostate
-radiomics for detection of pancreas adenocarcinoma on ct scans: impact of biliary stents,10.1148/rycan.210081,2022,Medical Decathlon,Prostate
-deep learning for pancreatic cancer detection: current challenges and future strategies,10.1016/s2589-7500(20)30105-9,2020,Medical Decathlon,Prostate
-quality gaps in public pancreas imaging datasets: implications & challenges for ai applications,10.1016/j.pan.2021.03.016,none,Medical Decathlon,Prostate
-automatic segmentation of organs at risk and tumors in ct images of lung cancer from partially labelled datasets with a semi-supervised conditional nnu-net,10.1016/j.cmpb.2021.106419,2021,Medical Decathlon,Prostate
-deep learning–based detection of solid and cystic pancreatic neoplasms at contrast-enhanced ct,10.1148/radiol.220171,2022,Medical Decathlon,Prostate
-simultaneous lesion and brain segmentation in multiple sclerosis using deep neural networks,10.1038/s41598-020-79925-4,2021,Medical Decathlon,Prostate
-deep supervision and atrous inception-based u-net combining crf for automatic liver segmentation from ct,10.1038/s41598-022-21562-0,2022,Medical Decathlon,Prostate
-uncertainty‐guided symmetric multilevel supervision network for 3d left atrium segmentation in late gadolinium‐enhanced mri,10.1002/mp.15670,none,Medical Decathlon,Prostate
-a state-of-the-art technique to perform cloud-based semantic segmentation using deep learning 3d u-net architecture,10.1186/s12859-022-04794-9,2022,Medical Decathlon,Prostate
-msvrl: self-supervised multiscale visual representation learning via cross-level consistency for medical image segmentation,10.1109/tmi.2022.3204551,2022,Medical Decathlon,Prostate
-a deep learning-based and fully automated pipeline for thoracic aorta geometric analysis and planning for endovascular repair from computed tomography,10.1007/s10278-021-00535-1,2022,Medical Decathlon,Prostate
-dual-task ultrasound spine transverse vertebrae segmentation network with contour regularization,10.1016/j.compmedimag.2021.101896,2021,Medical Decathlon,Prostate
-automated volumetric assessment with artificial neural networks might enable a more accurate assessment of disease burden in patients with multiple sclerosis,10.1007/s00330-019-06593-y,2020,Medical Decathlon,Prostate
-self-supervised contrastive learning with random walks for medical image segmentation with limited annotations,10.1016/j.compmedimag.2022.102174,2023,Medical Decathlon,Prostate
-ccs-net: cascade detection network with the convolution kernel switch block and statistics optimal anchors block in hypopharyngeal cancer mri,10.1109/jbhi.2022.3217174,2022,Medical Decathlon,Prostate
-a deep learning framework for pancreas segmentation with multi-atlas registration and 3d level-set,10.1016/j.media.2020.101884,2020,Medical Decathlon,Prostate
-medical image segmentation using transformer networks,10.1109/access.2022.3156894,2022,Medical Decathlon,Prostate
-spherical coordinates transformation pre-processing in deep convolution neural networks for brain tumor segmentation in mri,10.1007/s11517-021-02464-1,2021,Medical Decathlon,Prostate
-does non-covid-19 lung lesion help? investigating transferability in covid-19 ct image segmentation,10.1016/j.cmpb.2021.106004,2021,Medical Decathlon,Prostate
-a light deep learning algorithm for ct diagnosis of covid-19 pneumonia,10.3390/diagnostics12071527,2022,Medical Decathlon,Prostate
-deep learning in medical image analysis,10.3390/jimaging7040074,2021,Medical Decathlon,Prostate
-fcsn: global context aware segmentation by learning the fourier coefficients of objects in medical images,10.1109/jbhi.2022.3225205,2022,Medical Decathlon,Prostate
-a dual meta-learning framework based on idle data for enhancing segmentation of pancreatic cancer,10.1016/j.media.2021.102342,2022,Medical Decathlon,Prostate
-external attention assisted multi-phase splenic vascular injury segmentation with limited data,10.1109/tmi.2021.3139637,2022,Medical Decathlon,Prostate
-modality specific u-net variants for biomedical image segmentation: a survey,10.1007/s10462-022-10152-1,2022,Medical Decathlon,Prostate
-few-shot learning by a cascaded framework with shape-constrained pseudo label assessment for whole heart segmentation,10.1109/tmi.2021.3053008,2021,Medical Decathlon,Prostate
-model-driven deep learning method for pancreatic cancer segmentation based on spiral-transformation,10.1109/tmi.2021.3104460,2021,Medical Decathlon,Prostate
-domain adaptation for segmentation of critical structures for prostate cancer therapy,10.1038/s41598-021-90294-4,2021,Medical Decathlon,Prostate
-deep residual separable convolutional neural network for lung tumor segmentation,10.1016/j.compbiomed.2021.105161,2021,Medical Decathlon,Prostate
-self-paced and self-consistent co-training for semi-supervised image segmentation,10.1016/j.media.2021.102146,2021,Medical Decathlon,Prostate
-analyzing magnetic resonance imaging data from glioma patients using deep learning,10.1016/j.compmedimag.2020.101828,2020,Medical Decathlon,Prostate
-loss weightings for improving imbalanced brain structure segmentation using fully convolutional networks,10.3390/healthcare9080938,2021,Medical Decathlon,Prostate
-transferable visual words: exploiting the semantics of anatomical patterns for self-supervised learning,10.1109/tmi.2021.3060634,none,Medical Decathlon,Prostate
-bowelnet: joint semantic-geometric ensemble learning for bowel segmentation from both partially and fully labeled ct images,10.1109/tmi.2022.3225667,2022,Medical Decathlon,Prostate
-fast and low-gpu-memory abdomen ct organ segmentation: the flare challenge,10.1016/j.media.2022.102616,2022,Medical Decathlon,Prostate
-segmenting pediatric optic pathway gliomas from mri using deep learning,10.1016/j.compbiomed.2022.105237,2022,Medical Decathlon,Prostate
-auto-denseunet: searchable neural network architecture for mass segmentation in 3d automated breast ultrasound,10.1016/j.media.2022.102589,2022,Medical Decathlon,Prostate
-prior-aware autoencoders for lung pathology segmentation.,10.1016/j.media.2022.102491,2022,Medical Decathlon,Prostate
-causality-inspired single-source domain generalization for medical image segmentation,10.1109/tmi.2022.3224067,2022,Medical Decathlon,Prostate
-factorizer: a scalable interpretable approach to context modeling for medical image segmentation,10.1016/j.media.2022.102706,2022,Medical Decathlon,Prostate
-3d brain tumor segmentation using a two-stage optimal mass transport algorithm,10.1038/s41598-021-94071-1,2021,Medical Decathlon,Prostate
-reinforcement learning in medical image analysis: concepts applications challenges and future directions,10.1002/acm2.13898,2023,Medical Decathlon,Prostate
-techniques and algorithms for hepatic vessel skeletonization in medical images: a survey,10.3390/e24040465,none,Medical Decathlon,Prostate
-h-proseg: hybrid ultrasound prostate segmentation based on explainability-guided mathematical model,10.1016/j.cmpb.2022.106752,2022,Medical Decathlon,Prostate
-accurate segmentation of neonatal brain mri with deep learning,10.3389/fninf.2022.1006532,2022,Medical Decathlon,Prostate
-crossmoda 2021 challenge: benchmark of cross-modality domain adaptation techniques for vestibular schwannoma and cochlea segmentation,10.1016/j.media.2022.102628,2022,Medical Decathlon,Prostate
-evaluation of multislice inputs to convolutional neural networks for medical image segmentation,10.1002/mp.14391,2020,Medical Decathlon,Prostate
-cortical lesions central vein sign and paramagnetic rim lesions in multiple sclerosis: emerging machine learning techniques and future avenues,10.1016/j.nicl.2022.103205,none,Medical Decathlon,Prostate
-anatomy-aided deep learning for medical image segmentation: a review,10.1088/1361-6560/abfbf4,2021,Medical Decathlon,Prostate
-transforming medical imaging with transformers? a comparative review of key properties current progresses and future perspectives,10.1016/j.media.2023.102762,2023,Medical Decathlon,Prostate
-deep reinforcement learning in medical imaging: a literature review,10.1016/j.media.2021.102193,2021,Medical Decathlon,Prostate
-brain tumor diagnosis using machine learning convolutional neural networks capsule neural networks and vision transformers applied to mri: a survey,10.3390/jimaging8080205,2022,Medical Decathlon,Prostate
-deep learning for image-based liver analysis — a comprehensive review focusing on malignant lesions,10.1016/j.artmed.2022.102331,2022,Medical Decathlon,Prostate
-automl segmentation for 3d medical image data: contribution to the msd  challenge 2018,10.48550/arxiv.2005.09978,2020,Medical Decathlon,Prostate
-recent advancement in cancer diagnosis using machine learning and deep learning techniques: a comprehensive review,10.1016/j.compbiomed.2022.105580,2022,Medical Decathlon,Prostate
-towards robust general medical image segmentation,10.48550/arxiv.2107.04263,2021,Medical Decathlon,Prostate
-how precise are performance estimates for typical medical image  segmentation tasks?,10.48550/arxiv.2210.14677,2022,Medical Decathlon,Prostate
-rog for biomedical semantic segmentation of lung cancer tumors,10.1109/ci-ibbi54220.2021.9626056,2021,Medical Decathlon,Prostate
-u-net vs. transunet: performance comparison in medical image segmentation,10.1007/978-3-031-24985-3_16,2023,Medical Decathlon,Prostate
--unet++: a data-driven neural network architecture for medical image segmentation,10.1007/978-3-030-60548-3_1,2020,Medical Decathlon,Prostate
-scheduling techniques for liver segmentation: reducelronplateau vs  onecyclelr,10.48550/arxiv.2202.06373,2022,Medical Decathlon,Prostate
-scheduling techniques for liver segmentation: reducelronplateau vs onecyclelr,10.1007/978-3-031-08277-1_17,2022,Medical Decathlon,Prostate
-less is more: a comparison of active learning strategies for 3d medical  image segmentation,10.48550/arxiv.2207.00845,2022,Medical Decathlon,Prostate
-implicit u-net for volumetric medical image segmentation,10.48550/arxiv.2206.15217,2022,Medical Decathlon,Prostate
-deep attention-based seminal segmentation: a practical deep learning framework for accurate segmentation of the hippocampus from magnetic resonance images,10.1109/nss/mic44867.2021.9875838,2021,Medical Decathlon,Prostate
-3d u-net based semantic segmentation of kidneys and renal masses on contrast-enhanced ct,10.1007/978-3-030-98385-7_19,2022,Medical Decathlon,Prostate
-adam optimized deep learning model for segmenting roi region in medical imaging,10.1007/978-3-030-85990-9_54,2021,Medical Decathlon,Prostate
-class center attention network with spatial adaption for enhancing hepatic segments classification with low-visibility vascular,10.1016/j.displa.2022.102151,2022,Medical Decathlon,Prostate
-unetformer: a unified vision transformer model and pre-training  framework for 3d medical image segmentation,10.48550/arxiv.2204.00631,2022,Medical Decathlon,Prostate
-frequency disentangled learning for segmentation of midbrain structures  from quantitative susceptibility mapping data,,2023,Medical Decathlon,Prostate
-a robust volumetric transformer for accurate 3d tumor segmentation,10.1007/978-3-031-16443-9_16,2022,Medical Decathlon,Prostate
-hypersegnas: bridging one-shot neural architecture search with 3d medical image segmentation using hypernet,10.1109/cvpr52688.2022.02008,2022,Medical Decathlon,Prostate
-hypersegnas: bridging one-shot neural architecture search with 3d  medical image segmentation using hypernet,10.48550/arxiv.2112.10652,2021,Medical Decathlon,Prostate
-heed the noise in performance evaluations in neural architecture search,10.48550/arxiv.2202.02078,2022,Medical Decathlon,Prostate
-an overview of abdominal segmentation methods using general adversarial network (gan),10.1117/12.2660662,2022,Medical Decathlon,Prostate
-transforming the interactive segmentation for medical imaging,10.48550/arxiv.2208.09592,2022,Medical Decathlon,Prostate
-learned snakes for 3d image segmentation,10.1016/j.sigpro.2021.108013,2021,Medical Decathlon,Prostate
-fully automated spleen segmentation in patients using convolutional neural network on ct images,10.1109/i-smac55078.2022.9987387,2022,Medical Decathlon,Prostate
-verifiable and energy efficient medical image analysis with quantised self-attentive deep neural networks,10.1007/978-3-031-18523-6_17,2022,Medical Decathlon,Prostate
-integrating residual dense and inception blocks into the nnunet,10.1109/cbms55023.2022.00045,2022,Medical Decathlon,Prostate
-the power of proxy data and proxy networks for hyper-parameter optimization in medical image segmentation,10.1007/978-3-030-87199-4_43,2021,Medical Decathlon,Prostate
-pancreatic carcinoma detection with publicly available radiological images: a systematic analysis,10.1109/icrito56286.2022.9964991,2022,Medical Decathlon,Prostate
-verifiable and energy efficient medical image analysis with quantised  self-attentive deep neural networks,10.48550/arxiv.2209.15287,2022,Medical Decathlon,Prostate
-fully test-time adaptation for image segmentation,10.1007/978-3-030-87199-4_24,2021,Medical Decathlon,Prostate
-the power of proxy data and proxy networks for hyper-parameter  optimization in medical image segmentation,10.48550/arxiv.2107.05471,2021,Medical Decathlon,Prostate
-po-1696 clinical commissioning a synchrotron-based proton therapy system,10.1016/s0167-8140(21)08147-0,2021,Medical Decathlon,Prostate
-implicitatlas: learning deformable shape templates in medical imaging,10.1109/cvpr52688.2022.01540,2022,Medical Decathlon,Prostate
-3d semi-supervised learning with uncertainty-aware multi-view co-training,10.1109/wacv45572.2020.9093608,2020,Medical Decathlon,Prostate
-self-supervised pre-training of swin transformers for 3d medical image analysis,10.1109/cvpr52688.2022.02007,2022,Medical Decathlon,Prostate
-dints: differentiable neural network topology search for 3d medical image segmentation,10.1109/cvpr46437.2021.00578,2021,Medical Decathlon,Prostate
-dints: differentiable neural network topology search for 3d medical  image segmentation,10.48550/arxiv.2103.15954,2021,Medical Decathlon,Prostate
-deep learning meets radiomics for end-to-end brain tumor mri analysis,10.1109/icip46576.2022.9897847,2022,Medical Decathlon,Prostate
-implementation of a modified u-net for medical image segmentation on edge devices,10.1109/tcsii.2022.3181132,2022,Medical Decathlon,Prostate
-split-u-net: preventing data leakage in split learning for collaborative  multi-modal brain tumor segmentation,10.48550/arxiv.2208.10553,2022,Medical Decathlon,Prostate
-implementation of a modified u-net for medical image segmentation on  edge devices,10.48550/arxiv.2206.02358,2022,Medical Decathlon,Prostate
-split-u-net: preventing data leakage in split learning for collaborative multi-modal brain tumor segmentation,10.1007/978-3-031-18523-6_5,2022,Medical Decathlon,Prostate
-distance-based detection of out-of-distribution silent failures for  covid-19 lung lesion segmentation,10.48550/arxiv.2208.03217,2022,Medical Decathlon,Prostate
-po-1697 gradient-based neuroevolution of augmenting topologies for compact low compute deep ann search,10.1016/s0167-8140(21)08148-2,2021,Medical Decathlon,Prostate
-a clinically motivated self-supervised approach for content-based image  retrieval of ct liver images,10.48550/arxiv.2207.04812,2022,Medical Decathlon,Prostate
-a novel approach based on region growing algorithm for liver and spleen segmentation from ct scans,10.1007/978-3-030-60799-9_35,2020,Medical Decathlon,Prostate
-a content-driven architecture for medical image segmentation,10.1145/3442555.3442570,2020,Medical Decathlon,Prostate
-monai: an open-source framework for deep learning in healthcare,10.48550/arxiv.2211.02701,2022,Medical Decathlon,Prostate
-the hidden label-marginal biases of segmentation losses,10.48550/arxiv.2104.08717,2021,Medical Decathlon,Prostate
-pgd-unet: a position-guided deformable network for simultaneous segmentation of organs and tumors,10.1109/ijcnn48605.2020.9206944,2020,Medical Decathlon,Prostate
-pgd-unet: a position-guided deformable network for simultaneous  segmentation of organs and tumors,10.48550/arxiv.2007.01001,2020,Medical Decathlon,Prostate
-umrformer-net: a three-dimensional u-shaped pancreas segmentation method based on a double-layer bridged transformer network,10.21037/qims-22-544,2023,Medical Decathlon,Prostate
-uncertainty-aware multi-view co-training for semi-supervised medical  image segmentation and domain adaptation,10.48550/arxiv.2006.16806,2020,Medical Decathlon,Prostate
-self-supervised pre-training of swin transformers for 3d medical image  analysis,10.48550/arxiv.2111.14791,2021,Medical Decathlon,Prostate
-reducing cnn textural bias with k-space artifacts improves robustness,10.1109/access.2022.3179844,2022,Medical Decathlon,Prostate
-effect of the output activation function on the probabilities and errors  in medical image segmentation,10.48550/arxiv.2109.00903,2021,Medical Decathlon,Prostate
-radiography image analysis using cat swarm optimized deep belief networks,10.1515/jisys-2021-0172,2021,Medical Decathlon,Prostate
-monai label: a framework for ai-assisted interactive labeling of 3d  medical images,10.48550/arxiv.2203.12362,2022,Medical Decathlon,Prostate
-numerical evaluation on parametric choices influencing segmentation results in radiology images—a multi-dataset study,10.3390/electronics10040431,2021,Medical Decathlon,Prostate
-an uncertainty-driven gcn refinement strategy for organ segmentation,10.48550/arxiv.2012.03352,2020,Medical Decathlon,Prostate
-segmentation of the hippocampus head and body: comparison of single annotator and multi-annotator,10.1109/nss/mic44867.2021.9875787,2021,Medical Decathlon,Prostate
-deep active latent surfaces for medical geometries,10.48550/arxiv.2206.10241,2022,Medical Decathlon,Prostate
-the open kidney ultrasound data set,10.48550/arxiv.2206.06657,2022,Medical Decathlon,Prostate
-unetr: transformers for 3d medical image segmentation,10.1109/wacv51458.2022.00181,2022,Medical Decathlon,Prostate
-uncertainty-aware deep co-training for semi-supervised medical image  segmentation,10.48550/arxiv.2111.11629,2021,Medical Decathlon,Prostate
-towards bi-directional skip connections in encoder-decoder architectures  and beyond,10.48550/arxiv.2203.05709,2022,Medical Decathlon,Prostate
-semantic attention guided multi-dimension information complementary network for medical image classification,10.21203/rs.3.rs-2205040/v1,2022,Medical Decathlon,Prostate
-sinco: a novel structural regularizer for image compression using  implicit neural representations,10.48550/arxiv.2210.14974,2022,Medical Decathlon,Prostate
-whole-body lesion segmentation in 18f-fdg pet/ct,10.48550/arxiv.2209.07851,2022,Medical Decathlon,Prostate
-u-net using stacked dilated convolutions for medical image segmentation,10.48550/arxiv.2004.03466,2020,Medical Decathlon,Prostate
-automated segmentation of the right ventricle from magnetic resonance imaging using deep convolutional neural networks,10.1007/978-3-030-93722-5_37,2022,Medical Decathlon,Prostate
-ib-u-nets: improving medical image segmentation tasks with 3d inductive  biased kernels,10.48550/arxiv.2210.15949,2022,Medical Decathlon,Prostate
-segmentation of lung airways based on deep learning methods,10.1049/ipr2.12423,2022,Medical Decathlon,Prostate
-semantic segmentation of multispectral photoacoustic images using deep  learning,10.48550/arxiv.2105.09624,2021,Medical Decathlon,Prostate
-organ finder – a new ai-based organ segmentation tool for ct,10.1101/2022.11.15.22282357,2022,Medical Decathlon,Prostate
-medical image segmentation with imperfect 3d bounding boxes,10.48550/arxiv.2108.03300,2021,Medical Decathlon,Prostate
-towards modelling hazard factors in unstructured data spaces using  gradient-based latent interpolation,10.48550/arxiv.2110.11312,2021,Medical Decathlon,Prostate
-colorectal segmentation in medical images,10.1117/12.2637414,2022,Medical Decathlon,Prostate
-cat: constrained adversarial training for anatomically-plausible semi-supervised segmentation,10.1109/tmi.2023.3243069,2023,Medical Decathlon,Prostate
-covid-19 opacity segmentation in chest ct via hydranet: a joint learning multi-decoder network,10.1117/12.2581111,2021,Medical Decathlon,Prostate
-segviz: a federated learning framework for medical image segmentation  from distributed datasets with different and incomplete annotations,10.48550/arxiv.2301.07074,2023,Medical Decathlon,Prostate
-effective 3d boundary learning via a nonlocal deformable network,10.1109/isbi52829.2022.9761415,2022,Medical Decathlon,Prostate
-improving the automatic segmentation of elongated organs using geometrical priors,10.1109/isbi52829.2022.9761555,2022,Medical Decathlon,Prostate
-exploiting segmentation labels and representation learning to forecast  therapy response of pdac patients,10.48550/arxiv.2211.04180,2022,Medical Decathlon,Prostate
-3d unsupervised anomaly detection and localization through virtual  multi-view projection and reconstruction: clinical validation on low-dose  chest computed tomography,10.48550/arxiv.2206.13385,2022,Medical Decathlon,Prostate
-disentanglement enables cross-domain hippocampus segmentation,10.48550/arxiv.2201.05650,2022,Medical Decathlon,Prostate
-efficient population based hyperparameter scheduling for medical image segmentation,10.1007/978-3-031-16443-9_54,2022,Medical Decathlon,Prostate
-accurate hippocampus segmentation based on self-supervised learning with fewer labeled data,10.1007/978-3-031-17899-3_5,2022,Medical Decathlon,Prostate
-efficient high-performance pancreatic segmentation using multi-scale  feature extraction,10.48550/arxiv.2009.00872,2020,Medical Decathlon,Prostate
-mixed-block neural architecture search for medical image segmentation,10.48550/arxiv.2202.11401,2022,Medical Decathlon,Prostate
-automatic data augmentation for 3d medical image segmentation,10.48550/arxiv.2010.11695,2020,Medical Decathlon,Prostate
-deep learning based brain tumor detection and classification,10.1109/conit51480.2021.9498384,2021,Medical Decathlon,Prostate
-z-ssmnet: a zonal-aware self-supervised mesh network for prostate cancer  detection and diagnosis in bpmri,10.48550/arxiv.2212.05808,2022,Medical Decathlon,Prostate
-lucas: lung cancer screening with multimodal biomarkers,10.1007/978-3-030-60946-7_12,2020,Medical Decathlon,Prostate
-multi-task federated learning for heterogeneous pancreas segmentation,10.48550/arxiv.2108.08537,2021,Medical Decathlon,Prostate
-deep elastica for image segmentation,10.1109/isbi48211.2021.9433886,2021,Medical Decathlon,Prostate
-label-efficient multi-task segmentation using contrastive learning,10.1007/978-3-030-72084-1_10,2021,Medical Decathlon,Prostate
-a more design-flexible medical transformer for volumetric image segmentation,10.1007/978-3-031-21014-3_7,2022,Medical Decathlon,Prostate
-federated cross learning for medical image segmentation,10.48550/arxiv.2204.02450,2022,Medical Decathlon,Prostate
-cerberus: a multi-headed network for brain tumor segmentation,10.1007/978-3-030-72087-2_30,2021,Medical Decathlon,Prostate
-brain tumor segmentation using neural network topology search,10.1007/978-3-031-08999-2_31,2022,Medical Decathlon,Prostate
-asymmetric 3d context fusion for universal lesion detection,10.1007/978-3-030-87240-3_55,2021,Medical Decathlon,Prostate
-visual explanation by unifying adversarial generation and feature importance attributions,10.1007/978-3-030-87444-5_5,2021,Medical Decathlon,Prostate
-semantic segmentation model performance on vehicle-induced dust cloud identification on unsealed roads,10.21203/rs.3.rs-2239765/v1,2022,Medical Decathlon,Prostate
-desd: self-supervised learning with deep self-distillation for 3d medical image segmentation,10.1007/978-3-031-16440-8_52,2022,Medical Decathlon,Prostate
-mixcl: pixel label matters to contrastive learning,10.48550/arxiv.2203.02114,2022,Medical Decathlon,Prostate
-3d-oocs: learning prostate segmentation with inductive bias,10.48550/arxiv.2110.15664,2021,Medical Decathlon,Prostate
-aadg: automatic augmentation for domain generalization on retinal image  segmentation,10.48550/arxiv.2207.13249,2022,Medical Decathlon,Prostate
-context label learning: improving background class representations in semantic segmentation,10.1109/tmi.2023.3242838,2023,Medical Decathlon,Prostate
-leveraging unlabeled data using semi-supervised generative adversarial network for medical image segmentation,10.1109/iconda56696.2022.10000292,2022,Medical Decathlon,Prostate
-robustness of different loss functions and their impact on network's learning,10.2139/ssrn.4065778,2022,Medical Decathlon,Prostate
-open-source skull reconstruction with monai,10.48550/arxiv.2211.14051,2022,Medical Decathlon,Prostate
-deepcrc: colorectum and colorectal cancer segmentation in ct scans via deep colorectal coordinate transform,10.1007/978-3-031-16437-8_54,2022,Medical Decathlon,Prostate
-progressive medical image annotation with convolutional neural network-based interactive segmentation method,10.1117/12.2582241,2021,Medical Decathlon,Prostate
-deep structure learning using feature extraction in trained projection  space,10.48550/arxiv.2009.00378,2020,Medical Decathlon,Prostate
-assessing layer normalization with brats mri data in a convolution neural net,10.1007/978-3-031-16364-7_10,2022,Medical Decathlon,Prostate
-weakly supervised volumetric image segmentation with deformed templates,10.1007/978-3-031-16443-9_41,2022,Medical Decathlon,Prostate
-a two-phase optimal mass transportation technique for 3d brain tumor detection and segmentation,10.1007/978-3-031-08999-2_34,2022,Medical Decathlon,Prostate
-ribseg dataset and strong point cloud baselines for rib segmentation  from ct scans,10.48550/arxiv.2109.09521,2021,Medical Decathlon,Prostate
-transfuse: fusing transformers and cnns for medical image segmentation,10.48550/arxiv.2102.08005,2021,Medical Decathlon,Prostate
-lamp: large deep nets with automated model parallelism for image  segmentation,10.48550/arxiv.2006.12575,2020,Medical Decathlon,Prostate
-ribseg dataset and strong point cloud baselines for rib segmentation from ct scans,10.1007/978-3-030-87193-2_58,2021,Medical Decathlon,Prostate
-deep structure learning using feature extraction in trained projection space,10.1016/j.compeleceng.2021.107097,2021,Medical Decathlon,Prostate
-predicting scores of medical imaging segmentation methods with  meta-learning,10.48550/arxiv.2005.08869,2020,Medical Decathlon,Prostate
-lamp: large deep nets with automated model parallelism for image segmentation,10.1007/978-3-030-59719-1_37,2020,Medical Decathlon,Prostate
-cross-domain medical image translation by shared latent gaussian mixture model,10.1007/978-3-030-59713-9_37,2020,Medical Decathlon,Prostate
-cross-domain medical image translation by shared latent gaussian mixture  model,10.48550/arxiv.2007.07230,2020,Medical Decathlon,Prostate
-a comparison of applying image processing and deep learning in acne region extraction,10.18178/joig.10.4.166-171,2022,Medical Decathlon,Prostate
-can segmentation models be trained with fully synthetically generated  data?,10.48550/arxiv.2209.08256,2022,Medical Decathlon,Prostate
-a deep learning-based 3d cnn for automated covid-19 lung lesions segmentation from 3d chest ct scans,10.1109/isia55826.2022.9993505,2022,Medical Decathlon,Prostate
-distance-based loss weightings for improving retinal tissue segmentation using fully convolutional neural networks,10.1109/etcm56276.2022.9935708,2022,Medical Decathlon,Prostate
-maxstyle: adversarial style composition for robust medical image segmentation,10.1007/978-3-031-16443-9_15,2022,Medical Decathlon,Prostate
-deep learning model-based segmentation of medical diseases from mri and ct images,10.1109/tencon54134.2021.9707278,2021,Medical Decathlon,Prostate
-semi-supervised detection identification and segmentation for abdominal organs,10.1007/978-3-031-23911-3_4,2022,Medical Decathlon,Prostate
-improving interactive segmentation using a novel weighted loss function with an adaptive click size and two-stream fusion,10.1109/bigmm55396.2022.00009,2022,Medical Decathlon,Prostate
-self pre-training with masked autoencoders for medical image analysis,10.48550/arxiv.2203.05573,2022,Medical Decathlon,Prostate
-robustness of different loss functions and their impact on networks  learning capability,10.48550/arxiv.2110.08322,2021,Medical Decathlon,Prostate
-addressing the class imbalance problem in medical image segmentation via accelerated tversky loss function,10.1007/978-3-030-75768-7_31,2021,Medical Decathlon,Prostate
-predicting scores of medical imaging segmentation methods with meta-learning,10.1007/978-3-030-61166-8_26,2020,Medical Decathlon,Prostate
-the felix project: deep networks to detect pancreatic neoplasms,10.1101/2022.09.24.22280071,2022,Medical Decathlon,Prostate
-3d medical image segmentation using parallel transformers,10.1016/j.patcog.2023.109432,2023,Medical Decathlon,Prostate
-towards fully automated inner ear analysis: deep-learning-based joint segmentation and landmark detection framework,10.21203/rs.3.rs-2327533/v1,2022,Medical Decathlon,Prostate
-swin unetr: swin transformers for semantic segmentation of brain tumors in mri images,10.1007/978-3-031-08999-2_22,2022,Medical Decathlon,Prostate
-adaptive curriculum learning for semi-supervised segmentation of 3d ct-scans,10.1007/978-3-030-92185-9_7,2021,Medical Decathlon,Prostate
-can segmentation models be trained with fully synthetically generated data?,10.1007/978-3-031-16980-9_8,2022,Medical Decathlon,Prostate
-fitting segmentation networks on varying image resolutions using splatting,10.1007/978-3-031-12053-4_21,2022,Medical Decathlon,Prostate
-efficient brain and liver tumor segmentation using seagull optimization algorithm based super pixel fuzzy clustering,10.1109/icosec54921.2022.9952105,2022,Medical Decathlon,Prostate
-maxstyle: adversarial style composition for robust medical image  segmentation,10.48550/arxiv.2206.01737,2022,Medical Decathlon,Prostate
-fitting segmentation networks on varying image resolutions using  splatting,10.48550/arxiv.2206.06445,2022,Medical Decathlon,Prostate
-learning euler's elastica model for medical image segmentation,10.48550/arxiv.2011.00526,2020,Medical Decathlon,Prostate
-context label learning: improving background class representations in  semantic segmentation,10.48550/arxiv.2212.08423,2022,Medical Decathlon,Prostate
-leveraging conditional generative models in a general explanation  framework of classifier decisions,10.48550/arxiv.2106.10947,2021,Medical Decathlon,Prostate
-learning multi-level structural information for small organ segmentation,10.1016/j.sigpro.2021.108418,2022,Medical Decathlon,Prostate
-morphology-preserving autoregressive 3d generative modelling of the brain,10.1007/978-3-031-16980-9_7,2022,Medical Decathlon,Prostate
-morphology-preserving autoregressive 3d generative modelling of the  brain,10.48550/arxiv.2209.03177,2022,Medical Decathlon,Prostate
-a deep-learning lesion segmentation model that addresses class imbalance and expected low probability tissue abnormalities in pre and postoperative liver mri,10.1007/978-3-031-12053-4_30,2022,Medical Decathlon,Prostate
-swin unetr: swin transformers for semantic segmentation of brain tumors  in mri images,10.48550/arxiv.2201.01266,2022,Medical Decathlon,Prostate
-survey on machine learning applied to medical image analysis,10.1109/cisp-bmei53629.2021.9624442,2021,Medical Decathlon,Prostate
-optimized u-net for brain tumor segmentation,10.48550/arxiv.2110.03352,2021,Medical Decathlon,Prostate
-fully automatic deep learning framework for pancreatic ductal  adenocarcinoma detection on computed tomography,10.48550/arxiv.2111.15409,2021,Medical Decathlon,Prostate
-learn2reg: comprehensive multi-task medical image registration  challenge dataset and evaluation in the era of deep learning,10.48550/arxiv.2112.04489,2021,Medical Decathlon,Prostate
-strategies for training deep learning models in medical domains with small reference datasets,10.24132/jwscg.2020.28.5,2020,Medical Decathlon,Prostate
-dae-former: dual attention-guided efficient transformer for medical  image segmentation,10.48550/arxiv.2212.13504,2022,Medical Decathlon,Prostate
-robust segmentation models using an uncertainty slice sampling based  annotation workflow,10.48550/arxiv.2109.14879,2021,Medical Decathlon,Prostate
-the fully convolutional transformer for medical image segmentation,10.48550/arxiv.2206.00566,2022,Medical Decathlon,Prostate
-pixel-global self-supervised learning with uncertainty-aware context  stabilizer,10.48550/arxiv.2210.00646,2022,Medical Decathlon,Prostate
-high-resolution swin transformer for automatic medical image  segmentation,10.48550/arxiv.2207.11553,2022,Medical Decathlon,Prostate
-deep learning-based segmentation of multi-site disease in ovarian cancer,10.1101/2023.01.10.22279679,2023,Medical Decathlon,Prostate
-test-time training for deformable multi-scale image registration,10.48550/arxiv.2103.13578,2021,Medical Decathlon,Prostate
-synthesize then compare: detecting failures and anomalies for semantic segmentation,10.1007/978-3-030-58452-8_9,2020,Medical Decathlon,Prostate
-hierarchical deep auto-encoding (hdae): effective information fusion for simultaneous reconstruction and segmentation of regionsof-interest (roi) from sub-sampled magnetic resonance (mr) images,10.2139/ssrn.4372888,2023,Medical Decathlon,Prostate
-uncertainty learning towards unsupervised deformable medical image registration,10.1109/wacv51458.2022.00162,2022,Medical Decathlon,Prostate
-synthesize then compare: detecting failures and anomalies for semantic  segmentation,10.48550/arxiv.2003.08440,2020,Medical Decathlon,Prostate
-error minimization in pre-surgical model of brain tumor for 3-d printing,10.1007/s40032-022-00894-w,2022,Medical Decathlon,Prostate
-robust medical instrument segmentation challenge 2019,10.48550/arxiv.2003.10299,2020,Medical Decathlon,Prostate
-incremental cross-view mutual distillation for self-supervised medical  ct synthesis,10.48550/arxiv.2112.10325,2021,Medical Decathlon,Prostate
-incremental cross-view mutual distillation for self-supervised medical ct synthesis,10.1109/cvpr52688.2022.02002,2022,Medical Decathlon,Prostate
-robust segmentation models using an uncertainty slice sampling-based annotation workflow,10.1109/access.2022.3141021,2022,Medical Decathlon,Prostate
-rethinking the dice loss for deep learning lesion segmentation in medical images,10.1007/s12204-021-2264-x,2021,Medical Decathlon,Prostate
-learning non-unique segmentation with reward-penalty dice loss,10.48550/arxiv.2009.10987,2020,Medical Decathlon,Prostate
-u-net architecture variants for brain tumor segmentation of histogram corrected images,10.2478/ausi-2022-0004,2022,Medical Decathlon,Prostate
-a comprehensive survey of transformers for computer vision,10.48550/arxiv.2211.06004,2022,Medical Decathlon,Prostate
-after-unet: axial fusion transformer unet for medical image segmentation,10.48550/arxiv.2110.10403,2021,Medical Decathlon,Prostate
-liver kidney and spleen segmentation from ct scans and mri with deep learning: a survey,10.1016/j.neucom.2021.08.157,2022,Medical Decathlon,Prostate
-using deep learning-based features extracted from ct scans to predict  outcomes in covid-19 patients,10.48550/arxiv.2205.05009,2022,Medical Decathlon,Prostate
-auto-fedrl: federated hyperparameter optimization for multi-institutional medical image segmentation,10.1007/978-3-031-19803-8_26,2022,Medical Decathlon,Prostate
-closing the generalization gap of cross-silo federated medical image segmentation,10.1109/cvpr52688.2022.02020,2022,Medical Decathlon,Prostate
-auto-fedrl: federated hyperparameter optimization for  multi-institutional medical image segmentation,10.48550/arxiv.2203.06338,2022,Medical Decathlon,Prostate
-prnet: polar regression network for medical image segmentation,10.1007/s00371-021-02315-y,2021,Medical Decathlon,Prostate
-energy-efficient high-fidelity image reconstruction with memristor arrays for medical diagnosis,10.21203/rs.3.rs-2147455/v1,2022,Medical Decathlon,Prostate
-rtunet: residual transformer unet specifically for pancreas segmentation,10.1016/j.bspc.2022.104173,2023,Medical Decathlon,Prostate
-uncertainty-guided mutual consistency learning for semi-supervised  medical image segmentation,10.48550/arxiv.2112.02508,2021,Medical Decathlon,Prostate
-federated multi-organ segmentation with partially labeled data,10.48550/arxiv.2206.07156,2022,Medical Decathlon,Prostate
-fpf-net: feature propagation and fusion based on attention mechanism for pancreas segmentation,10.1007/s00530-022-00963-1,2022,Medical Decathlon,Prostate
-haist conference: health-related artificial intelligence in stavanger,10.31265/usps.195,2022,Medical Decathlon,Prostate
-spatial context-aware self-attention model for multi-organ segmentation,10.48550/arxiv.2012.09279,2020,Medical Decathlon,Prostate
-the future of digital health with federated learning,10.48550/arxiv.2003.08119,2020,Medical Decathlon,Prostate
-pgl: prior-guided local self-supervised learning for 3d medical image  segmentation,10.48550/arxiv.2011.12640,2020,Medical Decathlon,Prostate
-going to extremes: weakly supervised medical image segmentation,10.48550/arxiv.2009.11988,2020,Medical Decathlon,Prostate
-polar coordinate sampling-based segmentation of overlapping cervical cells using attention u-net and random walk,10.1016/j.neucom.2019.12.036,2020,Medical Decathlon,Prostate
-graph-constrained contrastive regularization for semi-weakly volumetric segmentation,10.1007/978-3-031-19803-8_24,2022,Medical Decathlon,Prostate
-cakes: channel-wise automatic kernel shrinking for efficient 3d networks,10.48550/arxiv.2003.12798,2020,Medical Decathlon,Prostate
-self-supervised tumor segmentation through layer decomposition,10.48550/arxiv.2109.03230,2021,Medical Decathlon,Prostate
-a large public dataset of annotated clinical mris of patients with acute stroke and linked metadata,10.21203/rs.3.rs-1705779/v1,2022,Medical Decathlon,Prostate
-a novel 2-phase u-net algorithm combined with optimal mass transportation for 3d brain tumor detection and segmentation,10.21203/rs.3.rs-1215123/v1,2022,Medical Decathlon,Prostate
-shape-aware joint distribution alignment for cross-domain image segmentation,10.1109/tmi.2023.3247941,2023,Medical Decathlon,Prostate
-does non-covid19 lung lesion help? investigating transferability in  covid-19 ct image segmentation,10.48550/arxiv.2006.13877,2020,Medical Decathlon,Prostate
-3d medical image segmentation with labeled and unlabeled data using  autoencoders at the example of liver segmentation in ct images,10.48550/arxiv.2003.07923,2020,Medical Decathlon,Prostate
-what is wrong with continual learning in medical image segmentation?,10.48550/arxiv.2010.11008,2020,Medical Decathlon,Prostate
-an end-to-end data-adaptive pancreas segmentation system with an image quality control toolbox,10.1155/2023/3617318,2023,Medical Decathlon,Prostate
-active learning using adaptable task-based prioritisation,10.48550/arxiv.2212.01703,2022,Medical Decathlon,Prostate
-ribseg v2: a large-scale benchmark for rib labeling and anatomical  centerline extraction,10.48550/arxiv.2210.09309,2022,Medical Decathlon,Prostate
-amos: a large-scale abdominal multi-organ benchmark for versatile  medical image segmentation,10.48550/arxiv.2206.08023,2022,Medical Decathlon,Prostate
-td-net: trans-deformer network for automatic pancreas segmentation,10.1016/j.neucom.2022.10.060,2023,Medical Decathlon,Prostate
-mics : multi-steps inverse consistency and symmetric deep learning  registration network,10.48550/arxiv.2111.12123,2021,Medical Decathlon,Prostate
-modality specific u-net variants for biomedical image segmentation: a  survey,10.48550/arxiv.2107.04537,2021,Medical Decathlon,Prostate
-lowering the computational barrier: partially bayesian neural networks for transparency in medical imaging ai,10.3389/fcomp.2023.1071174,2023,Medical Decathlon,Prostate
-external attention assisted multi-phase splenic vascular injury  segmentation with limited data,10.48550/arxiv.2201.00942,2022,Medical Decathlon,Prostate
-3d md-unet: a novel model of multi-dataset collaboration for medical image segmentation,10.1016/j.neucom.2021.12.045,2022,Medical Decathlon,Prostate
-self-supervised tumor segmentation with sim2real adaptation,10.1109/jbhi.2023.3240844,2023,Medical Decathlon,Prostate
-membership inference attacks against semantic segmentation models,10.48550/arxiv.2212.01082,2022,Medical Decathlon,Prostate
-patch-based medical image segmentation using matrix product state tensor  networks,10.48550/arxiv.2109.07138,2021,Medical Decathlon,Prostate
-automatic pancreas segmentation based on lightweight dcnn modules and spatial prior propagation,10.1016/j.patcog.2020.107762,2021,Medical Decathlon,Prostate
-deep implicit statistical shape models for 3d medical image delineation,10.48550/arxiv.2104.02847,2021,Medical Decathlon,Prostate
-a review of research on co‐training,10.1002/cpe.6276,2021,Medical Decathlon,Prostate
-probabilistic semantic segmentation refinement by monte carlo region  growing,10.48550/arxiv.2005.05856,2020,Medical Decathlon,Prostate
-supervised and semi-supervised methods for abdominal organ segmentation: a review,10.1007/s11633-021-1313-0,2021,Medical Decathlon,Prostate
-clip-driven universal model for organ segmentation and tumor detection,10.48550/arxiv.2301.00785,2023,Medical Decathlon,Prostate
-mscda: multi-level semantic-guided contrast improves unsupervised domain  adaptation for breast mri segmentation in small datasets,10.48550/arxiv.2301.02554,2023,Medical Decathlon,Prostate
-towards a single unified model for effective detection segmentation  and diagnosis of eight major cancers using a large collection of ct scans,10.48550/arxiv.2301.12291,2023,Medical Decathlon,Prostate
-med-query: steerable parsing of 9-dof medical anatomies with query  embedding,10.48550/arxiv.2212.02014,2022,Medical Decathlon,Prostate
-closing the generalization gap of cross-silo federated medical image  segmentation,10.48550/arxiv.2203.10144,2022,Medical Decathlon,Prostate
-self-paced and self-consistent co-training for semi-supervised image  segmentation,10.48550/arxiv.2011.00325,2020,Medical Decathlon,Prostate
-weakly supervised segmentation with cross-modality equivariant  constraints,10.48550/arxiv.2104.02488,2021,Medical Decathlon,Prostate
-training cnn classifiers for semantic segmentation using partially  annotated images: with application on human thigh and calf mri,10.48550/arxiv.2008.07030,2020,Medical Decathlon,Prostate
-cortical lesions central vein sign and paramagnetic rim lesions in  multiple sclerosis: emerging machine learning techniques and future avenues,10.48550/arxiv.2201.07463,2022,Medical Decathlon,Prostate
-automated brain tumor malignancy detection via 3d mri using adaptive-3-d u-net and heuristic-based deep neural network,10.1007/s00530-022-00952-4,2022,Medical Decathlon,Prostate
-boosting semi-supervised image segmentation with global and local mutual  information regularization,10.48550/arxiv.2103.04813,2021,Medical Decathlon,Prostate
-transferable visual words: exploiting the semantics of anatomical  patterns for self-supervised learning,10.48550/arxiv.2102.10680,2021,Medical Decathlon,Prostate
-leveraging conditional generative models in a general explanation framework of classifier decisions,10.1016/j.future.2022.02.020,2022,Medical Decathlon,Prostate
-label-assemble: leveraging multiple datasets with partial labels,10.48550/arxiv.2109.12265,2021,Medical Decathlon,Prostate
-reinforcement learning in medical image analysis: concepts  applications challenges and future directions,10.48550/arxiv.2206.14302,2022,Medical Decathlon,Prostate
-factorizer: a scalable interpretable approach to context modeling for  medical image segmentation,10.48550/arxiv.2202.12295,2022,Medical Decathlon,Prostate
-where is valdo? vascular lesions detection and segmentation challenge at  miccai 2021,10.48550/arxiv.2208.07167,2022,Medical Decathlon,Prostate
-the use of deep learning in interventional radiotherapy (brachytherapy):  a review with a focus on open source and open data,10.48550/arxiv.2205.07516,2022,Medical Decathlon,Prostate
-enhancing mr image segmentation with realistic adversarial data  augmentation,10.48550/arxiv.2108.03429,2021,Medical Decathlon,Prostate
-data analysis methods for software systems,10.15388/damss.12.2021,2021,Medical Decathlon,Prostate
-crossmoda 2021 challenge: benchmark of cross-modality domain adaptation  techniques for vestibular schwannoma and cochlea segmentation,10.48550/arxiv.2201.02831,2022,Medical Decathlon,Prostate
-distributed collaborative and federated learning and affordable ai and healthcare for resource diverse global health third miccai workshop decaf 2022 and second miccai workshop fair 2022 held in conjunction with miccai 2022 singapore september 18 and 22 2022 proceedings,10.1007/978-3-031-18523-6,2022,Medical Decathlon,Prostate
-chapter 8 machine learning ml for ehealth systems,10.1016/b978-0-12-823818-9.00019-5,2022,Medical Decathlon,Prostate
-dive into self-supervised learning for medical image analysis: data  models and tasks,10.48550/arxiv.2209.12157,2022,Medical Decathlon,Prostate
-qu-brats: miccai brats 2020 challenge on quantifying uncertainty in  brain tumor segmentation - analysis of ranking scores and benchmarking  results,10.48550/arxiv.2112.10074,2021,Medical Decathlon,Prostate
-data augmentation labelling and imperfections second miccai workshop dali 2022 held in conjunction with miccai 2022 singapore september 22 2022 proceedings,10.1007/978-3-031-17027-0,2022,Medical Decathlon,Prostate
-robust deep learning-based semantic organ segmentation in hyperspectral  images,10.48550/arxiv.2111.05408,2021,Medical Decathlon,Prostate
-an overview of deep learning in medical imaging,10.1016/j.imu.2021.100723,2021,Medical Decathlon,Prostate
-transforming medical imaging with transformers? a comparative review of  key properties current progresses and future perspectives,10.48550/arxiv.2206.01136,2022,Medical Decathlon,Prostate
-automated liver tissues delineation techniques: a systematic survey on machine learning current trends and future orientations,10.1016/j.engappai.2022.105532,2023,Medical Decathlon,Prostate
-simulation and synthesis in medical imaging 7th international workshop sashimi 2022 held in conjunction with miccai 2022 singapore september 18 2022 proceedings,10.1007/978-3-031-16980-9,2022,Medical Decathlon,Prostate
-medical image segmentation review: the success of u-net,10.48550/arxiv.2211.14830,2022,Medical Decathlon,Prostate
-domain adaptation and representation transfer and distributed and collaborative learning second miccai workshop dart 2020 and first miccai workshop dcl 2020 held in conjunction with miccai 2020 lima peru october 4–8 2020 proceedings,10.1007/978-3-030-60548-3,2020,Medical Decathlon,Prostate
-metrics reloaded: pitfalls and recommendations for image analysis  validation,10.48550/arxiv.2206.01653,2022,Medical Decathlon,Prostate
-machine learning in medical imaging 13th international workshop mlmi 2022 held in conjunction with miccai 2022 singapore september 18 2022 proceedings,10.1007/978-3-031-21014-3,2022,Medical Decathlon,Prostate
-nature methods,10.1038/nde/15487091/2021/18/2,2021,Medical Decathlon,Prostate
-applied technologies 4th international conference icat 2022 quito ecuador november 23–25 2022 revised selected papers part i,10.1007/978-3-031-24985-3,2023,Medical Decathlon,Prostate
-interpretability of machine intelligence in medical image computing and topological data analysis and its applications for medical data 4th international workshop imimic 2021 and 1st international workshop tda4medicaldata 2021 held in conjunction with miccai 2021 strasbourg france september 27 2021 proceedings,10.1007/978-3-030-87444-5,2021,Medical Decathlon,Prostate
-multiscale multimodal medical imaging third international workshop mmmi 2022 held in conjunction with miccai 2022 singapore september 22 2022 proceedings,10.1007/978-3-031-18814-5,2022,Medical Decathlon,Prostate
-medical image computing and computer assisted intervention – miccai 2021 24th international conference strasbourg france september 27–october 1 2021 proceedings part iii,10.1007/978-3-030-87199-4,2021,Medical Decathlon,Prostate
-medical image computing and computer assisted intervention – miccai 2022 25th international conference singapore september 18–22 2022 proceedings part v,10.1007/978-3-031-16443-9,2022,Medical Decathlon,Prostate
-medical image understanding and analysis 26th annual conference miua 2022 cambridge uk july 27–29 2022 proceedings,10.1007/978-3-031-12053-4,2022,Medical Decathlon,Prostate
-intelligent systems and pattern recognition second international conference ispr 2022 hammamet tunisia march 24–26 2022 revised selected papers,10.1007/978-3-031-08277-1,2022,Medical Decathlon,Prostate
-machine learning in clinical neuroimaging 5th international workshop mlcn 2022 held in conjunction with miccai 2022 singapore september 18 2022 proceedings,10.1007/978-3-031-17899-3,2022,Medical Decathlon,Prostate
-clinical image-based procedures distributed and collaborative learning artificial intelligence for combating covid-19 and secure and privacy-preserving machine learning 10th workshop clip 2021 second workshop dcl 2021 first workshop ll-covid19 2021 and first workshop and tutorial ppml 2021 held in conjunction with miccai 2021 strasbourg france september 27 and october 1 2021 proceedings,10.1007/978-3-030-90874-4,2021,Medical Decathlon,Prostate
-proceedings of international conference on emerging technologies and intelligent systems icetis 2021 volume 2,10.1007/978-3-030-85990-9,2022,Medical Decathlon,Prostate
-medical image computing and computer assisted intervention – miccai 2022 25th international conference singapore september 18–22 2022 proceedings part iv,10.1007/978-3-031-16440-8,2022,Medical Decathlon,Prostate
-deep generative models and data augmentation labelling and imperfections first workshop dgm4miccai 2021 and first workshop dali 2021 held in conjunction with miccai 2021 strasbourg france october 1 2021 proceedings,10.1007/978-3-030-88210-5,2021,Medical Decathlon,Prostate
-fast and low-resource semi-supervised abdominal organ segmentation miccai 2022 challenge flare 2022 held in conjunction with miccai 2022 singapore september 22 2022 proceedings,10.1007/978-3-031-23911-3,2022,Medical Decathlon,Prostate
-intelligent computing theories and application 16th international conference icic 2020 bari italy october 2–5 2020 proceedings part i,10.1007/978-3-030-60799-9,2020,Medical Decathlon,Prostate
-abstract,10.1002/mp.15769,2022,Medical Decathlon,Prostate
-interpretable and annotation-efficient learning for medical image computing third international workshop imimic 2020 second international workshop mil3id 2020 and 5th international workshop labels 2020 held in conjunction with miccai 2020 lima peru october 4–8 2020 proceedings,10.1007/978-3-030-61166-8,2020,Medical Decathlon,Prostate
-computational intelligence in data science 5th ifip tc 12 international conference iccids 2022 virtual event march 24–26 2022 revised selected papers,10.1007/978-3-031-16364-7,2022,Medical Decathlon,Prostate
-medical image computing and computer assisted intervention – miccai 2021 24th international conference strasbourg france september 27–october 1 2021 proceedings part i,10.1007/978-3-030-87193-2,2021,Medical Decathlon,Prostate
-computer vision – eccv 2022 17th european conference tel aviv israel october 23–27 2022 proceedings part xxi,10.1007/978-3-031-19803-8,2022,Medical Decathlon,Prostate
-medical image computing and computer assisted intervention – miccai 2020 23rd international conference lima peru october 4–8 2020 proceedings part iv,10.1007/978-3-030-59719-1,2020,Medical Decathlon,Prostate
-advances in knowledge discovery and data mining 25th pacific-asia conference pakdd 2021 virtual event may 11–14 2021 proceedings part iii,10.1007/978-3-030-75768-7,2021,Medical Decathlon,Prostate
-brainlesion: glioma multiple sclerosis stroke and traumatic brain injuries 6th international workshop brainles 2020 held in conjunction with miccai 2020 lima peru october 4 2020 revised selected papers part ii,10.1007/978-3-030-72087-2,2021,Medical Decathlon,Prostate
-brainlesion: glioma multiple sclerosis stroke and traumatic brain injuries 6th international workshop brainles 2020 held in conjunction with miccai 2020 lima peru october 4 2020 revised selected papers part i,10.1007/978-3-030-72084-1,2021,Medical Decathlon,Prostate
-neural information processing 28th international conference iconip 2021 sanur bali indonesia december 8–12 2021 proceedings part i,10.1007/978-3-030-92185-9,2021,Medical Decathlon,Prostate
-medical image computing and computer assisted intervention – miccai 2020 23rd international conference lima peru october 4–8 2020 proceedings part ii,10.1007/978-3-030-59713-9,2020,Medical Decathlon,Prostate
-medical image computing and computer assisted intervention – miccai 2022 25th international conference singapore september 18–22 2022 proceedings part iii,10.1007/978-3-031-16437-8,2022,Medical Decathlon,Prostate
-medical image computing and computer assisted intervention – miccai 2021 24th international conference strasbourg france september 27 – october 1 2021 proceedings part v,10.1007/978-3-030-87240-3,2021,Medical Decathlon,Prostate
-computer vision – eccv 2020 16th european conference glasgow uk august 23–28 2020 proceedings part i,10.1007/978-3-030-58452-8,2020,Medical Decathlon,Prostate
-a new framework of swarm learning consolidating knowledge from multi-center non-iid data for medical image segmentation,10.1109/tmi.2022.3220750,2022,I2CVB,Prostate
-causality-inspired single-source domain generalization for medical image segmentation,10.1109/tmi.2022.3224067,2022,I2CVB,Prostate
-computer-aided detection and diagnosis for prostate cancer based on mono and multi-parametric mri: a review,10.1016/j.compbiomed.2015.02.009,2015,I2CVB,Prostate
-radiomic features derived from periprostatic fat on pre-surgical t2w mri predict extraprostatic extension of prostate cancer identified on post-surgical pathology: preliminary results,10.1117/12.2551248,2020,I2CVB,Prostate
-unsupervised site adaptation by intra-site variability alignment,10.1007/978-3-031-16852-9_6,2022,I2CVB,Prostate
-supervised domain adaptation using gradients transfer for improved medical image analysis,10.1007/978-3-031-16852-9_3,2022,I2CVB,Prostate
-source-free unsupervised domain adaptation with norm and shape  constraints for medical image segmentation,10.48550/arxiv.2209.01300,2022,I2CVB,Prostate
-cnn-based prostate zonal segmentation on t2-weighted mr images: a  cross-dataset study,10.48550/arxiv.1903.12571,2019,I2CVB,Prostate
-maxstyle: adversarial style composition for robust medical image  segmentation,10.48550/arxiv.2206.01737,2022,I2CVB,Prostate
-learning towards synchronous network memorizability and generalizability  for continual segmentation across multiple sites,10.48550/arxiv.2206.06813,2022,I2CVB,Prostate
-shape-aware meta-learning for generalizing prostate mri segmentation to unseen domains,10.1007/978-3-030-59713-9_46,2020,I2CVB,Prostate
-incremental learning meets transfer learning: application to multi-site  prostate mri segmentation,10.48550/arxiv.2206.01369,2022,I2CVB,Prostate
-incremental learning meets transfer learning: application to multi-site prostate mri segmentation,10.1007/978-3-031-18523-6_1,2022,I2CVB,Prostate
-estimating model performance under domain shifts with class-specific  confidence scores,10.48550/arxiv.2207.09957,2022,I2CVB,Prostate
-synthetic elastography using b-mode ultrasound through a deep  fully-convolutional neural network,10.48550/arxiv.1908.03573,2019,I2CVB,Prostate
-discovery radiomics for multi-parametric mri prostate cancer detection,10.48550/arxiv.1509.00111,2015,I2CVB,Prostate
-catenorm: categorical normalization for robust medical image  segmentation,10.48550/arxiv.2103.15858,2021,I2CVB,Prostate
-domain generalization for medical image segmentation via hierarchical  consistency regularization,10.48550/arxiv.2109.05742,2021,I2CVB,Prostate
-semi-supervised mp-mri data synthesis with stitchlayer and auxiliary  distance maximization,10.48550/arxiv.1812.06625,2018,I2CVB,Prostate
-deep learning in magnetic resonance prostate segmentation: a review and  a new perspective,10.48550/arxiv.2011.07795,2020,I2CVB,Prostate
-iop-fl: inside-outside personalization for federated medical image  segmentation,10.48550/arxiv.2204.08467,2022,I2CVB,Prostate
-harmofl: harmonizing local and global drifts in federated learning on  heterogeneous medical images,10.48550/arxiv.2112.10775,2021,I2CVB,Prostate
-ms-net: multi-site network for improving prostate segmentation with  heterogeneous mri data,10.48550/arxiv.2002.03366,2020,I2CVB,Prostate
-a collaborative computer aided diagnosis (c-cad) system with  eye-tracking sparse attentional model and deep learning,10.48550/arxiv.1802.06260,2018,I2CVB,Prostate
-dltta: dynamic learning rate for test-time adaptation on cross-domain  medical images,10.48550/arxiv.2205.13723,2022,I2CVB,Prostate
-use-net: incorporating squeeze-and-excitation blocks into u-net for  prostate zonal segmentation of multi-institutional mri datasets,10.48550/arxiv.1904.08254,2019,I2CVB,Prostate
-distance-based detection of out-of-distribution silent failures for  covid-19 lung lesion segmentation,10.48550/arxiv.2208.03217,2022,I2CVB,Prostate
-closing the generalization gap of cross-silo federated medical image  segmentation,10.48550/arxiv.2203.10144,2022,I2CVB,Prostate
-feddm: federated weakly supervised segmentation via annotation calibration and gradient de-conflicting,10.1109/tmi.2023.3235757,2023,I2CVB,Prostate
-computer-aided diagnosis of prostate magnetic resonance imaging,10.1201/9780429434334-16,2018,I2CVB,Prostate
-early diagnosis and staging of prostate cancer using magnetic resonance imaging,10.1201/9780429434334-11,2018,I2CVB,Prostate
-the use of deep learning in interventional radiotherapy (brachytherapy):  a review with a focus on open source and open data,10.48550/arxiv.2205.07516,2022,I2CVB,Prostate
-prostattention-net: a deep attention model for prostate cancer  segmentation by aggressiveness in mri scans,10.48550/arxiv.2211.13238,2022,I2CVB,Prostate
-domain adaptation and representation transfer 4th miccai workshop dart 2022 held in conjunction with miccai 2022 singapore september 22 2022 proceedings,10.1007/978-3-031-16852-9,2022,I2CVB,Prostate
-oncology and mechanics: landmark studies and promising clinical  applications,10.48550/arxiv.2211.09186,2022,I2CVB,Prostate
-current role of focal therapy for prostate cancer,10.1201/9780429434334-6,2018,I2CVB,Prostate
-prostate mri,10.1201/9780429434334-4,2018,I2CVB,Prostate
-transrectal ultrasound (trus)-guided prostate biopsy,10.1201/9780429434334-2,2018,I2CVB,Prostate
-computer-aided diagnosis systems for prostate cancer detection,10.1201/9780429434334-10,2018,I2CVB,Prostate
-current role and evolution of mri fusion biopsy for prostate cancer,10.1201/9780429434334-5,2018,I2CVB,Prostate
-diagnosing prostate cancer based on deep learning with a stacked nonnegativity constraint autoencoder,10.1201/9780429434334-18,2018,I2CVB,Prostate
-magnetic resonance imaging in the detection of prostate cancer,10.1201/9780429434334-17,2018,I2CVB,Prostate
-precision imaging of prostate cancer,10.1201/9780429434334-15,2018,I2CVB,Prostate
-current active surveillance protocol for prostate cancer,10.1201/9780429434334-3,2018,I2CVB,Prostate
-mri imaging of seminal vesicle invasion (svi) in prostate adenocarcinoma,10.1201/9780429434334-19,2018,I2CVB,Prostate
+bridge segmentation performance gap via evolving shape prior,10.1109/access.2020.3026073,2020,ACDC,Cardiac
+skin disease analysis with limited data in particular rosacea: a review and recommended framework,10.1109/access.2022.3165574,2022,ACDC,Cardiac
+enhancement and lightweight fusion u-net for segmentation of cardiac structures in mri,10.1109/it-ela52201.2021.9773601,2021,ACDC,Cardiac
+deep mutual gans: representation learning from multiple experts,10.1117/12.2612968,2022,ACDC,Cardiac
+regularizing disentangled representations with anatomical temporal consistency,10.1016/b978-0-12-824349-7.00023-2,2022,ACDC,Cardiac
+evaluating the pre-processing impact on the generalization of deep learning networks for left ventricle segmentation,10.1109/bibm52615.2021.9669630,2021,ACDC,Cardiac
+deep learning applied to multi-structure segmentation in 2d echocardiography: a preliminary investigation of the required database size,10.1109/ultsym.2018.8580136,2018,ACDC,Cardiac
+cardiac disease representation conditioned by spatio-temporal priors in cine-mri sequences using generative embedding vectors,10.1109/embc46164.2021.9630115,2021,ACDC,Cardiac
+3d attention m-net for short-axis left ventricular myocardium segmentation in mice mr cardiac images,10.1109/embc46164.2021.9630335,2021,ACDC,Cardiac
+making semi-automatic segmentation method to be automatic using deep learning for biventricular segmentation,10.1166/jmihi.2022.3927,2022,ACDC,Cardiac
+a semi-automatic method to segment the left atrium in mr volumes with varying slice numbers,10.1109/embc44109.2020.9175749,2020,ACDC,Cardiac
+lvlnet: lightweight left ventricle localizer using encoder-decoder neural network,10.1109/niles.2019.8909320,2019,ACDC,Cardiac
+a fully convolutional neural network based on 2d-unet in cardiac mr image segmentation,10.1109/csci54926.2021.00322,2021,ACDC,Cardiac
+an automated cardiac ventricle segmentation on cmr images using grey-level mask r-cnn,10.1109/icce-tw52618.2021.9602950,2021,ACDC,Cardiac
+generalization in cardiac image segmentation,10.1109/bigdata52589.2021.9671847,2021,ACDC,Cardiac
+motion tracking of left myocardium in cardiac cine magnetic resonance image based on displacement flow u-net and variational autoencoder,10.7498/aps.70.20210885,2021,ACDC,Cardiac
+detection of cardiac tissues using k-means analysis methods in nuclear medicine images,10.3889/oamjms.2021.7806,2021,ACDC,Cardiac
+artificial intelligence study on left ventricular function among normal individuals hypertrophic cardiomyopathy and dilated cardiomyopathy patients using 1.5t cardiac cine mr images obtained by ssfp sequence,10.1259/bjr.20201060,2022,ACDC,Cardiac
+classification of heart disease using mfo based neural network on mri images,10.2174/1573405617666210126153920,2021,ACDC,Cardiac
+a novel image segmentation method for cardiac mri using support vector machine algorithm based on particle swarm optimization,10.1166/jmihi.2021.3510,2021,ACDC,Cardiac
+prostate localization in 2d sequence mr with fusion of center position prior and sequence correlation,10.23919/ccc50068.2020.9188748,2020,PROMISE12,Cardiac
+notice of removal feature selection and patch-based segmentation in mri for prostate radiotherapy,10.1109/icip.2016.7532842,2016,PROMISE12,Cardiac
+collaborative learning based feature adaption model with applications on mri prostate boundary delineation,10.1109/isbi.2018.8363695,2018,PROMISE12,Cardiac
+a feature regularization based meta-learning framework for generalizing prostate mri segmentation,10.1109/isbi52829.2022.9761564,2022,PROMISE12,Cardiac
+isolated pulmonary nodules characteristics detection based on ct images,10.1109/access.2019.2951762,2019,PROMISE12,Cardiac
+self-paced learning for automatic prostate segmentation on mr images with hierarchical boundary sensitive network,10.1109/rcar49640.2020.9303035,2020,PROMISE12,Cardiac
+computer-aided knee joint mr image segmentation—an overview,10.1016/b978-0-323-99031-8.00011-9,2022,PROMISE12,Cardiac
+dra u-net: an attention based u-net framework for 2d medical image segmentation,10.1109/bigdata52589.2021.9672031,2021,PROMISE12,Cardiac
+left ventricular segmentation from cardiac mri data,10.1109/ist50367.2021.9651383,2021,M&Ms,Prostate
+variability induced by the mr imager in dynamic contrast-enhanced imaging of the prostate,10.1016/j.diii.2017.12.003,2018,I2CVB,Prostate
+a feature regularization based meta-learning framework for generalizing prostate mri segmentation,10.1109/isbi52829.2022.9761564,2022,I2CVB,Prostate
+class balanced pixelnet for neurological image segmentation,10.1145/3194480.3194494,2018,BRATS,Brain
+an unsupervised learning with feature approach for brain tumor segmentation using magnetic resonance imaging,10.1145/3314367.3314384,2019,BRATS,Brain
+crf-based brain tumor segmentation: alleviating the shrinking bias,10.1007/978-3-319-55524-9_10,2016,BRATS,Brain
+feature selection and classification using multiple kernel learning for brain tumor segmentation,10.1109/atsip.2018.8364470,2018,BRATS,Brain
+glioblastoma mrt exploration based on segmentation methods' comparison: towards an advanced clinical aided tool,10.1109/atsip.2018.8364472,2018,BRATS,Brain
+a rank-two nmf clustering: application to glioblastomas characterization and comparative study,10.4015/s1016237219500194,2019,BRATS,Brain
+an efficient framework for the segmentation of glioma brain tumor using image fusion and co-active adaptive neuro fuzzy inference system classification method,10.1166/jmihi.2021.3915,2021,BRATS,Brain
+brain tumor segmentation with attention-based u-net,10.1117/12.2623112,2021,BRATS,Brain
+a deep residual learning implementation of metamorphosis,10.1109/isbi52829.2022.9761422,2022,BRATS,Brain
+semi-supervised pseudo-healthy image synthesis via confidence augmentation,10.1109/isbi52829.2022.9761522,2022,BRATS,Brain
+tumor categorization model (tcm) using soft computing techniques for providing efficient medical support in brain tumor treatments,10.1166/jmihi.2021.3872,2021,BRATS,Brain
+convradiomics: convolutional radiomics feature extraction toolkit,10.1109/icmipe47306.2019.9098212,2019,BRATS,Brain
+improved u-net with multi-scale cross connection and dilated convolution for brain tumor segmentation,10.1109/icmipe47306.2019.9098234,2019,BRATS,Brain
+a comparative study on cnn techniques for cancer detection in medical images,10.1109/smart52563.2021.9676243,2021,BRATS,Brain
+brain tumor segmentation and tumor prediction using 2d-vnet deep learning architecture,10.1109/smart52563.2021.9676317,2021,BRATS,Brain
+a more generalizable dnn based automatic segmentation of brain tumors from multimodal low-resolution 2d mri,10.1109/indicon52576.2021.9691588,2021,BRATS,Brain
+two-stage cascaded network with deep supervision and residual attention for brain tumor segmentation,10.1109/ccdc52312.2021.9602856,2021,BRATS,Brain
+hirni: segmentation of brain tumors in multi-parametric magnetic resonance imaging scans,10.1109/ci-ibbi54220.2021.9626115,2021,BRATS,Brain
+unsupervised multimodal mr images synthesizer using knowledge from higher dimension,10.1109/bibm52615.2021.9669327,2021,BRATS,Brain
+event-related fmri over-segmentation by rough simple linear iterative clustering applied in schizophrenia diagnosis,10.1109/bibm52615.2021.9669442,2021,BRATS,Brain
+detection of abnormalities in brain using machine learning in medical image analysis,10.1109/icscds53736.2022.9761029,2022,BRATS,Brain
+brain cancer survival prediction on treatment-naïve mri using deep anchor attention learning with vision transformer,10.1109/isbi52829.2022.9761515,2022,BRATS,Brain
+anomaly detection via context and local feature matching,10.1109/isbi52829.2022.9761524,2022,BRATS,Brain
+unsupervised abnormality detection in medical images with deep generative methods,10.1016/b978-0-12-824349-7.00022-0,2022,BRATS,Brain
+semantic segmentation of brain tumor from mri images,10.1109/indicon45594.2018.8987146,2018,BRATS,Brain
+multimodal mri analysis for segmentation of intra-tumoral regions of high-grade glioma using vnet and wnet based deep models,10.1007/978-981-16-9447-9_7,2022,BRATS,Brain
+improved maximum margin clustering via the bundle method,10.1109/access.2019.2916724,2019,BRATS,Brain
+mri based glioma detection and classification into low-grade and high-grade gliomas,10.1109/icosst53930.2021.9683838,2021,BRATS,Brain
+segmentation of brain tumor from medical images with novel u-shaped encoder decoder architecture,10.1109/icai55435.2022.9773383,2022,BRATS,Brain
+coarse-to-fine learning framework for semi-supervised multimodal mri synthesis,10.1007/978-3-031-02444-3_28,2022,BRATS,Brain
+performance analysis for accuracy of various algorithms to detect and classify brain tumor using data mining,10.1007/978-981-19-0976-4_39,2022,BRATS,Brain
+research on feature detection based on convolutional network with deep instance segmentation,10.1109/icdsca53499.2021.9650185,2021,BRATS,Brain
+contemporary technique for detection of brain tumor in fluid-attenuated inversion recovery magnetic resonance imaging (mri) images,10.1007/978-981-16-9705-0_12,2022,BRATS,Brain
+a dimension hybrid framework for multimodal medical image segmentation,10.1109/iaecst54258.2021.9695597,2021,BRATS,Brain
+testing deep segmentation of computer tomography scans,10.1145/3405758.3405770,2020,BRATS,Brain
+analysis of mri data in diagnostic neuroradiology,10.1146/annurev-biodatasci-022620-015538,2020,BRATS,Brain
+accelerating towards larger deep learning models and datasets – a system platform view point,10.1109/ipdpsw50202.2020.00169,2020,BRATS,Brain
+the effect of spectral resolution upon the accuracy of brain tumor segmentation from multi-spectral mri data,10.1109/sami48414.2020.9108770,2020,BRATS,Brain
+semantic segmentation of brain tumor from 3d structural mri using u-net autoencoder,10.1109/icmlc51923.2020.9469580,2020,BRATS,Brain
+deep learning based brain tumor segmentation: recent updates,10.1007/978-981-19-1122-4_42,2022,BRATS,Brain
+high-resolution mr imaging using self-supervised parallel network,10.1117/12.2611614,2022,BRATS,Brain
+deep mutual gans: representation learning from multiple experts,10.1117/12.2612968,2022,BRATS,Brain
+deep reinforcement learning classification of brain tumors on mri,10.1007/978-981-19-3440-7_11,2022,BRATS,Brain
+segmentation of gliomas in magnetic resonance images using recurrent neural networks,10.1109/tsp.2019.8769056,2019,BRATS,Brain
+unsupervised anomaly detection in 3d brain mri using deep learning with impured training data,10.1109/isbi52829.2022.9761443,2022,BRATS,Brain
+multi-class brain tumor segmentation via 3d and 2d neural networks,10.1109/isbi52829.2022.9761538,2022,BRATS,Brain
+novel hybrid boosted ensemble learning framework for brain tumor prediction,10.23919/indiacom54597.2022.9763105,2022,BRATS,Brain
+artificial intelligence as applied to clinical neurological conditions,10.1016/b978-0-12-821259-2.00020-x,2021,BRATS,Brain
+artificial intelligence for management of patients with intracranial neoplasms,10.1016/b978-0-12-817133-2.00009-4,2020,BRATS,Brain
+segmentation on brain tumor mri images using convolution neural network (cnn),10.1109/icac3n53548.2021.9725676,2021,BRATS,Brain
+brain tumor segmentation from multi-spectral magnetic resonance image data using an ensemble learning approach,10.1109/smc42975.2020.9282987,2020,BRATS,Brain
+detecting cancer in gastrointestinal images using matlab,10.1109/icoei51242.2021.9452991,2021,BRATS,Brain
+lgmsu-net: local features global features and multi-scale features fused the u-shaped network for brain tumor segmentation,10.3390/electronics11121911,2022,BRATS,Brain
+brain multi-parametric mri tumor subregion segmentation via hierarchical substructural activation network,10.1117/12.2611809,2022,BRATS,Brain
+employing a hybrid technique to detect tumor in medical images,10.1109/mvip53647.2022.9738739,2022,BRATS,Brain
+radiologically defined tumor-habitat adjacency as a prognostic biomarker in glioblastoma,10.1109/embc46164.2021.9629779,2021,BRATS,Brain
+improving localization of brain tumors through 3d gan inpainting,10.1109/embc46164.2021.9630417,2021,BRATS,Brain
+learning to generate missing pulse sequence in mri using deep convolution neural network trained with visual turing test,10.1109/embc46164.2021.9630435,2021,BRATS,Brain
+whole tumor segmentation from brain mr images using multi-view 2d convolutional neural network,10.1109/embc46164.2021.9631035,2021,BRATS,Brain
+an automatic method for brain tumors segmentation based on deep convolutional neural network,10.1109/icmipe53131.2021.9698882,2021,BRATS,Brain
+glioma segmentation from multimodal mri using u-net convolutional neural networks,10.1109/aespc52704.2021.9708467,2021,BRATS,Brain
+perceptual variation stacking: test time augmentations in endoscopy image segmentation,10.1109/ivcnz54163.2021.9653349,2021,BRATS,Brain
+deep classification of glioma grade using 3d wavelet features,10.1109/iconat53423.2022.9725929,2022,BRATS,Brain
+brain tumor segmentation using deep infomax,10.1007/978-3-031-09002-8_22,2022,BRATS,Brain
+brain tumor segmentation in mpmri scans (brats-2021) using models based on u-net architecture,10.1007/978-3-031-09002-8_28,2022,BRATS,Brain
+a deep learning approach to glioblastoma radiogenomic classification using brain mri,10.1007/978-3-031-09002-8_31,2022,BRATS,Brain
+evaluating scale attention network for automatic brain tumor segmentation with large multi-parametric mri database,10.1007/978-3-031-09002-8_4,2022,BRATS,Brain
+brain tumor segmentation using two-stage convolutional neural network for federated evaluation,10.1007/978-3-031-09002-8_43,2022,BRATS,Brain
+lesion segmentation using entropy based membership,10.1109/iementech.2018.8465342,2018,BRATS,Brain
+deep learning-based contrast-enhanced mri using cascade networks with local supervision,10.1117/12.2611622,2022,BRATS,Brain
+a clifford analytic signal-based breast lesion segmentation method for 4d spatial-temporal dce-mri sequences,10.1109/access.2019.2962750,2020,BRATS,Brain
+brain tumor segmentation in multi-parametric magnetic resonance imaging using model ensembling and super-resolution,10.1007/978-3-031-09002-8_12,2022,BRATS,Brain
+the basic principles of machine learning,10.1007/978-3-031-00119-2_5,2022,BRATS,Brain
+fully-automatic segmentation of gliomas using mr images,10.1109/stcr51658.2021.9588847,2021,BRATS,Brain
+uncertainty-aware deep learning with cross-task supervision for phe segmentation on ct images,10.1109/jbhi.2021.3137603,2022,BRATS,Brain
+synthesis of annotated pathological retinal oct data with pathology-induced deformations,10.1117/12.2611126,2022,BRATS,Brain
+pet image harmonization using smoothing-cyclegan,10.1117/12.2611353,2022,BRATS,Brain
+is this good enough? on expert perception of brain tumor segmentation quality,10.1117/12.2611810,2022,BRATS,Brain
+do i know this? segmentation uncertainty under domain shift,10.1117/12.2611867,2022,BRATS,Brain
+prior image-based medical image reconstruction using a style-based generative adversarial network,10.1117/12.2612287,2022,BRATS,Brain
+decreased tissue stiffness in glioblastoma by mr elastography is associated with increased cerebral blood flow,10.1101/2021.06.11.21258742,2021,BRATS,Brain
+mr image super-resolution using multi-scale residual networks with regularization norm,10.12677/pm.2021.115104,2021,BRATS,Brain
+u-net model-based classification and description of brain tumor in mri images,10.1142/s0219467821400052,2021,BRATS,Brain
+synthesizing high‐resolution magnetic resonance imaging using parallel cycle‐consistent generative adversarial networks for fast magnetic resonance imaging,10.1002/mp.15380,2021,BRATS,Brain
+progressive attention module for segmentation of volumetric medical images,10.1002/mp.15369,2021,BRATS,Brain
+brain tumor segmentation of t1w mri images based on clustering using dimensionality reduction random projection technique,10.2174/1573405616666200712180521,2020,BRATS,Brain
+multiple organs segmentation in abdomen ct scans using a cascade of cnns,10.1007/978-3-030-30642-7_46,2019,Synapse,Multi-organ
+nnu-net: a self-configuring method for deep learning-based biomedical image segmentation,10.1038/s41592-020-01008-z,2020,Synapse,Multi-organ
+deep learning to segment pelvic bones: large-scale ct datasets and baseline models,10.1007/s11548-021-02363-8,2021,Synapse,Multi-organ
+endoscopic ultrasound image synthesis using a cycle-consistent adversarial network,10.1007/978-3-030-87583-1_17,2021,Synapse,Multi-organ
+multi-task federated learning for heterogeneous pancreas segmentation,10.1007/978-3-030-90874-4_10,2021,Synapse,Multi-organ
+evaluation of a hybrid pipeline for automated segmentation of solid lesions based on mathematical algorithms and deep learning,10.1038/s41598-022-18173-0,2022,Synapse,Multi-organ
+catenorm: categorical normalization for robust medical image segmentation,10.1007/978-3-031-16852-9_13,2022,Synapse,Multi-organ
+a pipeline for automated deep learning liver segmentation (padlls) from contrast enhanced ct exams,10.1038/s41598-022-20108-8,2022,Synapse,Multi-organ
+learning incrementally to segment multiple organs in a ct image,10.1007/978-3-031-16440-8_68,2022,Synapse,Multi-organ
+adversarial consistency for single domain generalization in medical image segmentation,10.1007/978-3-031-16449-1_64,2022,Synapse,Multi-organ
+joint multi organ and tumor segmentation from partial labels using federated learning,10.1007/978-3-031-18523-6_6,2022,Synapse,Multi-organ
