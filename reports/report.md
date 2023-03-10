@@ -7,16 +7,16 @@ N/A
 
 ## What did you achieve ?
 * Improve code to take in consideration OpenCitation Error 500
-* Semi-automatic extraction with dimensions.ai
+* Semi automated extraction with dimensions.ai
 * Search for the reason some reference are missing for some sources
-* Possible list of label to classify papers application
+* Possible list of labels to classify paper's application
 * Coverage comparison visualisation
 
 ## What did you struggle with ?
 * Instability and execution time when recovering venue of a paper during merging of sources
 
 ## What would you like to work on next week ?
-* Extraction of paper task
+* Extraction of paper's task
 
 ## Where do you need help from Veronika ?
 * Choose classification labels
