@@ -1,3 +1,31 @@
+# Date: 13 March 2023
+## Who did you help this week ?
+N/A
+
+## What helped you this week ?
+* https://grand-challenge.org/challenges/ and some survey papers to prepare classification labels
+
+## What did you achieve ?
+* Improve code to take in consideration OpenCitation Error 500
+* Semi-automatic extraction with dimensions.ai
+* Search for the reason some reference are missing for some sources
+* Possible list of label to classify papers application
+* Coverage comparison visualisation
+
+## What did you struggle with ?
+* Instability and execution time when recovering venue of a paper during merging of sources
+
+## What would you like to work on next week ?
+* Extraction of paper task
+
+## Where do you need help from Veronika ?
+* Choose classification labels
+* Confirm what to do next
+
+## Additional notes:
+
+---
+
 # Date: 06 March 2023
 ## Who did you help this week ?
 Show my code about OpenAlex and explained how it worked to Stinna Odgaard
