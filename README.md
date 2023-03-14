@@ -14,17 +14,35 @@ Refer to data/keys.csv for the complete description of each field of the differe
 3. paper.csv is the list of paper we want to extract values from.
 4. dataset_labels.csv is the list of possible keyword/label for a dataset
 5. dimension folder contains a csv for each dataset. Every file contains the list of citations exported from dimensions.ai
+6. keywords.csv is the list of word we search in paper abstract to classify the task
 
 ### Code:
 Each file starting with extract_papers is used to extract references information from a source. Each of them create a file in extracted_csv folder containing a line for each reference.
 
 Then fusion_sources is used to combined all the generated csv files together. 
 
+CoverageAnalysis is used to analyse the return papers of a sources and compare them
+
+taskExtraction is used to extract the task of a paper using its abstract by searching for keywords computed by looking at the most present words in paper referencing a specific dataset (e.g ACDC for cardiac segmentation task)
+
 ### Extracted_csv:
 Folder in which csv from API extraction will be stored
 
 ### Processed_csv:
 Folder in which csv produced with the processed data of the extraction will be stored (e.g the csv of the combination of sources will be here)
+
+---
+
+## Installation
+1. clone the project 
+```console
+git clone https://github.com/TheoSourget/DDSA_Sourget.git
+```
+2. install requirements
+```console
+cd DDSA_Sourget
+pip3 install -r requirements.txt
+```
 
 ---
 
