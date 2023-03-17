@@ -17,19 +17,33 @@ Refer to data/keys.csv for the complete description of each field of the differe
 6. keywords.csv is the list of word we search in paper abstract to classify the task
 
 ### Code:
-Each file starting with extract_papers is used to extract references information from a source. Each of them create a file in extracted_csv folder containing a line for each reference.
 
-Then fusion_sources is used to combined all the generated csv files together. 
+* references_extraction folder: Aim to extract the references of papers
 
-CoverageAnalysis is used to analyse the return papers of a sources and compare them
+    - Each file starting with extract_papers is used to extract references information from a source. Each of them create a file in extracted_csv folder containing a line for each reference.
 
-taskExtraction is used to extract the task of a paper using its abstract by searching for keywords computed by looking at the most present words in paper referencing a specific dataset (e.g ACDC for cardiac segmentation task)
+    - Then fusion_sources is used to combined all the generated csv files together. 
 
-### Extracted_csv:
+
+* task_classification folder: Aim to extract the task of a paper
+    - taskExtraction is used to extract the task of a paper using its abstract by searching for keywords computed by looking at the most present words in paper referencing a specific dataset (e.g ACDC for cardiac segmentation task) and creating the histogram of these keywords in an abstract to then apply one class classification technics
+    - OCRF is the implementation of One-Class Random Forest as described in https://hal.science/hal-00862706/document
+
+* other folder: Everything that doesn't fit in other folders (mostly analysis script)
+
+    * CoverageAnalysis is used to analyse the return papers of a sources and compare them
+
+### Results:
+This folder will contain the output of the different scripts
+* extracted_csv will store raw csv produced by references extraction script
+
+* processed_csv will store csv produced with the processed data of the reference extraction (e.g the csv of the combination of sources will be here)
+
+* classification will store output of script used to classify the task of a paper
 Folder in which csv from API extraction will be stored
 
-### Processed_csv:
-Folder in which csv produced with the processed data of the extraction will be stored (e.g the csv of the combination of sources will be here)
+* other will store output that doesn't fit into other categories
+
 
 ---
 
