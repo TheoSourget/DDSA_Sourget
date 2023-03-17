@@ -1,3 +1,30 @@
+# Date: 20 March 2023
+## Who did you help this week ?
+I showed code exemples and help Stinna to create the dynamic filter she needs to query OpenAlex
+
+## What helped you this week ?
+* different articles about One Class classification
+
+## What did you achieve ?
+* Extract keywords for ACDC based on frequency in abstract (+ TF-IDF with other task)
+* Generate histogram of keywords from an abstract
+* Implementation of One-Class Random Forest from https://hal.science/hal-00862706/document
+* Investigate the reason of histogram fill with 0 for paper that references ACDC
+* Search for One class classification technics (Parzen, SVM)
+
+## What did you struggle with ?
+* The sparse and very variable representation that results from the histogram of keywords makes the classification difficult
+
+## What would you like to work on next week ?
+* Maybe look deeper into the classification
+
+## Where do you need help from Veronika ?
+* Discuss about what to do next
+
+## Additional notes:
+
+---
+
 # Date: 13 March 2023
 ## Who did you help this week ?
 N/A
@@ -28,7 +55,7 @@ N/A
 
 # Date: 06 March 2023
 ## Who did you help this week ?
-Show my code about OpenAlex and explained how it worked to Stinna Odgaard
+Show my code about OpenAlex and explained how it worked to Stinna
 
 ## What helped you this week ?
 * Ahmet Akkoc git (https://github.com/madprogramer/PublicDatasets) to get ideas for the csv and also the general organisation of a project at the ITU
