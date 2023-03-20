@@ -13,12 +13,20 @@ random.seed(1907)
 np.random.seed(1907)
 
 """
-data: training data (only x as it's one class classification)
-nb_exemples : Number of training exemples taken randomly before training a DecisionTree (Bagging)
-nb_outlier : Number of outlier generated before training a Tree
-nb_classif: Number of tree in the forest
-nb_features_RSM : Number of feature taken randomly before training a DecisionTree (Random Subspace Method)
-nb_features_RFS : Number of feature taken randomly when growing a DecisionTree (Random Feature Selection)
+Implementation of One-Class Random Forest as described in https://hal.science/hal-00862706/document.
+This algorithm combine bagging, random subspace method and random feature selection to train a tree of the forest and
+generates outlier exemples using the histogram of values from the class we want to classify.
+
+@params:
+    - data: training data (only x as it's one class classification)
+    - nb_exemples : Number of training exemples taken randomly before training a DecisionTree (Bagging)
+    - nb_outlier : Number of outlier generated before training a Tree
+    - nb_classif: Number of tree in the forest
+    - nb_features_RSM : Number of feature taken randomly before training a DecisionTree (Random Subspace Method)
+    - nb_features_RFS : Number of feature taken randomly when growing a DecisionTree (Random Feature Selection)
+
+@return:
+    A list of tuples (DecisionTree,features selected with RSM)
 """
 def OCRF(train_data,nb_exemples,nb_outlier,nb_classif=200,nb_features_RSM=10,nb_features_RFS="sqrt"):
     lstModel = []
@@ -57,6 +65,16 @@ def OCRF(train_data,nb_exemples,nb_outlier,nb_classif=200,nb_features_RSM=10,nb_
         lstModel.append((current_model,selected_features))
     return lstModel
 
+"""
+Classify data using the Forest generated and trained with the algorithm above using Majority vote.
+
+@params:
+      - test_data: data we want to classify
+      - lstModel: the Random Forest used to classify as a list of tuple (DecisionTree,features selected with RSM)
+
+@return:
+    The list of prediction
+"""
 def decisionOCRF(test_data,lstModel):
     ensemblePrediction = []
     for model in lstModel:
@@ -90,5 +108,5 @@ if __name__ == "__main__":
 
 
     test_x = np.array([0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
-    test_x = normalize([test_x,test_x+0.1],axis=1)
+    test_x = normalize([test_x,test_x+10],axis=1)
     print(decisionOCRF(np.array(test_x),lstModel))
