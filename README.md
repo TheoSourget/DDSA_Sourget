@@ -26,7 +26,8 @@ Refer to data/keys.csv for the complete description of each field of the differe
 
 
 * task_classification folder: Aim to extract the task of a paper
-    - taskExtraction is used to extract the task of a paper using its abstract by searching for keywords computed by looking at the most present words in paper referencing a specific dataset (e.g ACDC for cardiac segmentation task) and creating the histogram of these keywords in an abstract to then apply one class classification technics
+    - create_dataset: Create dataset of abstract and task according to simple keywords (e.g cardiac, brain, acdc, etc...)
+    - taskExtraction/abstract_classification/bluebert_classif is used to extract the task of a paper using its abstract by searching for keywords computed by looking at the most present words in paper referencing a specific dataset (e.g ACDC for cardiac segmentation task) and creating the histogram of these keywords in an abstract to then apply one class classification technics
     - OCRF is the implementation of One-Class Random Forest as described in https://hal.science/hal-00862706/document
 
 * other folder: Everything that doesn't fit in other folders (mostly analysis script)
@@ -44,7 +45,8 @@ Folder in which csv from API extraction will be stored
 
 * other will store output that doesn't fit into other categories
 
-
+### Ressources:
+Papers, generated figures or scheme
 ---
 
 ## Installation

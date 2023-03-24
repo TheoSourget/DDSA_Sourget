@@ -1,4 +1,6 @@
+datasets==2.7.1
 doi2bib==0.4.0
+evaluate==0.3.0
 matplotlib==3.6.0
 nltk==3.8.1
 numpy==1.23.3
@@ -6,3 +8,5 @@ pandas==1.5.0
 requests==2.25.1
 scikit_learn==1.2.2
 seaborn==0.12.2
+transformers==4.25.1
+wordcloud==1.8.2.2
