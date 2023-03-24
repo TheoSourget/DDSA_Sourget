@@ -13,7 +13,7 @@ N/A
 * Presentation document of the project
 
 ## What did you struggle with ?
-* The first version of the dataset contained lot of paper referencing a dataset paper but not using it, solved by creating another dataset
+* The first version of the dataset contained lot of paper referencing a dataset paper but not using it, solved by creating another dataset which may be at the opposite "too simple"
 * My computer can't make BERT model run, solved by using colab
 
 ## What would you like to work on next week ?
