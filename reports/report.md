@@ -1,3 +1,31 @@
+# Date: 27 March 2023
+## Who did you help this week ?
+N/A
+
+## What helped you this week ?
+N/A
+
+## What did you achieve ?
+* Create dataset of abstract (2 versions)
+* Apply automatic keyword selection on abstract
+* Multi-class classification (Random Forest) on histogram of keywords
+* Try using blueBERT
+* Presentation document of the project
+
+## What did you struggle with ?
+* The first version of the dataset contained lot of paper referencing a dataset paper but not using it, solved by creating another dataset
+* My computer can't make BERT model run, solved by using colab
+
+## What would you like to work on next week ?
+* Documentation
+
+## Where do you need help from Veronika ?
+* Discuss about results and what do next
+
+## Additional notes:
+
+---
+
 # Date: 20 March 2023
 ## Who did you help this week ?
 I showed code exemples and help Stinna to create the dynamic filter she needs to query OpenAlex
