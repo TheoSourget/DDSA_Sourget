@@ -62,17 +62,17 @@ We have two version of the dataset, using different sources of papers
 # Possible Improvements
 1. Increase datasets/organs used (exemple from grand-challenge.org)
 
-| Anatomical Region | Anatomical structures              |
-|-------------------|------------------------------------|
-| Abdomen           | Colon,Kidney,Liver,Pancreas,Spleen |
-| Cardiac           | Heart                              |
-| Head and Neck     | Brain,Cranium,Retina,Teeth         |
-| Lower Limb        | Knee                               |
-| Pelvis            | Cervix, Prostate                   |
-| Skin              | Skin                               |
-| Spine             | Spinal Cord,Vertebral Column       |
-| Thorax            | Breast,Lung                        |
-| Upper Limb        | Hand                               |
+| Anatomical Region | Anatomical structures                     |
+|-------------------|-------------------------------------------|
+| Abdomen           | Colon,Kidney,Liver,Pancreas,Spleen        |
+| Cardiac           | <b>Heart</b>                              |
+| Head and Neck     | <b>Brain</b>,Cranium,Retina,Teeth         |
+| Lower Limb        | Knee                                      |
+| Pelvis            | Cervix, <b>Prostate</b>                   |
+| Skin              | Skin                                      |
+| Spine             | Spinal Cord,Vertebral Column              |
+| Thorax            | Breast,Lung                               |
+| Upper Limb        | Hand                                      |
 2. Make our custom dataset more difficult and complete
 3. Try to classify using full-text (figures/tables of results)
 
