@@ -57,11 +57,12 @@ We have two versions of the dataset, using different sources of papers
 ### Second version using papers tagged as "Segmentation" and "Machine Learning" by OpenAlex which cite an organ or a dataset in the abstract
 ![](../ressources/presentation_img/error_clean_dataset.png)
 
+The first version is not clean enough to be used to train a model and the second one seems too 'simple'. An in-between the two could be good.
 
 <div id="futur"/>
 
 # Possible Improvements
-1. Increase datasets/organs used (example from grand-challenge.org)
+1. Increase datasets/organs used (example from [grand-challenge.org](https://grand-challenge.org/challenges/))
 
 | Anatomical Region | Anatomical structures                     |
 |-------------------|-------------------------------------------|
