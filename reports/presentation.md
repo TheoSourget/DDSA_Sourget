@@ -27,6 +27,7 @@ Using a first selection of 5 papers, we have established a list of datasets to m
 ### Comparison of coverage:
 
 ![](../ressources/presentation_img/coverage_comparison.png)
+
 From this figure we showed that OpenAlex seems to be the more complete API so we used it for the rest of the project.
 
 ### Extraction of references results:
