@@ -28,7 +28,7 @@ Using a first selection of 5 papers, we have established a list of datasets to m
 
 ![](../ressources/presentation_img/coverage_comparison.png)
 
-From this figure we showed that OpenAlex seems to be the more complete API so we used it for the rest of the project.
+From this figure, we showed that OpenAlex seems to be the most complete API so we used it for the rest of the project.
 
 ### Extraction of references results:
 ![](../ressources/presentation_img/number_of_references.png)
@@ -43,15 +43,15 @@ From this figure we showed that OpenAlex seems to be the more complete API so we
 Instead of focusing on dataset, focus on task.
 To do so:
 1. Create a dataset of abstract and task associated
-2. Search for discriminative keywords in abstract (TF-IDF)
+2. Search for discriminative keywords in the abstracts (TF-IDF)
 3. Classify the histogram of keywords in new abstract using Random Forest
 
 To summarize, we have the following pipeline for the project:
 
 ![](../ressources/presentation_img/final_pipeline.png)
 
-We have two version of the dataset, using different sources of papers
-### First version of dataset using papers from references extraction 
+We have two versions of the dataset, using different sources of papers
+### First version using papers from reference extraction 
 ![](../ressources/presentation_img/error_bad_dataset.png)
 
 ### Second version using papers tagged as "Segmentation" and "Machine Learning" by OpenAlex which cite an organ or a dataset in the abstract
@@ -61,7 +61,7 @@ We have two version of the dataset, using different sources of papers
 <div id="futur"/>
 
 # Possible Improvements
-1. Increase datasets/organs used (exemple from grand-challenge.org)
+1. Increase datasets/organs used (example from grand-challenge.org)
 
 | Anatomical Region | Anatomical structures                     |
 |-------------------|-------------------------------------------|
