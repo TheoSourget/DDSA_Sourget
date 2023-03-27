@@ -14,7 +14,7 @@ Refer to data/keys.csv for the complete description of each field of the differe
 3. paper.csv is the list of paper we want to extract values from.
 4. dataset_labels.csv is the list of possible keyword/label for a dataset
 5. dimension folder contains a csv for each dataset. Every file contains the list of citations exported from dimensions.ai
-6. keywords.csv is the list of word we search in paper abstract to classify the task
+6. keywords.csv is the list of word we search in paper abstract to create the groundtruth for paper classification
 
 ### Code:
 
@@ -47,6 +47,7 @@ Folder in which csv from API extraction will be stored
 
 ### Ressources:
 Papers, generated figures or scheme
+
 ---
 
 ## Installation
@@ -69,13 +70,23 @@ pip3 install -r requirements.txt
 
 2.Execute fusion_source notebook to obtain the final csv (merged.csv).
 
+
+### Make the classification
+1. Update the dataset if wanted using code/task_classification/create_dataset.ipynb
+2. Train and test classifiers in code/task_classification/abstract_classification.ipynb
+
 ### Add new elements
-To add a new source, you just have to generate a csv file name paper_{name_of_your_source} with the following columns: 
-name,DOI,publication_year,dataset_used
+1. References extraction
 
-To add a new dataset in existing extraction with OpenAlex and OpenCitation, put in datasets.csv a new line with the dataset information
+    To add a new source to merge with other, you just have to generate a csv file name paper_{name_of_your_source} with the following columns: 
+    name,DOI,publication_year,dataset_used
 
-To add a new dataset with dimensions.ai, fusion all the exported files into a single file that respect the format of dimensions.ai (first line of the csv for query information and second line as csv header). The file should be named {name_of_dataset}.csv
+    To add a new dataset in existing extraction with OpenAlex and OpenCitation, put in datasets.csv a new line with the dataset information
+
+    To add a new dataset with dimensions.ai, fusion all the exported files into a single file that respect the format of dimensions.ai (first line of the csv for query information and second line as csv header). The file should be named {name_of_dataset}.csv
+
+2. Create the dataset
+    To add a new keyword to check in the abstracts, just add in data/keywords.csv a new line with (keyword,organ) and then launch the related cells in code/task_classification/create_dataset.ipynb
 
 ---
 ## Credits
