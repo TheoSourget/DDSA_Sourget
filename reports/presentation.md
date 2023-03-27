@@ -27,11 +27,11 @@ Using a first selection of 5 papers, we have established a list of datasets to m
 ### Comparison of coverage:
 
 ![](../ressources/presentation_img/coverage_comparison.png)
+From this figure we showed that OpenAlex seems to be the more complete API so we used it for the rest of the project.
 
 ### Extraction of references results:
 ![](../ressources/presentation_img/number_of_references.png)
 
-From this figure we showed that OpenAlex seems to be the more complete API so we used it for the rest of the project.
 
 ### Number of papers per organ:
 ![](../ressources/presentation_img/number_per_organ.png)
