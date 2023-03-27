@@ -66,9 +66,9 @@ pip3 install -r requirements.txt
 ## Usage
 
 ### Make the extraction
-1.Execute every extract_paper notebook to generate the references csv.
 
-2.Execute fusion_source notebook to obtain the final csv (merged.csv).
+1. Execute every extract_paper notebook to generate the references csv.
+2. Execute fusion_source notebook to obtain the final csv (merged.csv).
 
 
 ### Make the classification
