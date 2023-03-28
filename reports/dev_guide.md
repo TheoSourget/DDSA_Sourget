@@ -1,5 +1,5 @@
 # Developer guide
-This document is intented as a complement to ReadMe to show how to add new elements to the existing project.
+This document is intented as a complement to ReadMe to show how to add new elements to the existing project with more visuals.
 
 # Reference extraction
 ## Add a new paper/dataset to monitor:
@@ -40,17 +40,20 @@ Location             |  Content
 
 Location             |  Content
 :-------------------------:|:-------------------------:
-![](../resources/dev_guide_img/treeDDSA_abstractcsv.png)  |  ![](../resources/dev_guide_img/abstract.png)
+![](../resources/dev_guide_img/treeDDSA_createdataset.png)  |  ![](../resources/dev_guide_img/openalex_abstract_dataset.png)
 
-The result will be in results/extracted_csv/paper_openalex.csv
+The result will be in data/abstract_dataset
 
 Location             |  Content
 :-------------------------:|:-------------------------:
-![](../resources/dev_guide_img/treeDDSA_openalex.png)  |  ![](../resources/dev_guide_img/extracted.png)
+![](../resources/dev_guide_img/treeDDSA_abstractcsv.png)  |  ![](../resources/dev_guide_img/abstract.png)
 
 ## Using abstract:
 1. Rerun the following cells
 
+Location             |  Content
+:-------------------------:|:-------------------------:
+![](../resources/dev_guide_img/treeDDSA_createdataset.png)  |  ![](../resources/dev_guide_img/abstract_dataset.png)
 The result will be in data/abstract_dataset
 
 Location             |  Content
