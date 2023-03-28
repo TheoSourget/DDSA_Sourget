@@ -78,7 +78,7 @@ In this first version, we use the list obtained with references extraction to qu
 
 This dataset of abstract isn't well formed because some papers cite one of the dataset we monitor but are not using it so our dataset contains lot of false groundtruth
 
-We split the dataset into train and valid and obtain the following results with a RandomForest of 200 Decision Tree
+The dataset contains 4854 values that we split into train and valid and obtain the following results with a RandomForest of 200 Decision Tree
 
 ![](../resources/presentation_img/error_bad_dataset.png)
 
@@ -88,11 +88,11 @@ We can see that the Brain class, which is the majority class by far is classifie
 
 As the first dataset is not precise enough to get the groundtruth we try to create a second one. To do so, we query OpenAlex to get papers related to "Machine Learning" and "Segmentation" as a first filtering and then we check their abstract for simple keywords such as "Cardiac","Brain", "Prostate" and some datasets name such as "ACDC","BRATS" if a paper contains one of the word it is added to our dataset and the groundtruth depends on the words detected. Again if multiple words are detected a line per organ is created.
 
-We follow the same protocol as before to train a RandomForest and obtain the following results:
+This dataset containes more values than the first one, 10043 values. We follow the same protocol as before to train a RandomForest and obtain the following results:
 
 ![](../resources/presentation_img/error_clean_dataset.png)
 
-We can see that the results are way better and some errors are actually caused by paper focusing on multiple organs. However this dataset seems too "simple" because it gathered "obvious" exemples.
+We can see that the results are way better and some errors are actually caused by paper focusing on multiple organs. However, this dataset seems too "simple" because it gathered "obvious" exemples.
 
 ### Conclusion :
 
