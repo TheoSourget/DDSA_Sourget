@@ -36,9 +36,13 @@ Location             |  Content
 
 ## With OpenAlex references:
 1. (Optionnal) Rerun OpenAlex references extraction to update the list
-2. Rerun the following 2 cells to create the dataset
+2. Rerun the following 2 cells in code/task_classification/create_dataset.ipynb to create the dataset
 
-The result will be in results/extarcted_csv/paper_openalex.csv
+Location             |  Content
+:-------------------------:|:-------------------------:
+![](../resources/dev_guide_img/treeDDSA_abstractcsv.png)  |  ![](../resources/dev_guide_img/abstract.png)
+
+The result will be in results/extracted_csv/paper_openalex.csv
 
 Location             |  Content
 :-------------------------:|:-------------------------:
@@ -66,4 +70,8 @@ Location             |  Content
 The result will be at the same place
 
 # Classification
-To test the new 
+To run and test the classification of abstract launch the following cells in task_classification/abstract_classification.ipynb
+
+Location             |  Content
+:-------------------------:|:-------------------------:
+![](../resources/dev_guide_img/treeDDSA_classifier.png)  |  ![](../resources/dev_guide_img/train_classifier.png)
