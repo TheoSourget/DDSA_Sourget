@@ -54,6 +54,7 @@ Location             |  Content
 Location             |  Content
 :-------------------------:|:-------------------------:
 ![](../resources/dev_guide_img/treeDDSA_createdataset.png)  |  ![](../resources/dev_guide_img/abstract_dataset.png)
+
 The result will be in data/abstract_dataset
 
 Location             |  Content
