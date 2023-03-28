@@ -35,21 +35,21 @@ exemple of line:
 
 We can then compare the coverage of each API by looking at the amount of shared papers between two API, in this figure a paper is considered as shared if it's returned by two API (i.e if it references AT LEAST ONE of the datasets we monitor and even if it's not the same between the APIs)
 
-![](../ressources/presentation_img/coverage_comparison.png)
+![](../resources/presentation_img/coverage_comparison.png)
 
 From this figure, we showed that OpenAlex seems to be the most complete API so we used it for the rest of the project.
 
 ### Extraction of references results:
 We can use the previous reference extraction to compare the number of references of papers 
 
-![](../ressources/presentation_img/number_of_references.png)
+![](../resources/presentation_img/number_of_references.png)
 
 
 ### Number of papers per organ:
 
 We can also compute the number of paper focusing on an organ by looking in their abstract for keywords such as "cardiac","acdc" or "brain" (see below in the second version of the dataset for more information on the data)
 
-![](../ressources/presentation_img/number_per_organ.png)
+![](../resources/presentation_img/number_per_organ.png)
 
 <div id="classification"/>
 
@@ -62,7 +62,7 @@ To do so:
 
 To summarize, we have the following pipeline for the project:
 
-![](../ressources/presentation_img/final_pipeline.png)
+![](../resources/presentation_img/final_pipeline.png)
 
 We have two versions of the dataset, using different sources of papers. In both version, a line of the datasets if formatted as follow:
 
@@ -80,7 +80,7 @@ This dataset of abstract isn't well formed because some papers cite one of the d
 
 We split the dataset into train and valid and obtain the following results with a RandomForest of 200 Decision Tree
 
-![](../ressources/presentation_img/error_bad_dataset.png)
+![](../resources/presentation_img/error_bad_dataset.png)
 
 We can see that the Brain class, which is the majority class by far is classified well, but the two others present lot of errors with confusion as Brain
 
@@ -90,7 +90,7 @@ As the first dataset is not precise enough to get the groundtruth we try to crea
 
 We follow the same protocol as before to train a RandomForest and obtain the following results:
 
-![](../ressources/presentation_img/error_clean_dataset.png)
+![](../resources/presentation_img/error_clean_dataset.png)
 
 We can see that the results are way better and some errors are actually caused by paper focusing on multiple organs. However this dataset seems too "simple" because it gathered "obvious" exemples.
 
