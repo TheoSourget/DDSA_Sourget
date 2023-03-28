@@ -45,7 +45,7 @@ Folder in which csv from API extraction will be stored
 
 * other will store output that doesn't fit into other categories
 
-### Ressources:
+### Resources:
 Papers, generated figures or scheme
 
 ---
