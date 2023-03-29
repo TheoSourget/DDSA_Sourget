@@ -78,7 +78,7 @@ In this first version, we use the list obtained with references extraction to qu
 
 This dataset of abstract isn't well formed because some papers cite one of the dataset we monitor but are not using it so our dataset contains lot of false groundtruth
 
-The dataset contains 4854 values that we split into train and valid and obtain the following results with a RandomForest of 200 Decision Tree
+The dataset contains 3526 values that we split into train and valid and obtain the following results with a RandomForest of 200 Decision Tree
 
 ![](../resources/presentation_img/error_bad_dataset.png)
 
