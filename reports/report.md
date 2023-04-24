@@ -1,3 +1,28 @@
+# Date: ?
+
+## What helped you this week ?
+* N/A
+
+## What did you achieve ?
+* Idea of a process to get papers and detect wrong references (see /resources/flowchart/process.png)
+* Download fulltext + extract figures and tables from it
+* (Develop the website and fix some problems)
+
+## What did you struggle with ?
+* Not sure about the accuracy of tables extractions (figures seems good)
+
+## What would you like to work on next week ?
+* Continue on the detection of wrong references
+* Investigate evolution of performances over time and compare to number of citations
+
+## Where do you need help from Veronika ?
+* Discuss on the process
+* How to consider review paper ?
+
+## Additional notes:
+
+---
+
 # Date: 27 March 2023
 ## Who did you help this week ?
 N/A
@@ -23,6 +48,7 @@ N/A
 * Discuss about results and what do next
 
 ## Additional notes:
+* Final week of my visit 
 
 ---
 
