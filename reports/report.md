@@ -11,7 +11,7 @@
 ## What did you struggle with ?
 * Not sure about the accuracy of tables extractions (figures seems good)
 
-## What would you like to work on next week ?
+## What would you like to work on next ?
 * Continue on the detection of wrong references
 * Investigate evolution of performances over time and compare to number of citations
 
@@ -20,6 +20,7 @@
 * How to consider review paper ?
 
 ## Additional notes:
+* Idea for the website or another side project related: Track a research (as in the keyword section) or a paper (in citation section) and get an update every week/month of new papers in the research.
 
 ---
 
