@@ -5,6 +5,7 @@
 
 ## What did you achieve ?
 * Idea of a process to get papers and detect wrong references (see /resources/flowchart/process.png)
+* Filter paper by venues
 * Download fulltext + extract figures and tables from it
 * (Develop the website and fix some problems)
 
@@ -21,6 +22,8 @@
 
 ## Additional notes:
 * Idea for the website or another side project related: Track a research (as in the keyword section) or a paper (in citation section) and get an update every week/month of new papers in the research.
+
+*Idea from Juan Mateos-Garcia paper (A narrowing of AI research?): Private actors applications ?
 
 ---
 
