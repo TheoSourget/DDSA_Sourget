@@ -1,11 +1,11 @@
-# Date: ?
+# Date: 22 May 2023
 
 ## What helped you this week ?
 * N/A
 
 ## What did you achieve ?
 * Idea of a process to get papers and detect wrong references (see /resources/flowchart/process.png)
-* Filter paper by venues (/code/other/download_fulltext.ipynb)
+* Filter paper by venues [code/other/download_fulltext.ipynb](../code/other/download_fulltext.ipynb)
 * Download fulltext + extract figures and tables from it
 * (Develop the website and fix some problems)
 
@@ -14,16 +14,17 @@
 
 ## What would you like to work on next ?
 * Continue on the detection of wrong references
-* Investigate evolution of performances over time and compare to number of citations
+* look for evolution of performances over time and compare to number of citations
 
 ## Where do you need help from Veronika ?
 * Discuss on the process
 * How to consider review paper ?
 
 ## Additional notes:
-* Idea for the website or another side project related: Track a research (as in the keyword section) or a paper (in citation section) and get an update every week/month of new papers in the research.
+* Idea from Juan Mateos-Garcia paper [(A narrowing of AI research?)](https://arxiv.org/abs/2009.10385): Private actors applications ?
 
-* Idea from Juan Mateos-Garcia paper (A narrowing of AI research?): Private actors applications ?
+* Idea for the website or another side project: Track a research (as in the keyword section) or a paper (as in citation section) and get an update every week/month of new papers in the research.
+
 
 ---
 
