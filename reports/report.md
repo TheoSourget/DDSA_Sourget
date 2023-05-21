@@ -7,6 +7,7 @@
 * Idea of a process to get papers and detect wrong references (see /resources/flowchart/process.png)
 * Filter paper by venues [code/other/download_fulltext.ipynb](../code/other/download_fulltext.ipynb)
 * Download fulltext + extract figures and tables from it
+* Start to get groundtruth for downloaded fulltext
 * (Develop the website and fix some problems)
 
 ## What did you struggle with ?
@@ -17,8 +18,9 @@
 * look for evolution of performances over time and compare to number of citations
 
 ## Where do you need help from Veronika ?
-* Discuss on the process
+* Discuss on the "wrong" reference detection process
 * How to consider review paper ?
+* How to handle multiple versions of a dataset (like BRATS)
 
 ## Additional notes:
 * Idea from Juan Mateos-Garcia paper [(A narrowing of AI research?)](https://arxiv.org/abs/2009.10385): Private actors applications ?
