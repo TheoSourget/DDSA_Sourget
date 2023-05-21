@@ -4,7 +4,7 @@
 * N/A
 
 ## What did you achieve ?
-* Idea of a process to get papers and detect wrong references (see /resources/flowchart/process.png)
+* Idea of a process to get papers and detect wrong references (see [process.png](../resources/flowchart/process.png))
 * Filter paper by venues [code/other/download_fulltext.ipynb](../code/other/download_fulltext.ipynb)
 * Download fulltext + extract figures and tables from it
 * Start to get groundtruth for downloaded fulltext
