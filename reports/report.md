@@ -6,19 +6,19 @@
 ## What did you achieve ?
 * Finish going through papers to get groundtruth
 * Check false reference detection results
-* Get list of papers from MICCAI between 2013 and today
+* Get list of papers from MICCAI between 2013 and today + query openalex with it
 
 ## What did you struggle with ?
 * "LA" dataset
 
 ## What would you like to work on next ?
-* get statistics on cause of death
+* get Statistics on cause of death
 
 ## Where do you need help from Veronika ?
-* N/A
+* workshop/event/other? in conjunction  with MICCAI
+
 
 ## Additional notes:
-
 
 ---
 
