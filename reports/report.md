@@ -1,3 +1,27 @@
+# Date: 30 May 2023
+
+## What helped you this week ?
+* N/A
+
+## What did you achieve ?
+* Finish going through papers to get groundtruth
+* Check false reference detection results
+* Get list of papers from MICCAI between 2013 and today
+
+## What did you struggle with ?
+* "LA" dataset
+
+## What would you like to work on next ?
+* get statistics on cause of death
+
+## Where do you need help from Veronika ?
+* N/A
+
+## Additional notes:
+
+
+---
+
 # Date: 22 May 2023
 
 ## What helped you this week ?
