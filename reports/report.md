@@ -1,3 +1,27 @@
+# Date: 12 June 2023
+
+## What helped you this week ?
+* N/A
+
+## What did you achieve ?
+* Check if there was a problem with the query of openAlex with articles from MICCAI (no problem except for 1 article)
+* Apply false reference detection pipeline
+* Try the pymed library without success
+
+## What did you struggle with ?
+* Couldn't make much progress as I was mostly focused on my internship
+
+## What would you like to work on next ?
+* Reorganise/clean code and folders
+* Apply the same pipeline but as detection process (without filtering with reference field of OpenAlex before)
+* Get statistics on cause of death (Found some data but not really precise or exhaustive)
+
+## Where do you need help from Veronika ?
+
+
+## Additional notes:
+
+---
 # Date: 30 May 2023
 
 ## What helped you this week ?
