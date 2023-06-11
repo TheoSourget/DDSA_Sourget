@@ -1,0 +1,157 @@
+doi,title,dataset
+10.1007/978-3-031-16452-1_22,Addressing Class Imbalance in Semi-supervised Image Segmentation: A Study on Cardiac MRI.,ACDC
+10.1007/978-3-031-16431-6_56,Reinforcement Learning for Active Modality Selection During Diagnosis.,ACDC
+10.1007/978-3-031-16452-1_23,Scribble2D5: Weakly-Supervised Volumetric Image Segmentation via Scribble Annotations.,ACDC
+10.1007/978-3-031-16443-9_35,Joint Modeling of Image and Label Statistics for Enhancing Model Generalizability of Medical Image Segmentation.,ACDC
+10.1007/978-3-031-16431-6_51,Diffusion Deformable Model for 4D Temporal Medical Image Generation.,ACDC
+10.1007/978-3-031-16452-1_14,Semi-supervised Medical Image Segmentation Using Cross-Model Pseudo-Supervision with Shape Awareness and Local Context Constraints.,ACDC
+10.1007/978-3-031-16443-9_47,TransFusion: Multi-view Divergent Fusion for Medical Image Segmentation with Transformers.,ACDC
+10.1007/978-3-031-16443-9_23,PHTrans: Parallelly Aggregating Global and Local Representations for Medical Image Segmentation.,ACDC
+10.1007/978-3-031-16446-0_73,Optimal MRI Undersampling Patterns for Pathology Localization.,ACDC
+10.1007/978-3-031-16452-1_60,Why Patient Data Cannot Be Easily Forgotten?,ACDC
+10.1007/978-3-031-16443-9_51,The Dice Loss in the Context of Missing or Empty Labels: Introducing $\varPhi $ and ε.,ACDC
+10.1007/978-3-031-16443-9_4,Exploring Smoothness and Class-Separation for Semi-supervised Medical Image Segmentation.,ACDC
+10.1007/978-3-031-16452-1_16,ShapePU: A New PU Learning Framework Regularized by Global Consistency for Scribble Supervised Cardiac Segmentation.,ACDC
+10.1007/978-3-031-16452-1_51,Efficient Bayesian Uncertainty Estimation for nnU-Net.,ACDC
+10.1007/978-3-030-87193-2_8,Convolution-Free Medical Image Segmentation Using Transformers.,ACDC
+10.1007/978-3-030-87231-1_21,Universal Undersampled MRI Reconstruction.,ACDC
+10.1007/978-3-030-87199-4_39,Fairness in Cardiac MR Image Analysis: An Investigation of Bias Due to Data Imbalance in Deep Learning Based Segmentation.,ACDC
+10.1007/978-3-030-87193-2_29,Context-Aware Virtual Adversarial Training for Anatomically-Plausible Segmentation.,ACDC
+10.1007/978-3-030-87196-3_42,Tripled-Uncertainty Guided Mean Teacher Model for Semi-supervised Medical Image Segmentation.,ACDC
+10.1007/978-3-030-87199-4_35,Federated Contrastive Learning for Volumetric Medical Image Segmentation.,ACDC
+10.1007/978-3-030-87193-2_24,TEDS-Net: Enforcing Diffeomorphisms in Spatial Transformers to Guarantee Topology Preservation in Segmentations.,ACDC
+10.1007/978-3-030-87196-3_3,Deformed2Self: Self-supervised Denoising for Dynamic Medical Imaging.,ACDC
+10.1007/978-3-030-87196-3_21,Positional Contrastive Learning for Volumetric Medical Image Segmentation.,ACDC
+10.1007/978-3-030-87193-2_59,Hierarchical Self-supervised Learning for Medical Image Segmentation Based on Multi-domain Data Aggregation.,ACDC
+10.1007/978-3-030-59719-1_13,XCAT-GAN for Synthesizing 3D Consistent Labeled Cardiac MR Images on Anatomically Variable XCAT Phantoms.,ACDC
+10.1007/978-3-030-59719-1_17,Pay More Attention to Discontinuity for Medical Image Segmentation.,ACDC
+10.1007/978-3-030-59719-1_10,DeU-Net: Deformable U-Net for 3D Cardiac MRI Video Segmentation.,ACDC
+10.1007/978-3-030-59719-1_38,INSIDE: Steering Spatial Attention with Non-imaging Information in CNNs.,ACDC
+10.1007/978-3-030-59719-1_7,Efficient and Phase-Aware Video Super-Resolution for Cardiac MRI.,ACDC
+10.1007/978-3-030-59710-8_10,Have You Forgotten? A Method to Assess if Machine Learning Models Have Forgotten Data.,ACDC
+10.1007/978-3-030-59716-0_29,Biomechanics-Informed Neural Networks for Myocardial Motion Tracking in MRI.,ACDC
+10.1007/978-3-030-59719-1_77,SAUNet: Shape Attentive U-Net for Interpretable Medical Image Segmentation.,ACDC
+10.1007/978-3-030-59719-1_9,Deep Generative Model-Based Quality Control for Cardiac MRI Segmentation.,ACDC
+10.1007/978-3-030-59719-1_8,ImageCHD: A 3D Computed Tomography Image Dataset for Classification of Congenital Heart Disease.,ACDC
+10.1007/978-3-030-59725-2_42,Motion Pyramid Networks for Accurate and Efficient Cardiac Motion Estimation.,ACDC
+10.1007/978-3-030-32245-8_3,Unsupervised Quality Control of Image Segmentation Based on Bayesian Learning.,ACDC
+10.1007/978-3-030-32245-8_60,Self-Supervised Learning for Cardiac MR Image Segmentation by Anatomical Position Prediction.,ACDC
+10.1007/978-3-030-32251-9_72,Global and Local Interpretability for Cardiac MRI Classification.,ACDC
+10.1007/978-3-030-32245-8_83,Quality Control-Driven Image Segmentation Towards Reliable Automatic Image Analysis in Large-Scale Cardiovascular Magnetic Resonance Aortic Cine Imaging.,ACDC
+10.1007/978-3-030-32245-8_68,MSU-Net: Multiscale Statistical U-Net for Real-Time 3D Cardiac MRI Video Segmentation.,ACDC
+10.1007/978-3-031-16431-6_49,Decoupling Predictions in Distributed Learning for Multi-center Left Atrial MRI Segmentation.,LA
+10.1007/978-3-031-16443-9_4,Exploring Smoothness and Class-Separation for Semi-supervised Medical Image Segmentation.,LA
+10.1007/978-3-031-16452-1_46,FUSSNet: Fusing Two Sources of Uncertainty for Semi-supervised Medical Image Segmentation.,LA
+10.1007/978-3-030-87231-1_54,AtrialGeneral: Domain Generalization for Left Atrial Segmentation of Multi-center LGE MRIs.,LA
+10.1007/978-3-030-87196-3_28,Semi-supervised Left Atrium Segmentation with Mutual Consistency Training.,LA
+10.1007/978-3-030-87196-3_33,Reciprocal Learning for Semi-supervised Segmentation.,LA
+10.1007/978-3-031-16440-8_54,DeepRecon: Joint 2D Cardiac Segmentation and 3D Volume Reconstruction via a Structure-Specific Generative Method.,M&Ms
+10.1007/978-3-031-16452-1_49,Layer Ensembles: A Single-Pass Uncertainty Estimation in Deep Learning for Segmentation.,M&Ms
+10.1007/978-3-031-16443-9_47,TransFusion: Multi-view Divergent Fusion for Medical Image Segmentation with Transformers.,M&Ms
+10.1007/978-3-031-16443-9_25,Contrastive Re-localization and History Distillation in Federated CMR Segmentation.,M&Ms
+10.1007/978-3-031-16446-0_6,Embedding Gradient-Based Optimization in Image Registration Networks.,M&Ms
+10.1007/978-3-031-16452-1_51,Efficient Bayesian Uncertainty Estimation for nnU-Net.,M&Ms
+10.1007/978-3-030-87199-4_6,UTNet: A Hybrid Transformer Architecture for Medical Image Segmentation.,M&Ms
+10.1007/978-3-030-87196-3_29,Semi-supervised Meta-learning with Disentanglement for Domain-Generalised Medical Image Segmentation.,M&Ms
+10.1007/978-3-031-16443-9_15,MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation.,PROMISE12
+10.1007/978-3-031-16449-1_66,Estimating Model Performance Under Domain Shifts with Class-Specific Confidence Scores.,PROMISE12
+10.1007/978-3-031-16452-1_14,Semi-supervised Medical Image Segmentation Using Cross-Model Pseudo-Supervision with Shape Awareness and Local Context Constraints.,PROMISE12
+10.1007/978-3-031-16443-9_55,Atlas-Based Semantic Segmentation of Prostate Zones.,PROMISE12
+10.1007/978-3-031-16443-9_37,Learning Towards Synchronous Network Memorizability and Generalizability for Continual Segmentation Across Multiple Sites.,PROMISE12
+10.1007/978-3-030-87199-4_23,Domain Composition and Attention for Unseen-Domain Generalizable Medical Image Segmentation.,PROMISE12
+10.1007/978-3-030-87199-4_5,Group Shift Pointwise Convolution for Volumetric Medical Image Segmentation.,PROMISE12
+10.1007/978-3-030-87199-4_34,Federated Whole Prostate Segmentation in MRI with Personalized Neural Architectures.,PROMISE12
+10.1007/978-3-030-87193-2_29,Context-Aware Virtual Adversarial Training for Anatomically-Plausible Segmentation.,PROMISE12
+10.1007/978-3-030-87196-3_49,Bounding Box Tightness Prior for Weakly Supervised Image Segmentation.,PROMISE12
+10.1007/978-3-030-87196-3_42,Tripled-Uncertainty Guided Mean Teacher Model for Semi-supervised Medical Image Segmentation.,PROMISE12
+10.1007/978-3-030-87193-2_37,Comprehensive Importance-Based Selective Regularization for Continual Segmentation Across Multiple Sites.,PROMISE12
+10.1007/978-3-030-59710-8_38,MS-NAS: Multi-scale Neural Architecture Search for Medical Image Segmentation.,PROMISE12
+10.1007/978-3-030-00937-3_59,Deep Learning-Based Boundary Detection for Model-Based Segmentation with Application to MR Prostate Segmentation.,PROMISE12
+10.1007/978-3-030-00937-3_58,Inter-site Variability in Prostate Segmentation Accuracy Using Deep Learning.,PROMISE12
+10.1007/978-3-030-00928-1_87,Adversarial Deformation Regularization for Training Image Registration Neural Networks.,PROMISE12
+10.1007/978-3-319-46726-9_25,Multi-task Shape Regression for Medical Image Segmentation.,PROMISE12
+10.1007/978-3-319-24574-4_13,Statistical Power in Image Segmentation: Relating Sample Size to Reference Standard Quality.,PROMISE12
+10.1007/978-3-319-10404-1_99,3D Prostate TRUS Segmentation Using Globally Optimized Volume-Preserving Prior.,PROMISE12
+10.1007/978-3-031-16443-9_15,MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation.,I2CVB
+10.1007/978-3-031-16449-1_66,Estimating Model Performance Under Domain Shifts with Class-Specific Confidence Scores.,I2CVB
+10.1007/978-3-031-16446-0_46,Weakly Supervised MR-TRUS Image Synthesis for Brachytherapy of Prostate Cancer.,I2CVB
+10.1007/978-3-031-16443-9_37,Learning Towards Synchronous Network Memorizability and Generalizability for Continual Segmentation Across Multiple Sites.,I2CVB
+10.1007/978-3-030-87193-2_37,Comprehensive Importance-Based Selective Regularization for Continual Segmentation Across Multiple Sites.,I2CVB
+10.1007/978-3-319-66179-7_45,Synergistic Combination of Learned and Hand-Crafted Features for Prostate Lesion Classification in Multiparametric Magnetic Resonance Imaging.,I2CVB
+10.1007/978-3-319-46720-7_71,Image-Based Computer-Aided Diagnostic System for Early Diagnosis of Prostate Cancer.,I2CVB
+10.1007/978-3-031-16446-0_34,A Learnable Variational Model for Joint Multimodal MRI Reconstruction and Synthesis.,BRATS
+10.1007/978-3-031-16443-9_60,Survival Prediction of Brain Cancer with Incomplete Radiology Pathology Genomic and Demographic Data.,BRATS
+10.1007/978-3-031-16446-0_64,MRI Reconstruction by Completing Under-sampled K-space Data with Learnable Fourier Interpolation.,BRATS
+10.1007/978-3-031-16437-8_27,End-to-End Evidential-Efficient Net for Radiomics Analysis of Brain MRI to Predict Oncogene Expression and Overall Survival.,BRATS
+10.1007/978-3-031-16446-0_47,Domain-Adaptive 3D Medical Image Synthesis: An Efficient Unsupervised Approach.,BRATS
+10.1007/978-3-031-16446-0_38,AutoGAN-Synthesizer: Neural Architecture Search for Cross-Modality MRI Synthesis.,BRATS
+10.1007/978-3-031-16443-9_39,Evidence Fusion with Contextual Discounting for Multi-modality Medical Image Segmentation.,BRATS
+10.1007/978-3-031-16443-9_24,Learning Tumor-Induced Deformations to Improve Tumor-Bearing Brain MR Segmentation.,BRATS
+10.1007/978-3-031-16452-1_65,The Intrinsic Manifolds of Radiological Images and Their Role in Deep Learning.,BRATS
+10.1007/978-3-031-16446-0_67,FSE Compensated Motion Correction for MRI Using Data Driven Methods.,BRATS
+10.1007/978-3-031-16443-9_7,ACT: Semi-supervised Domain-Adaptive Medical Image Segmentation with Asymmetric Co-training.,BRATS
+10.1007/978-3-031-16446-0_45,DuDoCAF: Dual-Domain Cross-Attention Fusion with Recurrent Transformer for Fast Multi-contrast MR Imaging.,BRATS
+10.1007/978-3-031-16446-0_73,Optimal MRI Undersampling Patterns for Pathology Localization.,BRATS
+10.1007/978-3-031-16443-9_51,The Dice Loss in the Context of Missing or Empty Labels: Introducing $\varPhi $ and ε.,BRATS
+10.1007/978-3-031-16452-1_4,Diffusion Models for Medical Anomaly Detection.,BRATS
+10.1007/978-3-031-16443-9_14,NestedFormer: Nested Modality-Aware Transformer for Brain Tumor Segmentation.,BRATS
+10.1007/978-3-031-16443-9_56,Bayesian Pseudo Labels: Expectation Maximization for Robust and Efficient Semi-supervised Segmentation.,BRATS
+10.1007/978-3-031-16443-9_9,Stroke Lesion Segmentation from Low-Quality and Few-Shot MRIs via Similarity-Weighted Self-ensembling Framework.,BRATS
+10.1007/978-3-031-16443-9_11,mmFormer: Multimodal Medical Transformer for Incomplete Multimodal Learning of Brain Tumor Segmentation.,BRATS
+10.1007/978-3-031-16443-9_18,Modality-Adaptive Feature Interaction for Brain Tumor Segmentation with Missing Modalities.,BRATS
+10.1007/978-3-031-16452-1_48,TBraTS: Trusted Brain Tumor Segmentation.,BRATS
+10.1007/978-3-030-87240-3_23,ASC-Net: Adversarial-Based Selective Network for Unsupervised Anomaly Segmentation.,BRATS
+10.1007/978-3-030-87234-2_42,Modality Completion via Gaussian Process Prior Variational Autoencoders for Multi-modal Glioma Segmentation.,BRATS
+10.1007/978-3-030-87199-4_5,Group Shift Pointwise Convolution for Volumetric Medical Image Segmentation.,BRATS
+10.1007/978-3-030-87199-4_56,Orthogonal Ensemble Networks for Biomedical Image Segmentation.,BRATS
+10.1007/978-3-030-87196-3_4,Imbalance-Aware Self-supervised Learning for 3D Radiomic Representations.,BRATS
+10.1007/978-3-030-87196-3_51,Adapting Off-the-Shelf Source Segmenter for Target Medical Image Segmentation.,BRATS
+10.1007/978-3-030-87196-3_18,Implicit Field Learning for Unsupervised Anomaly Detection in Medical Images.,BRATS
+10.1007/978-3-030-87193-2_64,On the Relationship Between Calibrated Predictors and Unbiased Volume Estimation.,BRATS
+10.1007/978-3-030-87199-4_17,Harmonization with Flow-Based Causal Inference.,BRATS
+10.1007/978-3-030-87193-2_11,TransBTS: Multimodal Brain Tumor Segmentation Using Transformer.,BRATS
+10.1007/978-3-030-87193-2_13,Patch-Free 3D Medical Image Segmentation Driven by Super-Resolution Technique and Self-Supervised Guidance.,BRATS
+10.1007/978-3-030-87234-2_39,ACN: Adversarial Co-training Network for Brain Tumor Segmentation with Missing Modalities.,BRATS
+10.1007/978-3-030-87202-1_21,Multi-scale Neural ODEs for 3D Medical Image Registration.,BRATS
+10.1007/978-3-030-87231-1_15,Generator Versus Segmentor: Pseudo-healthy Synthesis.,BRATS
+10.1007/978-3-030-87193-2_56,Modality-Aware Mutual Learning for Multi-modal Medical Image Segmentation.,BRATS
+10.1007/978-3-030-59719-1_26,Robust Fusion of Probability Maps.,BRATS
+10.1007/978-3-030-59728-3_71,Automated Acquisition Planning for Magnetic Resonance Spectroscopy in Brain Cancer.,BRATS
+10.1007/978-3-030-59710-8_20,Learning Joint Shape and Appearance Representations with Metamorphic Auto-Encoders.,BRATS
+10.1007/978-3-030-59713-9_70,Flow-Based Deformation Guidance for Unpaired Multi-contrast MRI Image-to-Image Translation.,BRATS
+10.1007/978-3-030-59719-1_16,Suggestive Annotation of Brain Tumour Images with Gradient-Guided Sampling.,BRATS
+10.1007/978-3-030-59710-8_75,Knowledge Distillation from Multi-modal to Mono-modal Segmentation Networks.,BRATS
+10.1007/978-3-030-59719-1_47,Learning High-Resolution and Efficient Non-local Features for Brain Glioma Segmentation in MR Images.,BRATS
+10.1007/978-3-030-59710-8_49,Region-of-Interest Guided Supervoxel Inpainting for Self-supervision.,BRATS
+10.1007/978-3-030-59710-8_12,Feature Preserving Smoothing Provides Simple and Effective Data Augmentation for Medical Image Segmentation.,BRATS
+10.1007/978-3-030-59719-1_51,Universal Loss Reweighting to Balance Lesion Size Inequality in 3D Medical Image Segmentation.,BRATS
+10.1007/978-3-030-59719-1_49,Generation of Annotated Brain Tumor MRIs with Tumor-induced Tissue Deformations for Training and Assessment of Neural Networks.,BRATS
+10.1007/978-3-030-59710-8_42,Test-Time Unsupervised Domain Adaptation.,BRATS
+10.1007/978-3-030-59716-0_28,Detecting Pancreatic Ductal Adenocarcinoma in Multi-phase CT Scans via Alignment Ensemble.,BRATS
+10.1007/978-3-030-59713-9_19,Model-Driven Deep Attention Network for Ultra-fast Compressive Sensing MRI Guided by Cross-contrast MR Image.,BRATS
+10.1007/978-3-030-59710-8_18,Learning to Segment When Experts Disagree.,BRATS
+10.1007/978-3-030-32248-9_21,3D Dilated Multi-fiber Network for Real-Time Brain Tumor Segmentation in MRI.,BRATS
+10.1007/978-3-030-32245-8_3,Unsupervised Quality Control of Image Segmentation Based on Bayesian Learning.,BRATS
+10.1007/978-3-030-32248-9_48,A Partially Reversible U-Net for Memory-Efficient Volumetric Image Segmentation.,BRATS
+10.1007/978-3-030-32254-0_63,Combined Learning for Similar Tasks with Domain-Switching Networks.,BRATS
+10.1007/978-3-030-32245-8_9,Hetero-Modal Variational Encoder-Decoder for Joint Modality Completion and Segmentation.,BRATS
+10.1007/978-3-030-32248-9_18,CoCa-GAN: Common-Feature-Learning-Based Context-Aware Generative Adversarial Network for Glioma Grading.,BRATS
+10.1007/978-3-030-32248-9_27,High Resolution Medical Image Segmentation Using Data-Swapping Method.,BRATS
+10.1007/978-3-030-32248-9_20,Scribble-Based Hierarchical Weakly Supervised Learning for Brain Tumor Segmentation.,BRATS
+10.1007/978-3-030-32226-7_25,Integrating Cross-modality Hallucinated MRI with CT to Aid Mediastinal Lung Tumor Segmentation.,BRATS
+10.1007/978-3-030-32248-9_14,Generation of 3D Brain MRI Using Auto-Encoding Generative Adversarial Networks.,BRATS
+10.1007/978-3-030-32245-8_46,On the Applicability of Registration Uncertainty.,BRATS
+10.1007/978-3-030-32251-9_36,Image Data Validation for Medical Systems.,BRATS
+10.1007/978-3-030-32248-9_26,Unified Attentional Generative Adversarial Network for Brain Tumor Segmentation from Multimodal Unpaired Images.,BRATS
+10.1007/978-3-030-32251-9_46,Self-supervised Feature Learning for 3D Medical Images by Playing a Rubik&apos;s Cube.,BRATS
+10.1007/978-3-030-32251-9_32,Unsupervised Anomaly Localization Using Variational Auto-Encoders.,BRATS
+10.1007/978-3-030-00928-1_60,Distribution Matching Losses Can Hallucinate Features in Medical Image Translation.,BRATS
+10.1007/978-3-030-00931-1_57,Binary Glioma Grading: Radiomics versus Pre-trained CNN Features.,BRATS
+10.1007/978-3-030-00928-1_78,Towards Safe Deep Learning: Accurately Quantifying Biomarker Uncertainty in Neural Network Predictions.,BRATS
+10.1007/978-3-030-00931-1_74,Deep Recurrent Level Set for Segmenting Brain Tumors.,BRATS
+10.1007/978-3-030-00931-1_81,Adaptive Feature Recombination and Recalibration for Semantic Segmentation: Application to Brain Tumor Segmentation in MRI.,BRATS
+10.1007/978-3-030-00931-1_69,Autofocus Layer for Semantic Segmentation.,BRATS
+10.1007/978-3-319-66179-7_33,Scalable Multimodal Convolutional Networks for Brain Tumour Segmentation.,BRATS
+10.1007/978-3-319-66185-8_85,Data-Driven Rank Aggregation with Application to Grand Challenges.,BRATS
+10.1007/978-3-319-66185-8_49,Boundary-Aware Fully Convolutional Network for Brain Tumor Segmentation.,BRATS
+10.1007/978-3-319-66179-7_10,Liver Tissue Classification in Patients with Hepatocellular Carcinoma by Fusing Structured and Rotationally Invariant Context Representation.,BRATS
