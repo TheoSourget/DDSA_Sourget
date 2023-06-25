@@ -1,3 +1,25 @@
+# Date: 26 June 2023
+
+## What helped you this week ?
+* N/A
+
+## What did you achieve ?
+* Apply pipeline on MICCAI papers with new set of cardiac datasets
+* Check for different configurations (see [references_numbers.png](../resources/flowchart/references_numbers.png))
+
+## What did you struggle with ?
+
+
+## What would you like to work on next ?
+* Reorganise/clean code and folders
+* Look into CitationChaser github (https://github.com/nealhaddaway/citationchaser)
+
+## Where do you need help from Veronika ?
+
+
+## Additional notes:
+
+---
 # Date: 12 June 2023
 
 ## What helped you this week ?
