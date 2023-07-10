@@ -1,3 +1,25 @@
+# Date: 10 July 2023
+
+## What helped you this week ?
+* N/A
+
+## What did you achieve ?
+* Search for information about selected cardiac datasets (see [datasets_info.csv](../resources/datasets_info.csv))
+* Correct an error in STACOM dataset DOI (did not change the numbers)
+
+
+## What did you struggle with ?
+
+
+## What would you like to work on next ?
+* Reorganise/clean code and folders
+
+## Where do you need help from Veronika ?
+
+
+## Additional notes:
+
+---
 # Date: 26 June 2023
 
 ## What helped you this week ?

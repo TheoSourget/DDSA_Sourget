@@ -1,0 +1,6 @@
+name,DOI,Number of patients,Publication journal,Tasks,Number of center
+ACDC,10.1109/TMI.2018.2837502,150,IEEE Transactions on Medical Imaging,LV RV Myo Pathology,1
+sunnybrook,https://doi.org/10.54294/g80ruo,45,MIDAS Journal,LV Myo Pathology,1
+STACOM’11,10.1007/978-3-642-28326-0_9,200,STACOM Workshop,LV Myo,1
+RVSC,https://doi.org/10.1016/j.media.2014.10.004,48,Medical Image Analysis,RV,1
+M&Ms,10.1109/tmi.2021.3090082,375,IEEE Transactions on Medical Imaging,LV RV Myo,6
