@@ -1,0 +1,243 @@
+Software,Organ,Task,Modality,Segmentation
+IB Neuro,Brain,Stroke brain perfusion ,MR,?
+DeltaView Model 2.1,Chest,Pulmonary nodule,XRAY/MAM,?
+AlphaPoint Imaging Software,Lung,lung display,CT,True
+ClearRead +Confirm,Chest,Lines and tubes (chest),XRAY/MAM,False
+Lung Density Analysis,Lung,Lung density (COPD),CT,True
+Neuroreader,Brain,Brain anatomy ,MR,True
+Vitrea CT Lung Density Analysis Software,Lung,Lung density (COPD),CT,True
+Stroke VCAR,Brain,Intracranial hemorrhage ,CT,True
+CT CoPilot,Brain,Brain anatomy ,CT,True
+ClearView cCAD,Breast,Breast lesion characteristics ,US,False
+Arterys Cardio DL,Heart,Cardiac flow ,MR,?
+Lung Nodule Assessment and Comparison Option (LNA),Lung,Pulmonary nodule,CT,True
+QuantX,Breast,Breast lesion characteristics ,MR,True
+NeuroQuant,Brain,Brain anatomy ,MR,True
+LesionQuant,Brain,Brain anatomy ,MR,True
+CNeuro cMRI,Brain,Brain anatomy ,MR,True
+Insight BD,Breast,Breast density,XRAY/MAM,?
+Viz LVO (ContaCT),Brain,Intracranial large vessel occlusion,CT,True
+DM-Density,Breast,Breast density,XRAY/MAM,?
+Quantib Brain,Brain,"Brain anatomy ,Brain white matter hyperintensities ",MR,True
+Viz CTP,Brain,Stroke brain perfusion ,CT,?
+OsteoDetect,Wrist,Wrist fracture,XRAY/MAM,True
+LungQ,Lung,Lung density (COPD),CT,True
+HealthCCS,Coronary Arteries,Coronary calcification ,CT,?
+EchoMD Automated Ejection Fraction Software,Left Ventricle,Cardiac flow ,US,False
+DenSeeMammo,Breast,Breast density,XRAY/MAM,False
+Vitrea CT Brain Perfusion,Brain,Stroke brain perfusion ,CT,?
+SubtlePET,Brain,PET image denoising ,"PET,CT,MR",False
+FerriSmart Analysis System,Liver,Liver iron deposition ,MR,False
+MRCP+ v1.0,"Abdomen,Liver",Bile Duct Display,MR,True
+cmTriage,Breast,Breast lesion characteristics ,XRAY/MAM,?
+Thoracic VCAR with GSI Pulmonary Perfusion,Lung,lung display,CT,True
+Bone Vcar,Spine,Spine display ,CT,?
+BriefCase- ICH and PE triage,Pulmonary Arteries,"Intracranial hemorrhage ,Pulmonary embolism ",CT,False
+LungVision System,Lung,Surgical Planning,CT,True
+HealthPNX,Lung,Pneumothorax,XRAY/MAM,False
+BriefCase- CSF triage,Cervical Spine,Cervical spine fracture,CT,False
+HealthICH,Brain,Intracranial hemorrhage ,CT,False
+ClariCT.AI,"Head,Chest,Heart,Abdomen",Image Quality improvement,CT,False
+DeepCT,Brain,Intracranial hemorrhage ,CT,False
+iNtuition-Structural Heart Module,Heart,Cardiac measurements,"PET,CT,MR",True
+Critical Care Suite,Lung,Pneumothorax,XRAY/MAM,False
+D2P,All,Surgical Planning,"CT,MR",True
+StoneChecker,Kidney,Kidney stone,CT,True
+ProFound AI Software V2.1,Breast,Breast lesion characteristics ,XRAY/MAM,True
+KOALA,Knee,Knee osteoarthritis ,XRAY/MAM,False
+RSI-MRI+,Prostate,Prostate tissue,MR,True
+HealthCXR,Lung,Pleural effusion ,XRAY/MAM,False
+PhantomMSK Trauma,All,Surgical Planning,XRAY/MAM,False
+QyScore Software,Brain,Brain anatomy ,MR,
+icobrain,Brain,Brain anatomy ,MR,
+BriefCase- LVO,Brain,Intracranial large vessel occlusion,CTA,
+AutoMIStar,Brain,Stroke brain perfusion ,"CT,MR",
+densitas densityai,Breast,Breast density,XRAY/MAM,
+Advanced Intelligent Clear-IQ Engine (AiCE),All,Image Quality improvement,CT,
+red dot,Lung,Pneumothorax,XRAY/MAM,
+icobrain-ctp,Brain,Stroke brain perfusion ,CT,
+Broncholab,Lung,Lung density (COPD),CT,
+Al-Rad Companion (Musculoskeletal),Spine,"Spine display ,Vascular measurement",CT,
+Hepatic VCAR,Liver,Liver display,CT,
+AIMI-Triage CXR PTX,Lung,Pneumothorax,XRAY/MAM,
+CuraRad-ICH,Brain,Intracranial hemorrhage ,CT,
+NinesAI,Brain,Intracranial hemorrhage ,CT,
+HealthVCF,Spine,Vertebral fracture,CT,
+MEDO ARIA,Hip,Hip dysplasia,US,
+Auto 3D Bladder Volume Tool,Bladder,Bladder volume,US,
+qER,Brain,Intracranial hemorrhage ,CT,
+BriefCase-IFG,Abdomen,Pneumoperitoneum,CT,
+Rapid ASPECTS,Brain,Intracranial large vessel occlusion,CT,
+InferRead Lung CT.AI,Lung,Pulmonary nodule,CT,
+Deep Recon,All,Image Quality improvement,XRAY/MAM,
+HealthMammo,Breast,Breast lesion characteristics ,XRAY/MAM,
+FractureDetect (FX),"Upper Extremity,Lower Extremity",Wrist fracture,XRAY/MAM,
+AI-Rad Companion Prostate MR,Prostate,Prostate tissue,MR,
+VIDA|vision,Lung,Lung density (COPD),CT,
+Accipiolx,Brain,Intracranial hemorrhage ,CT,
+Aview 2.0,"Lung,Heart",Lung density (COPD),CT,
+AVA (Augmented Vascular Analysis),Coronary Arteries,Vascular measurement,US,
+Caption Guidance,Heart,Image acquisition ,US,
+THINQ,Brain,Brain anatomy ,MR,
+Cleerly Labs V2.0,Coronary Arteries,Coronary artery display ,"CT,CTA",
+Syngo.CT Neuro Perfusion,Brain,Stroke brain perfusion ,CT,
+AVIEW LCS,Lung,Pulmonary nodule,CT,
+Liver Surface Nodularity (LSN),Liver,Liver Surface Nodularity,CT,
+WRDensity,Breast,Breast density,XRAY/MAM,
+"FastStroke, CT Perfusion 4D",Brain,Stroke brain perfusion ,CT,
+PROView,Prostate,Prostate tissue,MR,
+CorInsights MRI,Brain,Brain anatomy ,MR,
+HealthJOINT,Knee,Knee osteoarthritis ,XRAY/MAM,
+Deep Learning Image Reconstruction for Gemstone Spectral Imaging Overview,All,Image Quality improvement,CT,
+SQuEEZ Software,Heart,Cardiac measurements,CT,
+EchoGo Pro,Heart,Cardiac flow ,US,
+AI Metrics,"Chest,Abdomen,Pelvis","Lesion measurement,Comparison","CT,MR",
+Hepatica,Liver,Liver display,MR,
+uAI EasyTriage-Rib,Chest,Rib fracture ,CT,
+Visage Breast Density,Breast,Breast density,XRAY/MAM,
+qp-Prostate,Prostate,Prostate tissue,MR,
+Veolity,Chest,Pulmonary nodule,CT,
+NinesMeasure,Chest,Pulmonary nodule,CT,
+"Optellum Virtual Nodule Clinic, Optellum Software, Optellum Platform",Lung,Pulmonary nodule,CT,
+Imbio RV/LV Software,Heart,Cardiac measurements,CT,
+Viz ICH,Brain,Intracranial hemorrhage ,CT,
+syngo.CT Lung CAD (VD20),Lung,Pulmonary nodule,CT,
+Saige-Q,Breast,Breast lesion characteristics ,XRAY/MAM,
+Preview Shoulder,Upper Extremity,Surgical Planning,CT,
+MEDO- Thyroid,Thyroid,Thyroid nodule,US,
+Overjet Dental Assist,Teeth,Mesial and distal bone,XRAY/MAM,
+CINA CHEST,"Pulmonary Arteries,Aorta",Pulmonary embolism ,CT,
+Transpara 1.7.0,Breast,Breast lesion characteristics ,XRAY/MAM,
+HALO,Brain,Intracranial large vessel occlusion,CT,
+PowerLook Density Assessment Software V4.0,Breast,Breast density,XRAY/MAM,
+Change Healthcare Anatomical AI,All,Anatomic descriptors,"CT,MR",
+Volpara Imaging Software,Breast,Breast density,XRAY/MAM,
+Us2.v1,Heart,Cardiac measurements,US,
+qER-Quant,Brain,Brain anatomy ,CT,
+InferRead CT Stroke.AI,Brain,Intracranial hemorrhage ,CT,
+Brain Perfusion (BP) application,Brain,Stroke brain perfusion ,CT,
+Rbknee,Knee,Knee osteoarthritis ,XRAY/MAM,
+Lung Image Analysis (LIA),Chest,lung display,CT,
+AmCAD-UT,Thyroid,Thyroid nodule,US,
+HealthCCSng,Coronary Arteries,Calcified plaques,CT,
+Brainance MD,Brain,Brain anatomy ,MR,
+StrokeSENS LVO,Brain,Intracranial large vessel occlusion,CT,
+FlightPlan for Liver,Liver,Liver display,XRAY/MAM,
+Critical Care Suite with Endotracheal Tube Positioning AI Algorithm,Chest,Lines and tubes (chest),XRAY/MAM,
+Hura CTP v1.0,Brain,Brain anatomy ,CT,
+GIQuant,Abdomen,Abdomen Display,MR,
+Lunit INSIGHT CXR Triage,Chest,"Pleural effusion ,Pneumothorax",XRAY/MAM,
+Lunit INSIGHT MMG,Breast,Breast lesion characteristics ,XRAY/MAM,
+OnQ Neuro,Brain,Brain anatomy ,MR,
+MammoScreen 2.0,Breast,Breast lesion characteristics ,XRAY/MAM,
+Lvivo Seamless V2.0,"Heart,Head",Ejection Fraction ,US,
+HealthPPT,Chest,Pneumoperitoneum ,XRAY/MAM,
+Vbrain,Brain,Intracranial neoplasm segmentation (RT),MR,
+Koios DS,"Breast,Thyroid","Breast lesion characteristics ,BI-RADS ,Thyroid nodule",US,
+EchoGo Core (2.0),Heart,Cardiac flow ,US,
+qXR-BT,Chest,Breathing Tube,XRAY/MAM,
+BU-CAD,Breast,"Breast lesion characteristics ,BI-RADS ",US,
+Claritas iPET,Brain,PET image denoising ,"PET,CT,MR",
+LiverSmart,Liver,"Liver iron deposition ,Fatty liver ",MR,
+UNiD Spine Analyzer,Spine,Surgical Planning,"CT,MR,XRAY/MAM",
+Quantib ND,Brain,Brain anatomy ,MR,
+Eclipse II with Smart Noise Cancellation,All,Image Quality improvement,XRAY/MAM,
+Follicle Clarity Software,Ovaries,Ovarian follicles,US,
+Caption Interpretation Automated Ejection Fraction Software,Heart,Cardiac flow ,US,
+syngo.CT Brain Hemorrhage,Brain,Intracranial hemorrhage ,CT,
+"Viz Aneurysm, Viz ANX",Brain,Aneurysm,CT,
+Annalise Enterprise CXR Triage Pneumothorax,Chest,Pneumothorax,XRAY/MAM,
+Syngo.CT Applications,All,Cardiac measurements,MR,
+ClearRead Xray Pneumothorax,Chest,Pneumothorax,XRAY/MAM,
+BriefCase- Ptx,Chest,Pneumothorax,XRAY/MAM,
+Arterys MICA,Heart,Cardiac measurements,MR,
+ClariPulmo,Chest,"Pneumonia,COVID-19",CT,
+AI-Rad Companion Brain MR,Brain,Brain anatomy ,MR,
+HealthOST,Spine,"Spine display ,Vascular measurement",CT,
+BriefCase- iPE triage,Pulmonary Arteries,Pulmonary embolism ,CT,
+Liver Suite,Liver,LI-RADS,CT,
+Saige-DX,Breast,Breast lesion characteristics ,XRAY/MAM,
+Syngo.CT CaScoring,Heart,Coronary calcification ,CT,
+Rapid PE Triage and Notification (PETN),Pulmonary Arteries,Pulmonary embolism ,CT,
+BriefCase-ICH,Brain,Intracranial hemorrhage ,CT,
+SwiftMR,"Brain,Spine,Upper Extremity,Lower Extremity",Brain anatomy ,MR,
+Rapid LVO,Brain,Intracranial large vessel occlusion,CTA,
+Rayvolve,Lower Extremity,Fracture,XRAY/MAM,
+BriefCase-M1-LVO,Brain,Intracranial large vessel occlusion,CTA,
+CoLumbo,Spine,Spine display ,MR,
+ProstatID,Prostate,PI-RADS,MR,
+BrainInsight,Brain,Brain anatomy ,MR,
+Viz SDH,Head,Subdural hemorrhage,CT,
+cvi42 Auto Imaging Software Application,Heart,"Coronary artery display ,Calcium Scoring","CT,MR",
+ClearPoint Maestro Brain Model,Brain,Brain anatomy ,MR,
+AI-Rad Companion (Pulmonary),Lung,Lung density (COPD),CT,
+TeraRecon Neuro,Brain,Stroke brain perfusion ,"CT,MR",
+BriefCase-PE,Chest,Pulmonary embolism ,CT,
+Viz RV/LV,Heart,Cardiac measurements,CT,
+DrAid for Radiology v1,Chest,Pneumothorax,XRAY/MAM,
+LiverMultiScan v5,Liver,Liver display,MR,
+RapidICH,Brain,Intracranial hemorrhage ,CT,
+NS-Hglio,Head,High-grade brain glioma,MR,
+BriefCase-AD,Chest,Aortic Dissection,CT,
+CogNet QmTRIAGE,Breast,Breast lesion characteristics ,XRAY/MAM,
+QIR Suite,Heart,Cardiac flow ,MR,
+BriefCase- CTA,Brain,Aneurysm,CTA,
+HeartFlow Analysis,Coronary Arteries,Coronary flow (FFR),CT,
+Spine CAMP,Spine,Spine display ,XRAY/MAM,
+AI-Rad Companion (Musculoskeletal),Spine,"Spine display ,Vascular measurement",CT,
+IntraOpVSP Software Device,Head,Brain anatomy ,CT,
+uMR Omega with uWS-MR-MRS,Head,Brain anatomy ,MR,
+Stage,Brain,Brain anatomy ,MR,
+EFAI ChestSuite XR Pleural Effusion Assessment System,Chest,Pleural effusion ,XRAY/MAM,
+BriefCase- ETT,Chest,Malpositioned Endotracheal Tube (ETT),XRAY/MAM,
+Cina,Brain,"Intracranial hemorrhage ,Intracranial large vessel occlusion",CT,
+Avenda Health AI Prostate Cancer Planning Software,Prostate,Prostate tissue,MR,
+AccuCTP,Brain,Tissue Flow,CT,
+Spotlight Duo,Heart,Cardiac measurements,CT,
+ClearRead CT,Lung,Pulmonary nodule,CT,
+BriefCase - CT,"Chest,Abdomen",Vertebral fracture,CT,
+Swoop Portable MR Imaging System,Head,Brain anatomy ,MR,
+Saige-Density,Breast,Breast density,XRAY/MAM,
+Philips CT 3500,"Head,Heart",Calcium Scoring,CT,
+"Vitrea Software Package, VSTP-002A",Brain,Brain anatomy ,CT,
+PerfusionGo Plus,Brain,Stroke brain perfusion ,CT,
+Clarius AI,Lower Extremity,Tendon thickness measurements,US,
+QOCA image Smart CXR Image Processing System,Lung,Pneumothorax,XRAY/MAM,
+Rapid RV/LV,Heart,Cardiac measurements,CT,
+LVivo IQS,Heart,Cardiac measurements,US,
+BriefCase-RibFx,Chest,Rib fracture ,CT,
+Videa Perio Assist,Teeth,Mesial and distal bone,XRAY/MAM,
+BoneMRI,Brain,Brain anatomy ,CT,
+Brainomix 360 e-ASPECTS,Brain,Stroke brain perfusion ,CT,
+RealNow,Brain,Brain anatomy ,CT,
+AVIEW Lung Nodule CAD,Chest,Pulmonary nodule,CT,
+Advantis Platform,"Brain,Prostate",Brain anatomy ,MR,
+Rapid NCCT Stroke,Head,"Intracranial hemorrhage ,Intracranial large vessel occlusion",CT,
+BoneView 1.1-US,"Upper Extremity,Lower Extremity",Fracture,XRAY/MAM,
+CoverScan,"Heart,Lung,Liver,Spleen,Pancreas,Kidney",lung display,MR,
+Spectral Bone Marrow,"Upper Extremity,Lower Extremity",Bone Marrow,CT,
+Viz AAA,Abdomen,Aortic aneursym,CTA,
+FlightPlan for Embolization,All,Vascular measurement,XRAY/MAM,
+MPXA-2000,Heart,Coronary artery display ,XRAY/MAM,
+Annalise Enterprise CXR Triage Trauma- Vertebral Compression Fracture,Chest,Vertebral fracture,XRAY/MAM,
+Annalise Enterprise CXR Triage Trauma,Chest,"Pleural effusion ,Pneumoperitoneum",XRAY/MAM,
+Emory Cardiac ToolboxTM 4.3,Heart,Coronary calcification ,CT,
+Annalise Enterprise CTB Triage Trauma,Brain,Subdural hemorrhage,CT,
+AI-Rad Companion (Cardiovascular),"Coronary Arteries,Aorta","Coronary calcification ,Aortic aneursym",CT,
+CerebralGo Plus,Brain,Stroke brain perfusion ,CTA,
+Quantib Prostate,Prostate,Prostate tissue,MR,
+Deep Learning Image Reconstruction,All,Image Quality improvement,CT,
+ViewFinder Software Version 1.1,Breast,Breast Cancer,XRAY/MAM,
+iCAC Device,Coronary Arteries,Calcified plaques,CT,
+Neurophet AQUA,Brain,Brain anatomy ,MR,
+SubtleMR (2.3.x),"Brain,Spine,Neck,Lower Extremity",Image Quality improvement,MR,
+iTFlow,Heart,"Coronary artery display ,Calcium Scoring","CT,MR",
+Autoplaque 3.0,Coronary Arteries,Calcified plaques,CTA,
+Genius AI Detection 2.0 with CC-MLO Correlation,Breast,Breast density,XRAY/MAM,
+ADAS 3D,Heart,Cardiac measurements,"MR,CT",
+Critical Care Suite with Pneumothorax Detection AI Algorithm,Chest,Pneumothorax,XRAY/MAM,
+CAC Software,Coronary Arteries,Calcified plaques,CT,
+IB Lab LAMA,Lower Extremity,Leg length discrepancy,XRAY/MAM,
+HepaFatSmart (V2.0.0),Liver,Fatty liver ,MR,
+Bladder AI (AIBV01),Bladder,Bladder volume ,US,
+Pixyl.Neuro,Brain,Brain anatomy ,MR,
